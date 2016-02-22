@@ -1,0 +1,2033 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-06-02 09:59-0000\n"
+"PO-Revision-Date: 2015-06-02 10:00-0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8\n"
+"Language: en\n"
+
+#: View/Elements/discussion.ctp:21
+msgid "Discussion"
+msgstr "ディスカッション"
+
+#: View/Elements/discussion.ctp:35 View/Elements/Comments/comment.ctp:56
+msgid "Your comment"
+msgstr "あなたのコメント"
+
+#: View/Elements/discussion.ctp:36
+msgid "Comment"
+msgstr "コメント"
+
+#: View/Elements/discussion.ctp:43
+msgid "Order by date"
+msgstr "日付順"
+
+#: View/Elements/footer.ctp:11 View/Pages/contact.ctp:9
+#: View/Pages/press.ctp:81
+msgid "Contact"
+msgstr "コンタクト"
+
+#: View/Elements/footer.ctp:14
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: View/Elements/footer.ctp:17 View/Mobile/terms.ctp:10
+msgid "Terms"
+msgstr "条件"
+
+#: View/Elements/footer.ctp:20
+msgid "Privacy"
+msgstr "プライバシー"
+
+#: View/Elements/footer.ctp:23
+msgid "Press"
+msgstr "プレス"
+
+#: View/Elements/movement_tile.ctp:21
+msgid "by"
+msgstr "によって"
+
+#: View/Elements/movement_tile.ctp:45 View/Elements/Movements/sidebar.ctp:150
+msgid "Under Review"
+msgstr "検討中"
+
+#: View/Elements/movement_tile.ctp:53
+msgid "Unsuccessful"
+msgstr "不成功"
+
+#: View/Elements/movement_tile.ctp:69
+msgid "%"
+msgstr "％"
+
+#: View/Elements/movement_tile.ctp:70
+msgid "SUPPORTED"
+msgstr "SUPPORTED"
+
+#: View/Elements/movement_tile.ctp:74
+msgid "DAY TO GO"
+msgstr "GO TO DAY"
+
+#: View/Elements/movement_tile.ctp:74
+msgid "DAYS TO GO"
+msgstr "GO TO DAYS"
+
+#: View/Elements/movement_tile.ctp:83
+msgid "Design Phase"
+msgstr "設計段階"
+
+#: View/Elements/movement_tile.ctp:91 View/Movements/launch.ctp:13
+msgid "Launch Phase"
+msgstr "打ち上げ段階"
+
+#: View/Elements/movement_tile.ctp:99
+msgid "Available to Download"
+msgstr "ダウンロード可能"
+
+#: View/Elements/navigation.ctp:16;22 View/Mobile/about.ctp:10
+msgid "About"
+msgstr "約"
+
+#: View/Elements/navigation.ctp:17;23
+msgid "Start"
+msgstr "スタート"
+
+#: View/Elements/navigation.ctp:18;24 View/Movements/index.ctp:10
+#: View/Previews/colour.ctp:41 View/Previews/geolocation_map.ctp:96
+#: View/Previews/geolocation_venue.ctp:41
+msgid "Discover"
+msgstr "ディスカバー"
+
+#: View/Elements/navigation.ctp:19
+msgid "Activity"
+msgstr "アクティビティ"
+
+#: View/Elements/navigation.ctp:25 View/Elements/Modals/auth_modal.ctp:16;77
+#: View/Users/login.ctp:10;30
+msgid "Login"
+msgstr "ログイン"
+
+#: View/Elements/navigation.ctp:26 View/Elements/Modals/auth_modal.ctp:15
+#: View/Users/register.ctp:44
+msgid "Register"
+msgstr "登録"
+
+#: View/Elements/navigation.ctp:27 View/Elements/Modals/auth_modal.ctp:47
+msgid "Create Account"
+msgstr "アカウントを作成します"
+
+#: View/Elements/phasebar.ctp:36 View/Movements/overview.ctp:21
+msgid "Support"
+msgstr "サポート"
+
+#: View/Elements/phasebar.ctp:41 View/Movements/overview.ctp:22
+msgid "Design"
+msgstr "デザイン"
+
+#: View/Elements/phasebar.ctp:46 View/Movements/overview.ctp:23
+msgid "Launch"
+msgstr "打ち上げ"
+
+#: View/Elements/phasebar.ctp:58
+msgid "Help %s by supporting this movement."
+msgstr "ヘルプ%sこの動きをサポートすることによって。"
+
+#: View/Elements/phasebar.ctp:66
+msgid "Work with %s and other supporters to design the app."
+msgstr "と協力して%sアプリを設計し、他のサポーター。"
+
+#: View/Elements/phasebar.ctp:73
+msgid "Download the app from the App Store for free!"
+msgstr "無料でApp Storeからアプリをダウンロード！"
+
+#: View/Elements/Banners/video_banner.ctp:3
+msgid "Watch the introduction video"
+msgstr "紹介ビデオを見ます"
+
+#: View/Elements/Comments/comment.ctp:44;57
+msgid "Reply"
+msgstr "返信"
+
+#: View/Elements/Contributions/colour.ctp:15;42
+#: View/Elements/Tasks/colour.ctp:56
+msgid "Primary Colour"
+msgstr "プライマリカラー"
+
+#: View/Elements/Contributions/colour.ctp:16;43
+#: View/Elements/Tasks/colour.ctp:66
+msgid "Pin Colour"
+msgstr "ピンカラー"
+
+#: View/Elements/Contributions/colour.ctp:17;44
+#: View/Elements/Tasks/colour.ctp:76
+msgid "Star Colour"
+msgstr "スターカラー"
+
+#: View/Elements/Contributions/colour.ctp:18;45
+msgid "Preview"
+msgstr "プレビュー"
+
+#: View/Elements/Contributions/location.ctp:50
+msgid "Open at User's Location"
+msgstr "ユーザの位置で開きます"
+
+#: View/Elements/Modals/auth_modal.ctp:9
+#: View/Elements/Modals/download_modal.ctp:9
+msgid "Close"
+msgstr "クローズ"
+
+#: View/Elements/Modals/auth_modal.ctp:28 View/Users/edit.ctp:23
+#: View/Users/register.ctp:23
+msgid "Your Name"
+msgstr "あなたの名前"
+
+#: View/Elements/Modals/auth_modal.ctp:28 View/Users/register.ctp:23
+msgid "Full Name"
+msgstr "フルネーム"
+
+#: View/Elements/Modals/auth_modal.ctp:32
+#: View/Elements/Modals/feedback_modal.ctp:15 View/Users/edit.ctp:31
+#: View/Users/register.ctp:31
+msgid "Email Address"
+msgstr "電子メールアドレス"
+
+#: View/Elements/Modals/auth_modal.ctp:36;66 View/Users/edit.ctp:35
+#: View/Users/login.ctp:26 View/Users/register.ctp:35
+msgid "Password"
+msgstr "パスワード"
+
+#: View/Elements/Modals/auth_modal.ctp:40
+msgid "By creating an account means you agree to our %s and %s"
+msgstr "アカウントを作成することにより、あなたが私たちに同意を意味する%sと%s"
+
+#: View/Elements/Modals/auth_modal.ctp:62 View/Users/login.ctp:24
+msgid "Username / Email"
+msgstr "ユーザー名/ Eメール"
+
+#: View/Elements/Modals/auth_modal.ctp:62 View/Users/display_users.ctp:35
+#: View/Users/edit.ctp:27 View/Users/login.ctp:24 View/Users/register.ctp:27
+msgid "Username"
+msgstr "ユーザー名"
+
+#: View/Elements/Modals/auth_modal.ctp:70
+msgid "Forgotten your password? %s to reset it."
+msgstr "パスワードを忘れましたか？ %sそれをリセットします。"
+
+#: View/Elements/Modals/auth_modal.ctp:70
+msgid "Click here"
+msgstr "ここをクリック"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:8
+msgid "Report Contribution"
+msgstr "レポートの貢献"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:10
+msgid ""
+"Check the option below and click submit if you think this contribution is:"
+msgstr "以下にオプションをチェックして、この寄与があると思われる場合は[送信]をクリックします："
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:12
+msgid "Abusive / Offensive"
+msgstr "虐待/攻撃"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:13
+msgid "Copyright Infringement"
+msgstr "著作権侵害"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:14
+msgid "Spam"
+msgstr "スパム"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:16
+msgid "Please select an option above"
+msgstr "上記のオプションを選択してください"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:19
+#: View/Elements/Modals/feedback_modal.ctp:23
+#: View/Elements/Tasks/colour.ctp:93
+msgid "Submit"
+msgstr "提出します"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:20
+#: View/Elements/Modals/feedback_modal.ctp:22
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: View/Elements/Modals/download_modal.ctp:12
+msgid "Download"
+msgstr "ダウンロード"
+
+#: View/Elements/Modals/download_modal.ctp:14
+msgid ""
+"This app has been successfully supported and designed by the community and "
+"is now available on the app stores."
+msgstr "このアプリが正常にサポートされ、コミュニティによって設計され、現在アプリストアで提供されてきました。"
+
+#: View/Elements/Modals/download_modal.ctp:16
+msgid "Please click one of the buttons below to download this app for free."
+msgstr "無料でこのアプリをダウンロードするには、以下のいずれかのボタンをクリックしてください。"
+
+#: View/Elements/Modals/feedback_modal.ctp:10
+msgid "Submit Feedback"
+msgstr "フィードバックを送信"
+
+#: View/Elements/Modals/feedback_modal.ctp:12
+msgid ""
+"Got some feedback for us? Is something not working? We’d love to hear your "
+"suggestions. Please leave us a message in the box below."
+msgstr "私たちのためにいくつかのフィードバックを得ましたか。何かが機能していませんか？私たちはあなたの提案を聞いてみたいです。下のボックスに私達にメッセージを残してください。"
+
+#: View/Elements/Modals/feedback_modal.ctp:18
+msgid "Enter your comment here"
+msgstr "ここにコメントを入力してください"
+
+#: View/Elements/Modals/promote_modal.ctp:10
+msgid "Start promoting this movement"
+msgstr "この運動を推進開始"
+
+#: View/Elements/Modals/promote_modal.ctp:12
+msgid ""
+"Share the link below anywhere you like to start promoting this app movement "
+"and earning influence for the design phase!"
+msgstr "あなたは、このアプリの動きを促進し、設計段階のために影響を稼ぐ開始したい任意の場所に以下のリンクを共有！"
+
+#: View/Elements/Modals/promote_modal.ctp:27 View/Movements/start.ctp:223;243
+msgid "Done"
+msgstr "終わりました"
+
+#: View/Elements/Modals/support_modal.ctp:9;36
+msgid "Confirm Support"
+msgstr "サポートを確認して"
+
+#: View/Elements/Modals/support_modal.ctp:10
+msgid ""
+"Supporting %s's idea simply involves clicking the support button below. You "
+"can also help design the app after the movement reaches its target."
+msgstr "支援%s 'sのアイデアは、単に次のサポートボタンをクリックすることを含みます。また、運動がそのターゲットに到達した後、アプリの設計を支援することができます。"
+
+#: View/Elements/Modals/support_modal.ctp:14
+msgid "Stay up to date"
+msgstr "最新のものにします"
+
+#: View/Elements/Modals/support_modal.ctp:15
+msgid "Receive email notifications with progress updates."
+msgstr "進捗状況で電子メール通知を受信します。"
+
+#: View/Elements/Modals/support_modal.ctp:19
+msgid "Get access to the design area"
+msgstr "デザイン領域へのアクセスを取得"
+
+#: View/Elements/Modals/support_modal.ctp:20
+msgid "Submit ideas and vote on other people's suggestions."
+msgstr "アイデアを送信し、他の人の提案に投票。"
+
+#: View/Elements/Modals/support_modal.ctp:24
+msgid "Download the app for free"
+msgstr "無料でアプリをダウンロード"
+
+#: View/Elements/Modals/support_modal.ctp:25
+msgid "Once it has been designed by the community and generated by us."
+msgstr "それは、コミュニティによって設計され、私達によって生成された後。"
+
+#: View/Elements/Movements/action_button.ctp:11;17
+msgid "Supported"
+msgstr "サポート"
+
+#: View/Elements/Movements/action_button.ctp:15;57
+msgid "Support Idea"
+msgstr "サポートアイデア"
+
+#: View/Elements/Movements/action_button.ctp:28
+msgid "Help Design"
+msgstr "ヘルプデザイン"
+
+#: View/Elements/Movements/action_button.ctp:32;64
+msgid "View Design"
+msgstr "ビューの設計"
+
+#: View/Elements/Movements/action_button.ctp:41;71
+msgid "View Progress"
+msgstr "見る進捗"
+
+#: View/Elements/Movements/action_button.ctp:48;78
+#: View/Movements/launch.ctp:70
+msgid "Download App"
+msgstr "アプリをダウンロード"
+
+#: View/Elements/Movements/notification_banner.ctp:27
+msgid "Movement was unsuccessful"
+msgstr "移動に失敗しました"
+
+#: View/Elements/Movements/sidebar.ctp:12
+msgid "Movement Creator"
+msgstr "移動クリエーター"
+
+#: View/Elements/Movements/sidebar.ctp:20
+msgid "Supporters"
+msgstr "サポーター"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporter"
+msgstr "サポーター"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporters"
+msgstr "サポーター"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "day to go"
+msgstr "どこへ行く日"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "days to go"
+msgstr "どこへ行く日"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "day launching"
+msgstr "日の進水"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "days launching"
+msgstr "起動日"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "person shared"
+msgstr "共有者"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "people shared"
+msgstr "人々が共有します"
+
+#: View/Elements/Movements/sidebar.ctp:114
+msgid "This Movement has been fully supported!"
+msgstr "この動きは、完全にサポートされています！"
+
+#: View/Elements/Movements/sidebar.ctp:122
+msgid "more supporters to hit the target."
+msgstr "目標を達成するために、よりサポーター。"
+
+#: View/Elements/Movements/sidebar.ctp:134
+msgid "Movements with 5 or more supporters cannot be edited."
+msgstr "5以上の支持者との動きを編集することはできません。"
+
+#: View/Elements/Movements/sidebar.ctp:144
+msgid ""
+"This movement did not gather enough support to progress to the design phase."
+msgstr "この動きは、設計段階に進行するのに十分な支持を集めるしませんでした。"
+
+#: View/Elements/Movements/sidebar.ctp:153 View/Movements/view.ctp:157
+msgid "Post Update"
+msgstr "ポストを更新"
+
+#: View/Elements/Movements/sidebar.ctp:158 View/Movements/edit.ctp:17
+msgid "Edit Movement"
+msgstr "編集ムーブメント"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:13
+msgid "Congratulations! Your App is Now Available!"
+msgstr "おめでとう！あなたのアプリが利用可能になりました！"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:15
+msgid ""
+"%s has now been fully designed by the %s supporting members of the community "
+"and has been generated! Click below to download the app."
+msgstr "%s完全にによって設計されている%sコミュニティの支持部材と、生成されています！アプリをダウンロードするには、以下をクリックしてください。"
+
+#: View/Elements/Notifications/created_movement.ctp:11
+msgid "You started a Movement"
+msgstr "あなたは運動を開始しました"
+
+#: View/Elements/Notifications/created_movement.ctp:13
+msgid ""
+"You have successfully created your movement - %s - and it is now visible to "
+"the public. It is now up to you to gather <strong>%s people</strong> in the "
+"next <strong>%s days.</strong>"
+msgstr "-あなたが正常に動作作成した%s -そしてそれは今公衆に表示されます。これは、<strong>を収集するのはあなた次第になりました%s次の<strong>の</ strong>の人々 %s日を。</強いです>"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:8
+#: View/Tasks/landing.ctp:40 View/Tasks/view.ctp:43
+msgid "Design Phase Complete"
+msgstr "設計フェーズの完全な"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:10
+msgid "%s has now completed the design phase."
+msgstr "%s今設計フェーズを完了しました。"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:12
+msgid ""
+"The next stage for your Movement is the launch phase where we will generate "
+"your app based on the results from the design process. We will submit it to "
+"the app store and notify you and other supporters when it is ready to "
+"download. You can track the progress of the app through the various stages "
+"of its launch by clicking the link below."
+msgstr "あなたの移動のための次の段階は、我々は、設計プロセスの結果に基づいて、あなたのアプリケーションが生成されます打ち上げ段階です。我々は、アプリケーションストアに提出して、ダウンロードする準備ができたとき、あなたや他の支援者に通知します。あなたは、以下のリンクをクリックして、その打ち上げの様々な段階を経て、アプリの進行状況を追跡することができます。"
+
+#: View/Elements/Notifications/movement_failed.ctp:13
+msgid "Movement was Unsuccessful"
+msgstr "移動に失敗しました"
+
+#: View/Elements/Notifications/movement_failed.ctp:15
+msgid ""
+"<strong>%s people</strong> supported the idea of creating an app for %s. "
+"Unfortunately this time you missed our target of %s and will not be taken "
+"forward into the design phase."
+msgstr "の<strong> %s人</ strong>のためのアプリケーション作成のアイデアサポート%s 。残念ながら、この時間は、あなたが私たちの目標逃し%sし、設計段階に進めれることはありません。"
+
+#: View/Elements/Notifications/movement_update.ctp:13
+#: View/Elements/Notifications/new_promoters.ctp:12
+#: View/Elements/Notifications/new_supporters.ctp:12
+msgid "%s days"
+msgstr "%s日"
+
+#: View/Elements/Notifications/movement_update.ctp:15
+msgid "%s has posted an update"
+msgstr "%s更新を投稿しました"
+
+#: View/Elements/Notifications/new_promoters.ctp:14
+msgid " Shared Movement"
+msgstr "共有ムーブメント"
+
+#: View/Elements/Notifications/new_supporters.ctp:14
+msgid " New Supporters"
+msgstr "新しいサポーター"
+
+#: View/Elements/Notifications/no_activity.ctp:11
+msgid "Keep Sharing!"
+msgstr "共有をしてください！"
+
+#: View/Elements/Notifications/no_activity.ctp:13
+msgid ""
+"It is really important that you continue to share this Movement in order to "
+"reach the goal of %s supporters!"
+msgstr "それはあなたが目標に到達するためにこの運動を共有し続けることが非常に重要である%sサポーター！"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:9
+msgid "Movement Supported"
+msgstr "移動はサポートされています"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:11
+msgid ""
+"Congratulaions! %s has gathered over <strong>%s supporters.</strong> You can "
+"now access the <strong>design phase</strong> where you can contribute and "
+"vote on ideas. Click below to get started."
+msgstr "Congratulaions！ %s <strong>のオーバー集めている%sサポーターを。</ strong>のあなたは今、あなたはアイデアに貢献して投票することができます</ strong>の<strong>の設計フェーズにアクセスすることができます。開始するには下記をクリックしてください。"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:14
+msgid "View Design Phase"
+msgstr "ビュー設計フェーズ"
+
+#: View/Elements/Notifications/supported_movement.ctp:11
+msgid "You supported a Movement"
+msgstr "あなたは運動をサポート"
+
+#: View/Elements/Notifications/supported_movement.ctp:13
+msgid ""
+"You have supported %s. It is now up to you to gather <strong>%s people</"
+"strong> in the next <strong>%s days</strong>."
+msgstr "あなたはサポートされている%s 。これは、<strong>を収集するのはあなた次第になりました%s次の<strong>の</ strong>の人々 %s </ strong>の日を。"
+
+#: View/Elements/Notifications/supported_movement.ctp:15
+msgid "What happens next?"
+msgstr "次に何が起こりますか？"
+
+#: View/Elements/Notifications/supported_movement.ctp:17
+msgid ""
+"You will <strong>receive updates</strong> about the progress of this "
+"movement via email. If the Movement is successful you will be exclusively "
+"invited to the design phase where you can help shape the design of the app."
+msgstr "あなたは<strong>の電子メールを介してこの運動の進行状況に関する更新</ strong>]を受信します。運動が成功した場合は、排他的にあなたがアプリのデザインを形作ることができ、設計フェーズに招待されます。"
+
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "Take a look at our %s section for more"
+msgstr "私たちを見てみてください%s多くのためのセクションを"
+
+#: View/Elements/Notifications/welcome.ctp:3
+msgid "Welcome to App Movement"
+msgstr "アプリ運動へようこそ"
+
+#: View/Elements/Notifications/welcome.ctp:5
+msgid ""
+"Welcome to your dashboard, from here you can manage your profile and receive "
+"updates on the movements you start as well as those that you show an "
+"interest in. Be sure to check back regularly to keep up to date."
+msgstr "ダッシュボードへようこそ、ここからあなたのプロファイルを管理し、作業を開始するだけでなく、あなたが興味を示しているものの動きの最新情報を受け取ることができます。最新に保つために定期的に確認してください。"
+
+#: View/Elements/Notifications/welcome.ctp:7
+msgid "All the best, Our Team."
+msgstr "すべてのベスト、私たちのチーム。"
+
+#: View/Elements/Tasks/colour.ctp:47 View/Elements/Tasks/logo.ctp:26
+#: View/Elements/Tasks/name.ctp:29 View/Elements/Tasks/options.ctp:41
+msgid "Suggest"
+msgstr "提案します"
+
+#: View/Elements/Tasks/logo.ctp:39 View/Elements/Tasks/name.ctp:43
+#: View/Elements/Tasks/options.ctp:55
+msgid "Submit Idea"
+msgstr "アイデアを提出します"
+
+#: View/Elements/Tasks/marker.ctp:13
+msgid "Preview colour"
+msgstr "プレビュー色"
+
+#: View/Elements/Updates/movement_update.ctp:58
+msgid "Update shared"
+msgstr "更新共有"
+
+#: View/Errors/error400.ctp:10 View/Errors/error500.ctp:10
+#: View/Errors/missing_controller.ctp:10
+msgid "Error"
+msgstr "エラー"
+
+#: View/Errors/error400.ctp:18 View/Errors/error500.ctp:18
+#: View/Errors/missing_controller.ctp:18
+#: View/Users/admin.ctp:268;269;270;271;292;316;317
+msgid "Something went wrong!"
+msgstr "何かが間違っていました！"
+
+#: View/Errors/error400.ctp:19 View/Errors/error500.ctp:19
+#: View/Errors/missing_controller.ctp:19
+msgid "We couldn't find what you were looking for!"
+msgstr "私たちは、あなたが探していたものを見つけることができませんでした！"
+
+#: View/Errors/error400.ctp:23 View/Errors/error500.ctp:23
+#: View/Errors/missing_controller.ctp:23
+msgid "Take me home"
+msgstr "家まで連れて帰ってください"
+
+#: View/Generate/marker_maker.ctp:41
+msgid "Generate Random Pin"
+msgstr "ランダムピンの生成"
+
+#: View/Generate/geolocation/listing.ctp:1
+msgid "%s was designed by an engaged community on the App Movement website."
+msgstr "%sアプリ運動のウェブサイトに係合コミュニティによって設計されました。"
+
+#: View/Generate/geolocation/listing.ctp:3
+msgid ""
+"It provides a simple and convenient way to discover places and leave "
+"reviews. Helping you to rate places by the following important categories:"
+msgstr "それは場所を発見し、レビューを残すために、簡単で便利な方法を提供します。次の重要なカテゴリ別の場所を評価することを助けます。"
+
+#: View/Generate/geolocation/listing.ctp:14
+msgid "Please visit appmovement.com to start your movement today."
+msgstr "今日のあなたの移動を開始するappmovement.comをご覧ください。"
+
+#: View/Layouts/default.ctp:30 View/Layouts/stripped.ctp:30
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile app. No "
+"expertise are required just a touch of determination and a great idea!"
+msgstr "アプリの移動は、誰もが、デザインを提案し、モバイルアプリを開発することができます。いいえ専門知識が決定し、素晴らしいアイデアだけのタッチを必要としません！"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+msgid "community"
+msgstr "コミュニティ"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+msgid "crowd commissioning"
+msgstr "群衆の試運転"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+msgid "crowd sourcing"
+msgstr "クラウドソーシング"
+
+#: View/Mobile/about.ctp:29
+msgid "This app allows anyone to rate and review locations on the map."
+msgstr "このアプリは、誰もが地図上の位置を評価して確認できます。"
+
+#: View/Mobile/about.ctp:31
+msgid "Anyone can share a review and post an image for others to see."
+msgstr "誰もがレビューを共有し、他のユーザーに表示する画像を投稿することができます。"
+
+#: View/Mobile/about.ctp:33
+msgid "You can view your reviews on your profile page."
+msgstr "あなたのプロフィールページにあなたのレビューを見ることができます。"
+
+#: View/Movements/edit.ctp:31 View/Movements/start.ctp:66
+msgid "Title"
+msgstr "タイトル"
+
+#: View/Movements/edit.ctp:34 View/Movements/start.ctp:69
+msgid "Movement Title"
+msgstr "ムーブメントタイトル"
+
+#: View/Movements/edit.ctp:37 View/Movements/start.ctp:72
+msgid "Give your movement a clear and catchy title."
+msgstr "あなたの動き明確かつキャッチーなタイトルを付けます。"
+
+#: View/Movements/edit.ctp:43 View/Movements/start.ctp:78
+msgid "Short Description"
+msgstr "簡単な説明"
+
+#: View/Movements/edit.ctp:46
+msgid "Movement Description"
+msgstr "動きの説明"
+
+#: View/Movements/edit.ctp:49 View/Movements/start.ctp:84
+msgid "A short summary of the movement that will be visible across the site."
+msgstr "サイト全体で表示されます運動の短い要約。"
+
+#: View/Movements/edit.ctp:55 View/Movements/start.ctp:90
+#: View/Users/display_users.ctp:33
+msgid "Photo"
+msgstr "フォト"
+
+#: View/Movements/edit.ctp:61;198;216 View/Movements/start.ctp:96;328;346
+msgid "Choose Photo"
+msgstr "写真を選択してください"
+
+#: View/Movements/edit.ctp:82 View/Movements/start.ctp:117
+msgid "A striking image that represents your movement."
+msgstr "あなたの動きを表す印象的なイメージ。"
+
+#: View/Movements/edit.ctp:88 View/Movements/start.ctp:123
+msgid "Location"
+msgstr "場所"
+
+#: View/Movements/edit.ctp:88;100 View/Movements/start.ctp:123;135
+msgid "Optional"
+msgstr "オプショナル"
+
+#: View/Movements/edit.ctp:91 View/Movements/start.ctp:126
+msgid "Movement Location"
+msgstr "移動場所"
+
+#: View/Movements/edit.ctp:94 View/Movements/start.ctp:129
+msgid "Provide the location of your movement."
+msgstr "あなたの動きの場所を指定します。"
+
+#: View/Movements/edit.ctp:100;102 View/Movements/start.ctp:135
+msgid "Tags"
+msgstr "タグ"
+
+#: View/Movements/edit.ctp:105 View/Movements/start.ctp:140
+msgid "Add some tags to your movement to help people discover it."
+msgstr "人々がそれを発見するために役立つ、あなたの動きにいくつかのタグを追加します。"
+
+#: View/Movements/edit.ctp:111 View/Movements/overview.ctp:11
+#: View/Movements/start.ctp:146
+msgid "Overview"
+msgstr "概要"
+
+#: View/Movements/edit.ctp:114 View/Movements/start.ctp:149
+msgid "A longer overview of your movement"
+msgstr "あなたの動きの長い概要"
+
+#: View/Movements/edit.ctp:118
+msgid "Save Changes"
+msgstr "変更の保存"
+
+#: View/Movements/edit.ctp:144
+msgid "by %s"
+msgstr "により%s"
+
+#: View/Movements/edit.ctp:152 View/Movements/start.ctp:188
+msgid "Movement Preview"
+msgstr "ムーブメントプレビュー"
+
+#: View/Movements/edit.ctp:166
+msgid "Delete Movement"
+msgstr "運動の削除"
+
+#: View/Movements/edit.ctp:194 View/Movements/start.ctp:324
+msgid "Failed"
+msgstr "失敗しました"
+
+#: View/Movements/edit.ctp:212 View/Movements/start.ctp:342
+msgid "Uploaded"
+msgstr "アップロード"
+
+#: View/Movements/edit.ctp:233 View/Movements/start.ctp:363
+msgid "Uploading"
+msgstr "アップロード"
+
+#: View/Movements/index.ctp:20
+msgid "Everything"
+msgstr "すべてのもの"
+
+#: View/Movements/index.ctp:21
+msgid "Recent"
+msgstr "最近"
+
+#: View/Movements/index.ctp:22
+msgid "Popular"
+msgstr "人気のあります"
+
+#: View/Movements/index.ctp:29
+msgid "Search Movements"
+msgstr "検索の動き"
+
+#: View/Movements/index.ctp:46 View/Movements/overview.ctp:33
+#: View/Pages/home.ctp:65
+msgid "No Movements Found"
+msgstr "いいえ動きは見つかりませんでした"
+
+#: View/Movements/index.ctp:46
+msgid "Please search again"
+msgstr "もう一度検索してください"
+
+#: View/Movements/launch.ctp:28
+msgid ""
+"This application has made it to the launch phase, don't worry we will take "
+"it from here."
+msgstr "このアプリケーションは起動段階にそれを作った、私たちはここからそれを取るだろう心配しないでください。"
+
+#: View/Movements/launch.ctp:30
+msgid ""
+"Our engineers will use all of the communities contributions from the design "
+"phase to build a bespoke application."
+msgstr "当社のエンジニアは、オーダーメイドのアプリケーションを構築するために設計段階から地域社会への貢献のすべてを使用します。"
+
+#: View/Movements/launch.ctp:32
+msgid ""
+"We will then release the application to the relevant App Stores and notify "
+"you when it is available to download."
+msgstr "我々は、関連するアプリケーションのストアにアプリケーションをリリースし、それがダウンロード可能な状態になったときに通知します。"
+
+#: View/Movements/launch.ctp:37
+msgid "View Contributions</div>"
+msgstr "ビュー貢献</ DIV>"
+
+#: View/Movements/launch.ctp:45
+msgid "App Status"
+msgstr "アプリステータス"
+
+#: View/Movements/onboarding.ctp:12
+msgid "Invite Some Friends"
+msgstr "何人かの友人を招待"
+
+#: View/Movements/onboarding.ctp:122 View/Tasks/landing.ctp:63
+msgid "Congratulations"
+msgstr "おめでとうございます"
+
+#: View/Movements/onboarding.ctp:123
+msgid ""
+"It is important to gain as much support as possible for your movement. To "
+"get started why not tell some friends and get the ball rolling. Once this "
+"step is complete your movement will be available for the world to see!"
+msgstr "それはあなたの移動のためにできるだけ多くの支持を得ることが重要です。何人かの友人に伝えると、ボールが転がり取得しない理由を開始するには。このステップが完了すると世界が見るのあなたの動きが利用できるようになります！"
+
+#: View/Movements/onboarding.ctp:135;142;149
+msgid "Name"
+msgstr "名"
+
+#: View/Movements/onboarding.ctp:136;143;150 View/Users/display_users.ctp:36
+#: View/Users/forgot.ctp:27
+msgid "Email"
+msgstr "メール"
+
+#: View/Movements/onboarding.ctp:158
+msgid "Skip"
+msgstr "スキップ"
+
+#: View/Movements/onboarding.ctp:169
+msgid "Continue"
+msgstr "続けます"
+
+#: View/Movements/overview.ctp:20
+msgid "All"
+msgstr "すべて"
+
+#: View/Movements/overview.ctp:33
+msgid "You have not started or supported any yet!"
+msgstr "あなたはまだ開始しましたか、サポートされていません！"
+
+#: View/Movements/start.ctp:16
+msgid "Geolocation Review"
+msgstr "ジオロケーションのレビュー"
+
+#: View/Movements/start.ctp:16;51
+msgid "Social Network"
+msgstr "社会的ネットワーク"
+
+#: View/Movements/start.ctp:16;52
+msgid "Information"
+msgstr "情報"
+
+#: View/Movements/start.ctp:16;53
+msgid "Events"
+msgstr "イベント"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A 'Geolocation Review' app allows users to rate and review anything with a "
+"fixed location. An example might be a cafe, a public park or somewhere to "
+"lock your bicycle. Anyone can add new points of interest to the map and "
+"reviews on their own and other people's contributions."
+msgstr "「ジオロケーションレビュー」アプリは、ユーザーが固定位置で何を評価して確認できます。例では、あなたの自転車をロックするカフェ、公共の公園やどこかにあるかもしれません。誰もが自分のと他人の貢献の地図やレビューに興味の新しいポイントを追加することができます。"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A 'Social Network' is a type of application that allows people to connect "
+"with one another another. It enables users to share content such as photos, "
+"videos, comments and other media."
+msgstr "「ソーシャルネットワーク」は、人々が互いに相互に接続することができ、アプリケーションのタイプです。それは、写真、ビデオ、コメントや他のメディアなどのコンテンツを共有することができます。"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"An 'Information' app provides a quick method of accessing detailed "
+"information about a specific subject. It can be useful in a variety of "
+"situations where a little extra information is key."
+msgstr "「情報」アプリは、特定のテーマについての詳細な情報にアクセスするための迅速な方法を提供します。それは少し余分な情報が鍵である、様々な状況において有用であり得ます。"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"Our lives are full of exciting events, an 'Event' app can help people to "
+"keep track of what events are taking place in the future. Such an app could "
+"also act as a discovery tool for say a recent fan or enthusiast."
+msgstr "私たちの生活は、エキサイティングなイベントの完全である、「イベント」アプリは、イベントが将来的に行われているものを追跡するために人々を助けることができます。このようなアプリは、最近のファンや愛好家の発言のための発見ツールとして作用することができます。"
+
+#: View/Movements/start.ctp:18
+msgid "The best places to feed ducks"
+msgstr "アヒルを養うために最高の場所"
+
+#: View/Movements/start.ctp:18
+msgid "Restaurants that cater for nut allergies"
+msgstr "ナッツアレルギーに応えるレストラン"
+
+#: View/Movements/start.ctp:18
+msgid "Amazing street art in London"
+msgstr "ロンドンのアメージングストリートアート"
+
+#: View/Movements/start.ctp:18
+msgid "Public toilet finder"
+msgstr "公衆トイレファインダー"
+
+#: View/Movements/start.ctp:18
+msgid "Sports coach network"
+msgstr "スポーツコーチネットワーク"
+
+#: View/Movements/start.ctp:18
+msgid "A super social network for teenager"
+msgstr "ティーンエイジャーのための超ソーシャルネットワーク"
+
+#: View/Movements/start.ctp:18
+msgid "Dog owners social network"
+msgstr "犬の所有者ソーシャルネットワーク"
+
+#: View/Movements/start.ctp:18
+msgid "Young mothers support network"
+msgstr "若い母親は、ネットワークをサポート"
+
+#: View/Movements/start.ctp:18
+msgid "Miami tourist guide"
+msgstr "マイアミの観光ガイド"
+
+#: View/Movements/start.ctp:18
+msgid "Help guide for your new computer"
+msgstr "新しいコンピュータのヘルプガイド"
+
+#: View/Movements/start.ctp:18
+msgid "Top tips for looking after your children"
+msgstr "あなたの子供の世話のためのトップのヒント"
+
+#: View/Movements/start.ctp:18
+msgid "Live gigs for the Artic Monkeys"
+msgstr "北極猿のためのライブライブ"
+
+#: View/Movements/start.ctp:18
+msgid "Car boot sales in the North East"
+msgstr "ノースイーストの車のブート販売"
+
+#: View/Movements/start.ctp:18
+msgid "Stand up comedy events in London"
+msgstr "ロンドンのスタンドアップコメディーイベント"
+
+#: View/Movements/start.ctp:28 View/Pages/home.ctp:35
+msgid "Start a Movement"
+msgstr "運動を起こします"
+
+#: View/Movements/start.ctp:42
+msgid "App Type"
+msgstr "アプリの種類"
+
+#: View/Movements/start.ctp:54
+msgid "Other"
+msgstr "その他"
+
+#: View/Movements/start.ctp:60
+msgid "Select the type of application you wish to launch."
+msgstr "あなたが起動したいアプリケーションの種類を選択します。"
+
+#: View/Movements/start.ctp:81
+msgid "Describe your idea in one sentence"
+msgstr "一つの文章であなたのアイデアを説明して"
+
+#: View/Movements/start.ctp:153
+msgid "Next Step"
+msgstr "次のステップ"
+
+#: View/Movements/start.ctp:211
+msgid "Not Currently Available"
+msgstr "現在利用できません"
+
+#: View/Movements/start.ctp:216
+msgid "Example Applications"
+msgstr "アプリケーションの例"
+
+#: View/Movements/start.ctp:234
+msgid "Suggest App Type"
+msgstr "アプリの種類を提案"
+
+#: View/Movements/start.ctp:236
+msgid ""
+"We would like to provide you with more templates in the future, please "
+"submit your app type ideas below to help us to provide more relevant app "
+"types."
+msgstr "我々は、将来的には複数のテンプレートを提供したいと考え、より関連性の高いアプリの種類を提供するために私たちを助けるために、次のアプリの種類のアイデアを送信してください。"
+
+#: View/Movements/start.ctp:239
+msgid "Your Suggestion"
+msgstr "あなたの提案"
+
+#: View/Movements/view.ctp:144
+msgid "Keep your supporters informed"
+msgstr "通知あなたのサポーターをしてください"
+
+#: View/Movements/view.ctp:145
+msgid ""
+"Send your supporters updates to keep them informed and get them involved. "
+"Your update will be sent directly to their email inbox. Please note, you can "
+"only send a maximum of 2 updates per day."
+msgstr "情報にそれらを維持し、それらが関与し得るためにあなたのサポーターの更新を送信します。あなたの更新は、そのメールの受信トレイに直接送信されます。あなたが唯一の1日2アップデートの最大値を送信することができますので、あらかじめご了承ください。"
+
+#: View/Movements/view.ctp:153
+msgid "Keep your supporters in the loop by posting an update."
+msgstr "更新を掲示することにより、ループであなたのサポーターをしてください。"
+
+#: View/Pages/about.ctp:10
+msgid "How it Works"
+msgstr "どのように動作します"
+
+#: View/Pages/about.ctp:21;49;61
+msgid "Start your movement"
+msgstr "あなたの移動を開始"
+
+#: View/Pages/about.ctp:22
+msgid ""
+"Add your idea to the site and get your friends and family to support your "
+"campaign."
+msgstr "サイトにあなたのアイデアを追加し、キャンペーンをサポートするために、お友達やご家族を取得します。"
+
+#: View/Pages/about.ctp:29
+msgid "Design together"
+msgstr "一緒にデザイン"
+
+#: View/Pages/about.ctp:30
+msgid ""
+"Submit ideas and vote on community contributions to select the features you "
+"want."
+msgstr "アイデアを送信し、必要な機能を選択するには、コミュニティの貢献に投票。"
+
+#: View/Pages/about.ctp:37
+msgid "Launch the app"
+msgstr "アプリを起動"
+
+#: View/Pages/about.ctp:38
+msgid ""
+"We build your app based on the results of the design phase and release it "
+"for iOS and Android."
+msgstr "我々は、設計段階の結果に基づいて、アプリを構築し、iOSとAndroidのためにそれを解放します。"
+
+#: View/Pages/about.ctp:50
+msgid "Share your app idea with the world and get your community involved"
+msgstr "世界とあなたのアプリケーションのアイデアを共有し、あなたのコミュニティが参加してください"
+
+#: View/Pages/about.ctp:62
+msgid ""
+"Post your awesome app idea to the site and start your movement. Select from "
+"an app template, add a title and description and hit start!"
+msgstr "サイトにあなたの素晴らしいアプリのアイデアを投稿し、あなたの移動を開始。アプリテンプレートから選択して、タイトルと説明を追加し、起動ヒット！"
+
+#: View/Pages/about.ctp:71
+msgid "Engage your Community"
+msgstr "あなたのコミュニティを従事する"
+
+#: View/Pages/about.ctp:72
+msgid ""
+"Get support from your community and promote your movement through social "
+"media to reach your target."
+msgstr "あなたのコミュニティからのサポートを取得し、あなたの目標に到達するためにソーシャルメディアを通して、あなたの動きを促進します。"
+
+#: View/Pages/about.ctp:83
+msgid "Share your idea with friends"
+msgstr "友達との考えを共有します"
+
+#: View/Pages/about.ctp:84
+msgid ""
+"Hit your target by sharing your movement through social media. Get your "
+"friends involved so they can get in on the action too."
+msgstr "ソーシャルメディアを通して、あなたの動きを共有することによって、あなたの目標を達成します。彼らはあまりにも行動に得ることができるので、あなたの友人が参加してください。"
+
+#: View/Pages/about.ctp:93
+msgid "Hit your target"
+msgstr "あなたの目標を達成します"
+
+#: View/Pages/about.ctp:94
+msgid ""
+"Reach your target number of supporters for yout idea and proceed to "
+"designing your app."
+msgstr "YOUTアイデアの支持者のあなたの目標数に到達し、あなたのアプリケーションの設計に進みます。"
+
+#: View/Pages/about.ctp:107
+msgid "Design with your community"
+msgstr "あなたのコミュニティとデザイン"
+
+#: View/Pages/about.ctp:108
+msgid "Share ideas and vote on the best features you want in the app."
+msgstr "アイデアを共有し、アプリに必要な最高の機能に投票。"
+
+#: View/Pages/about.ctp:120
+msgid "Contribute ideas"
+msgstr "アイデアを貢献します"
+
+#: View/Pages/about.ctp:121
+msgid ""
+"Got a great idea for the name? Want to pick the colour scheme? Submit your "
+"idea to the community."
+msgstr "名前のための素晴らしいアイデアを得ましたか。カラースキームを選択してみませんか？コミュニティにあなたのアイデアを提出してください。"
+
+#: View/Pages/about.ctp:130
+msgid "Vote on features"
+msgstr "機能の投票"
+
+#: View/Pages/about.ctp:131
+msgid ""
+"Work together to vote on the best ideas from within your community. The best "
+"ideas with the most votes are selected for the final app."
+msgstr "あなたのコミュニティの中から最高のアイデアに投票するために一緒に働きます。最も多くの票を持つ最高のアイデアは、最終的なアプリケーションのために選択されます。"
+
+#: View/Pages/about.ctp:142
+msgid "Discuss your ideas"
+msgstr "あなたのアイデアを議論"
+
+#: View/Pages/about.ctp:143
+msgid ""
+"Start the conversation around what features you want in the app and what "
+"they might look like."
+msgstr "あなたがアプリで何をしたい特徴の周りの会話を開始し、彼らが次のようになります。"
+
+#: View/Pages/about.ctp:152
+msgid "Your app is generated by us"
+msgstr "あなたのアプリは、私たちによって生成されます"
+
+#: View/Pages/about.ctp:153
+msgid ""
+"Once the best ideas have been voted on we'll automatically add them to the "
+"app."
+msgstr "最高のアイデアが投票されていたら、私たちは自動的にアプリに追加します。"
+
+#: View/Pages/about.ctp:166
+msgid "Launch your app to the world"
+msgstr "世界にあなたのアプリを起動"
+
+#: View/Pages/about.ctp:167
+msgid ""
+"Your app is automatically generated and free for your community to download."
+msgstr "あなたのアプリが自動的に生成してダウンロードするためにあなたのコミュニティのために自由です。"
+
+#: View/Pages/about.ctp:179
+msgid "Download your app"
+msgstr "あなたのアプリをダウンロード"
+
+#: View/Pages/about.ctp:180
+msgid ""
+"We'll automatically generate the app for Android and iOS and tell you when "
+"it's ready so you can be the first to download it!"
+msgstr "我々は自動的にAndroidとiOS用アプリを生成し、あなたがそれをダウンロードして最初にすることができますので、それは準備ができたときにあなたを教えてあげましょう！"
+
+#: View/Pages/about.ctp:189
+msgid "Share with everyone"
+msgstr "みんなと共有"
+
+#: View/Pages/about.ctp:190
+msgid ""
+"Excited by your new app? Tell people about it and get them to download the "
+"app so they can use it too!"
+msgstr "あなたの新しいアプリによって励起？それについて人々に伝えると、彼らはあまりにもそれを使用することができますので、彼らはアプリをダウンロードしてもらいます！"
+
+#: View/Pages/about.ctp:202
+msgid "Sustain your community"
+msgstr "あなたのコミュニティを維持"
+
+#: View/Pages/about.ctp:203
+msgid ""
+"The app will be available to everyone, it's important you contribute content "
+"as much as possible to improve it for others."
+msgstr "アプリは、それはあなたが他の人のためにそれを改善するために、できるだけ多くのコンテンツを提供重要だ、誰にでも利用できるようになります。"
+
+#: View/Pages/about.ctp:212
+msgid "Feel awesome!"
+msgstr "素晴らしい感じ！"
+
+#: View/Pages/about.ctp:213
+msgid ""
+"Congratulations you've made it! You can feel awesome knowing you've released "
+"an app for everyone to enjoy, good job!"
+msgstr "おめでとう、あなたはそれを作りました！あなたは、誰もが楽しむためのアプリ、良い仕事をリリースしました知って素晴らしい感じることができます！"
+
+#: View/Pages/about.ctp:223;227
+msgid "Get Started"
+msgstr "始めます"
+
+#: View/Pages/contact.ctp:19
+msgid "Send an email"
+msgstr "Eメールを送ります"
+
+#: View/Pages/contact.ctp:21
+msgid ""
+"If you have any questions, would like to work with the team or have any "
+"other concerns please contact the team on the following email address:"
+msgstr "ご不明な点がございましたら、下記のメールアドレスにチームにお問い合わせくださいチームと仕事をしたり、他の懸念を持っているしたいと思います："
+
+#: View/Pages/contact.ctp:38
+msgid "What is App Movement?"
+msgstr "アプリ運動とは何ですか？"
+
+#: View/Pages/contact.ctp:40 View/Pages/faq.ctp:23
+msgid ""
+"App Movement enables any individual, community or organisation to propose, "
+"design and develop a multi-platform mobile application. No expertise are "
+"required to get started just a touch of determination and a great idea."
+msgstr "アプリの移動は、提案するデザインとマルチプラットフォームのモバイルアプリケーションを開発するために個人、地域社会や組織を可能にします。いいえ専門知識がちょうど決定のタッチと素晴らしいアイデアを始めるために必要とされません。"
+
+#: View/Pages/contact.ctp:48
+msgid "Who created this?"
+msgstr "誰がこれを作​​成しましたか？"
+
+#: View/Pages/contact.ctp:49
+msgid ""
+"App Movement is a research project created by %s at Newcastle University. "
+"This research project aims to explore how communities can begin to design "
+"and commission technology at a grassroots level. As such we will be "
+"collecting data about the websites usage and the mobile applications "
+"generated by App Movement. You can find out more in our privacy policy."
+msgstr "アプリ運動により作成された研究プロジェクトである%sニューカッスル大学で。この研究プロジェクトは、コミュニティは草の根レベルで設計し、手数料の技術を開始することができる方法を模索することを目的とします。このように、我々はウェブサイトの使用およびアプリケーションの移動によって生成されたモバイルアプリケーションに関するデータを収集します。あなたは私たちのプライバシーポリシーの詳細を見つけることができます。"
+
+#: View/Pages/contact.ctp:57
+msgid "Why did we create App Movement?"
+msgstr "なぜ我々は、Appムーブメントを作成したのですか？"
+
+#: View/Pages/contact.ctp:58
+msgid ""
+"We realised that in the digital age communities need digital tools and "
+"services. However the development and creation of these services has "
+"traditionally been commissioned by local government, bed room programmers or "
+"enthusiastic community members. However we argue that this top down, "
+"reactive approach, fails to address real needs of communities. Therefore we "
+"believe anyone who has a genuine need for a mobile application should not be "
+"limited by their lack of software development experience."
+msgstr "私たちは、デジタル時代のコミュニティはデジタルツールやサービスを必要とすることを実現しました。しかし、これらのサービスの開発·作成は伝統的に地方政府、ベッドルームプログラマや熱狂的なコミュニティのメンバーから委託されています。しかし我々は、このトップダウン、反応性のアプローチは、地域社会の真のニーズに対処するために失敗したと主張しています。そこで我々は、モバイルアプリケーションのための本物の必要性を持っている人は、ソフトウェア開発の経験の欠如によって制限されるべきではないと考えています。"
+
+#: View/Pages/contact.ctp:68
+msgid "App Movement Team"
+msgstr "アプリ運動チーム"
+
+#: View/Pages/contact.ctp:80
+msgid ""
+"This project was funded by both the EPSRC Social Inclusion Through the "
+"Digital Economy (SiDE) and the AHRC Creative Exchange (CX) research projects."
+msgstr "このプロジェクトは、デジタル経済（側）とAHRCクリエイティブ取引（CX）の研究プロジェクトを通じてEPSRCソーシャルインクルージョンの両方によって資金を供給されました。"
+
+#: View/Pages/faq.ctp:9
+msgid "Frequently Asked Questions"
+msgstr "よくある質問"
+
+#: View/Pages/faq.ctp:22
+msgid "What is AppMovement?"
+msgstr "AppMovementとは何ですか？"
+
+#: View/Pages/faq.ctp:27
+msgid "What is a Movement?"
+msgstr "運動とは何ですか？"
+
+#: View/Pages/faq.ctp:28
+msgid ""
+"A Movement is an awesome idea for an app that has been created by a member "
+"of your community and allows other individuals to come together and support "
+"the idea. Once the Movement has reached the Supporter Target the Movement "
+"will move into the design phase to allow you to begin designing the features "
+"in your app. After this has been completed the app will be automatically "
+"generated and free to download for all."
+msgstr "移動はあなたのコミュニティのメンバーによって作成され、他の個人が一緒に来て、考えを支持することを可能にされたアプリケーションのための素晴らしいアイデアです。いったん動きはサポーターが運動は、あなたのアプリで機能の設計を開始することを可能にする設計段階に移行するターゲットに達しています。これが完了した後にアプリが自動的に生成され、すべてのためにダウンロードして無料になります。"
+
+#: View/Pages/faq.ctp:32
+msgid "What does it mean to be a Supporter?"
+msgstr "それはサポーターであることが何を意味するのでしょうか？"
+
+#: View/Pages/faq.ctp:33
+msgid ""
+"By supporting a Movement you are pledging your support for the idea. This "
+"will allow you to be a part of the design phase and gain early access to the "
+"automatically generated mobile app when it becomes available. There are no "
+"financial commitments to being a supporter and you have the choice to "
+"interact with the Movement as you see fit. During the design phase you can "
+"contribute ideas e.g. the app's name or colour scheme and you do not require "
+"any technical expertise."
+msgstr "運動をサポートすることで、あなたのアイデアのためのあなたのサポートを約束しています。これは、設計段階の一部であって、それが利用可能になったときに自動的に生成されたモバイルアプリへの早期アクセスを得ることができます。そこにサポーターであることに何の財務約定はありません、あなたが合うように運動と相互作用するかを選択できます。設計フェーズでは、アプリの名前や配色などのアイデアを貢献することができますし、任意の技術的な専門知識を必要としません。"
+
+#: View/Pages/faq.ctp:37
+msgid "What is the Design Phase?"
+msgstr "設計フェーズは何ですか？"
+
+#: View/Pages/faq.ctp:38
+msgid ""
+"The Design Phase is accessible by only the supporters who have supported a "
+"movement and allows them to contribute ideas and vote on the best "
+"contributions made by others. In this phase you will not be asked to write "
+"any code, just simply come up with names and colour schemes for example."
+msgstr "設計フェーズは、運動をサポートし、それらのアイデアを貢献し、他の人によって作られた最高の貢献に投票することができた唯一のサポーターでアクセスすることができます。このフェーズでは、任意のコードを書くだけで、単に例の名前とカラースキームを思い付くように頼まれることはありません。"
+
+#: View/Pages/faq.ctp:46
+msgid "How do you automatically generate an app?"
+msgstr "どのように自動的にアプリを生成するのですか？"
+
+#: View/Pages/faq.ctp:47
+msgid ""
+"When movements are created by users they are created using a template we "
+"have developed. This template allows us to automatically configure the "
+"mobile application so that it reflects the design choices made by the "
+"community in the design phase."
+msgstr "動きがユーザーによって作成されたとき、彼らは我々が開発したテンプレートを使用して作成されます。このテンプレートは、設計段階でのコミュニティによって行われた設計上の選択を反映するように、私たちは自動的にモバイルアプリケーションを設定することができます。"
+
+#: View/Pages/faq.ctp:51
+msgid "Who owns the generated app?"
+msgstr "誰が生成されたアプリを所有していますか？"
+
+#: View/Pages/faq.ctp:52
+msgid ""
+"The mobile application will be released under the Digital Interaction Group "
+"developer accounts as part of ongoing research into community commissioning "
+"platforms. Ownership of the application will therefore remain with the "
+"Digital Interaction Group. Please visit our terms and conditions of use for "
+"more information."
+msgstr "モバイルアプリケーションは、プラットフォームの試運転コミュニティへの進行中の研究の一環として、デジタルインタラクショングループの開発者アカウントの下でリリースされます。アプリケーションの所有権は、したがって、デジタルインタラクショングループに残ります。詳細については、当社サイトのご利用条件をご覧ください。"
+
+#: View/Pages/faq.ctp:56
+msgid "Who is organising this?"
+msgstr "誰がこれを組織しているのですか？"
+
+#: View/Pages/faq.ctp:57
+msgid ""
+"This is a research project run by the Digitial Interaction Group as part of "
+"the ongoing research. With your permission through registering with the "
+"server, your annonymized data will be used to begin to understand how "
+"technologies of the future can encourage grassroots comissioning of mobile "
+"applications. If you wish to know more about this please visit our About "
+"page for further information."
+msgstr "これは、進行中の研究の一部としてDigitialインタラクショングループが運営する研究プロジェクトです。サーバに登録を通して、あなたの許可を得て、あなたのannonymizedデータは、将来の技術は、モバイルアプリケーションの草の根comissioningを促すことができる方法を理解し始めるために使用されます。あなたはこのことについての詳細を知りたい場合は詳細については、当社の概要ページをご覧ください。"
+
+#: View/Pages/home.ctp:12
+msgid "Your Community. Your App."
+msgstr "あなたのコミュニティ。あなたのアプリ。"
+
+#: View/Pages/home.ctp:14
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile "
+"application. No expertise are required and the process is fun and simple. "
+"Watch the video below to get started."
+msgstr "アプリの移動は、誰もが、デザインを提案し、モバイルアプリケーションを開発することができます。いいえ専門知識は必要ありません、プロセスは楽しさと簡単ですしています。開始するには、以下のビデオを見ます。"
+
+#: View/Pages/home.ctp:17
+msgid "Watch the Video"
+msgstr "ビデオを見ます"
+
+#: View/Pages/home.ctp:36
+msgid ""
+"Choose one of the app templates and start your movement. Gain support for "
+"your movement by sharing it with friends."
+msgstr "アプリテンプレートのいずれかを選択し、移動を開始。友人とそれを共有することによって、あなたの移動のための支持を得ます。"
+
+#: View/Pages/home.ctp:43
+msgid "Design Together"
+msgstr "一緒にデザイン"
+
+#: View/Pages/home.ctp:44
+msgid ""
+"The supporters of your movement work together to design the app by "
+"submitting and voting on ideas."
+msgstr "あなたの運動の支持者が提出し、アイデアに投票することによって、アプリを設計するために一緒に働きます。"
+
+#: View/Pages/home.ctp:51
+msgid "Generate Application"
+msgstr "アプリケーションの生成"
+
+#: View/Pages/home.ctp:52
+msgid ""
+"You app is automatically generated based on the results of the design "
+"process and it is released in the app store."
+msgstr "あなたのアプリケーションは、自動的に、設計プロセスの結果に基づいて生成され、それがアプリケーションストアで放出されます。"
+
+#: View/Pages/home.ctp:62
+msgid "Featured Movements"
+msgstr "注目の動き"
+
+#: View/Pages/press.ctp:9
+msgid "Press Kit"
+msgstr "プレスキット"
+
+#: View/Pages/press.ctp:19
+msgid "Press Releases"
+msgstr "プレスリリース"
+
+#: View/Pages/press.ctp:23
+msgid ""
+"We welcome you to report on App Movement through your media channels and "
+"encourage the use of the materials provided on this page."
+msgstr "私たちは、あなたのメディアチャネルを介してアプリの動きについて報告し、このページで提供される材料の使用を奨励することを歓迎します。"
+
+#: View/Pages/press.ctp:32
+msgid "Logos & Brand"
+msgstr "ロゴ·ブランド"
+
+#: View/Pages/press.ctp:36
+msgid "Click any of the following assets to view the full-resolution version."
+msgstr "フル解像度のバージョンを表示するには、以下の資産のいずれかをクリックします。"
+
+#: View/Pages/press.ctp:36
+msgid "If you require any other assets please contact us."
+msgstr "あなたが他の資産が必要な場合はご連絡ください。"
+
+#: View/Pages/press.ctp:85
+msgid "If you have any queries please contact us."
+msgstr "あなたが任意のクエリを使用している場合はご連絡ください。"
+
+#: View/Pages/press.ctp:88
+msgid "Press contact"
+msgstr "プレスコンタクト"
+
+#: View/Pages/press.ctp:89
+msgid "Image contact"
+msgstr "画像コンタクト"
+
+#: View/Pages/press.ctp:98
+msgid "Case Studies"
+msgstr "ケーススタディ"
+
+#: View/Pages/press.ctp:108
+msgid ""
+"A story about Katie Brittain's idea to support people living with dementia "
+"and their carers."
+msgstr "ケイティブリテンの考えについての話は、認知症患者とその介護者と共に生きる人々をサポートしています。"
+
+#: View/Pages/privacy.ctp:10
+msgid "Privacy Policy"
+msgstr "個人情報保護方針"
+
+#: View/Pages/terms.ctp:10
+msgid "Terms of Use"
+msgstr "利用規約"
+
+#: View/Previews/colour.ctp:47 View/Previews/geolocation_venue.ctp:47
+msgid "Place"
+msgstr "場所"
+
+#: View/Previews/colour.ctp:53 View/Previews/geolocation_venue.ctp:53
+msgid "Add Review"
+msgstr "レビューを追加"
+
+#: View/Previews/colour.ctp:63 View/Previews/geolocation_venue.ctp:63
+msgid "Name of Place"
+msgstr "場所の名前"
+
+#: View/Previews/colour.ctp:75 View/Previews/geolocation_venue.ctp:75
+msgid "Rating Option A"
+msgstr "評価オプションA"
+
+#: View/Previews/colour.ctp:95 View/Previews/geolocation_venue.ctp:95
+msgid "Rating Option B"
+msgstr "評価オプションB"
+
+#: View/Previews/colour.ctp:115 View/Previews/geolocation_venue.ctp:115
+msgid "Rating Option C"
+msgstr "評価オプションC"
+
+#: View/Previews/colour.ctp:135 View/Previews/geolocation_venue.ctp:135
+msgid "Rating Option D"
+msgstr "評価オプションD"
+
+#: View/Previews/geolocation_map.ctp:90
+msgid "Home"
+msgstr "ホーム"
+
+#: View/Previews/geolocation_map.ctp:102
+msgid "Add"
+msgstr "加えます"
+
+#: View/Tasks/landing.ctp:18 View/Tasks/view.ctp:19
+msgid "Design Area"
+msgstr "デザイン領域"
+
+#: View/Tasks/landing.ctp:36
+msgid "Design Phase Not Available"
+msgstr "設計フェーズご利用いただけません"
+
+#: View/Tasks/landing.ctp:38 View/Tasks/view.ctp:41
+msgid "Design Phase Active"
+msgstr "設計段階アクティブ"
+
+#: View/Tasks/landing.ctp:46
+msgid "Days remaining in design phase"
+msgstr "設計段階で残りの日"
+
+#: View/Tasks/landing.ctp:48
+msgid "Day Remaining"
+msgstr "残り日"
+
+#: View/Tasks/landing.ctp:48
+msgid "Days Remaining"
+msgstr "残存日数"
+
+#: View/Tasks/landing.ctp:58
+msgid "The design phase is not yet available, please come back later!"
+msgstr "設計段階ではまだ利用できません。後で戻って来てください！"
+
+#: View/Tasks/landing.ctp:64
+msgid ""
+"This movement has made it to the design phase. Yourself and other supporters "
+"can now design the application together. Just click one of the following "
+"design tasks to explore, vote and contribute ideas."
+msgstr "この移動は、設計段階になりました。自分自身と他の支持者は今一緒にアプリケーションを設計することができます。ただ、探検投票やアイデアを貢献するために、次の設計タスクのいずれかをクリックします。"
+
+#: View/Tasks/landing.ctp:68 View/Tasks/view.ctp:63
+msgid ""
+"You have not supported this movement so you are not eligible to vote or "
+"contribute in the design phase. You are however free to browse what others "
+"have submitted."
+msgstr "あなたが投票したり、設計段階で貢献する資格がありませんように、この動きをサポートしていません。あなたは他の人が提出したものを参照することが自由です。"
+
+#: View/Tasks/landing.ctp:73 View/Tasks/view.ctp:68
+msgid "Design Complete"
+msgstr "完全なデザイン"
+
+#: View/Tasks/landing.ctp:74
+msgid ""
+"The design phase is now complete, we will select the highest voted "
+"contributions to tailor the application. You can view the community's "
+"contributions below."
+msgstr "設計段階が完了しました、我々はアプリケーションを調整するために投票し、最も高い貢献を選択します。あなたは、以下のコミュニティの貢献を表示することができます。"
+
+#: View/Tasks/landing.ctp:140
+msgid "Fixed Option"
+msgstr "固定オプション"
+
+#: View/Tasks/landing.ctp:142
+msgid "User Contribution"
+msgstr "ユーザーの貢献"
+
+#: View/Tasks/landing.ctp:163
+msgid "Awesome!"
+msgstr "すごいです！"
+
+#: View/Tasks/landing.ctp:164
+msgid "You've submitted contributions to all of the design tasks, thank you!"
+msgstr "あなたが設計作業のすべてに貢献を送信した、ありがとう！"
+
+#: View/Tasks/landing.ctp:164
+msgid "Don't forget to come back and vote on contributions from other members!"
+msgstr "戻ってきて、他のメンバーからの貢献に投票することを忘れないでください！"
+
+#: View/Tasks/view.ctp:58
+msgid "Instructions"
+msgstr "説明書"
+
+#: View/Tasks/view.ctp:69
+msgid ""
+"The design phase is now complete, you can view the contributions below. The "
+"winning contributions are highlighted in green."
+msgstr "設計フェーズでは、以下の貢献を表示することができ、これで完了です。勝利の貢献は緑色で表示されます。"
+
+#: View/Users/admin.ctp:15 View/Users/dashboard.ctp:35
+msgid "Admin Section"
+msgstr "管理セクション"
+
+#: View/Users/admin.ctp:53
+msgid "APP STORE"
+msgstr "APPストア"
+
+#: View/Users/admin.ctp:54
+msgid "DATABASE"
+msgstr "DATABASE"
+
+#: View/Users/admin.ctp:55
+msgid "XML"
+msgstr "XML"
+
+#: View/Users/admin.ctp:56
+msgid "ASSETS"
+msgstr "資産"
+
+#: View/Users/admin.ctp:57
+msgid "LAUNCH"
+msgstr "LAUNCH"
+
+#: View/Users/admin.ctp:64
+msgid "App Name"
+msgstr "アプリ名"
+
+#: View/Users/admin.ctp:68
+msgid "App Identifier"
+msgstr "アプリ識別子"
+
+#: View/Users/admin.ctp:72
+msgid "Listing"
+msgstr "リスト"
+
+#: View/Users/admin.ctp:76
+msgid "Keywords"
+msgstr "キーワード"
+
+#: View/Users/admin.ctp:83
+msgid "SQL Create Dump"
+msgstr "SQLは、ダンプを作成します。"
+
+#: View/Users/admin.ctp:90
+msgid "iOS XML Dump"
+msgstr "のiOSのXMLダンプ"
+
+#: View/Users/admin.ctp:94
+msgid "Android XML Dump"
+msgstr "AndroidのXMLダンプ"
+
+#: View/Users/admin.ctp:101
+msgid "Set Background Colour"
+msgstr "設定の背景色"
+
+#: View/Users/admin.ctp:103
+msgid "Clear"
+msgstr "クリア"
+
+#: View/Users/admin.ctp:104
+msgid "Apply"
+msgstr "適用します"
+
+#: View/Users/admin.ctp:107
+msgid "App Icon"
+msgstr "アプリアイコン"
+
+#: View/Users/admin.ctp:111
+msgid "Spash Screen"
+msgstr "Spash画面"
+
+#: View/Users/admin.ctp:115
+msgid "App Screenshots"
+msgstr "アプリのスクリーンショット"
+
+#: View/Users/admin.ctp:120
+msgid "Download Assets"
+msgstr "ダウンロード資産"
+
+#: View/Users/admin.ctp:125
+msgid "Android Store Listing URL"
+msgstr "AndroidのストアリストURL"
+
+#: View/Users/admin.ctp:128
+msgid "iOS Store Listing URL"
+msgstr "iOSのストアリストURL"
+
+#: View/Users/admin.ctp:131
+msgid "Click below to send the launch notification to all supporters"
+msgstr "すべてのサポーターに起動通知を送信するには、以下をクリックします"
+
+#: View/Users/admin.ctp:132
+msgid "Send Launch Notification"
+msgstr "起動通知の送信"
+
+#: View/Users/admin.ctp:172
+msgid "Notifications have been sent!"
+msgstr "通知が送信されました！"
+
+#: View/Users/admin.ctp:247;248;249;250;300;302
+msgid "Loading"
+msgstr "ローディング"
+
+#: View/Users/dashboard.ctp:14
+msgid "Your Dashboard"
+msgstr "あなたのダッシュボード"
+
+#: View/Users/dashboard.ctp:30 View/Users/display_users.ctp:37
+#: View/Users/view.ctp:38
+msgid "Joined"
+msgstr "参加しました"
+
+#: View/Users/dashboard.ctp:36
+msgid "Site Users"
+msgstr "サイトユーザー"
+
+#: View/Users/dashboard.ctp:40 View/Users/edit.ctp:10
+msgid "Edit Profile"
+msgstr "プロファイル編集"
+
+#: View/Users/dashboard.ctp:41
+msgid "Logout"
+msgstr "ログアウト"
+
+#: View/Users/dashboard.ctp:53
+msgid "Your Movements"
+msgstr "あなたの動き"
+
+#: View/Users/dashboard.ctp:79
+msgid "Your Notification Stream"
+msgstr "あなたの通知の流れ"
+
+#: View/Users/display_users.ctp:5
+msgid "Site users"
+msgstr "サイトユーザー"
+
+#: View/Users/display_users.ctp:34
+msgid "Fullname"
+msgstr "フルネーム"
+
+#: View/Users/edit.ctp:41
+msgid "Profile Photo"
+msgstr "プロフィール写真"
+
+#: View/Users/edit.ctp:47
+msgid "Notification Preferences"
+msgstr "通知の設定"
+
+#: View/Users/edit.ctp:52
+msgid "Send me awesome email updates"
+msgstr "私に素晴らしい電子メールアップデートを送信"
+
+#: View/Users/edit.ctp:64
+msgid "Update Profile"
+msgstr "プロフィールを更新"
+
+#: View/Users/forgot.ctp:10
+msgid "Forgot Password"
+msgstr "パスワードをお忘れですか"
+
+#: View/Users/forgot.ctp:18
+msgid "Send Reset Email"
+msgstr "リセットメールを送ります"
+
+#: View/Users/forgot.ctp:19
+msgid ""
+"Please enter the email address you used to register to reset your password."
+msgstr "あなたのパスワードをリセットするために登録するために使用したメールアドレスを入力してください。"
+
+#: View/Users/forgot.ctp:31
+msgid "Send Email"
+msgstr "メールを送ります"
+
+#: View/Users/login.ctp:37
+msgid "Forgotten your password?"
+msgstr "パスワードを忘れましたか？"
+
+#: View/Users/register.ctp:10
+msgid "Create an Account"
+msgstr "アカウントを作成します"
+
+#: View/Users/register.ctp:39 View/Users/reset.ctp:31
+msgid "Confirm Password"
+msgstr "パスワードを認証します"
+
+#: View/Users/register.ctp:50
+msgid ""
+"By creating an account means you agree to App Movement's <br /> %s and %s"
+msgstr "アカウントを作成することにより、あなたがアプリ運動の<br />に同意することを意味%sと%s"
+
+#: View/Users/register.ctp:55
+msgid "I already have an account"
+msgstr "私はすでにアカウントを持っています"
+
+#: View/Users/reset.ctp:10;35
+msgid "Reset Password"
+msgstr "パスワードを再設定します"
+
+#: View/Users/reset.ctp:18
+msgid "Reset Your Password"
+msgstr "あなたのパスワードをリセットしてください"
+
+#: View/Users/reset.ctp:19
+msgid "Please enter new password below."
+msgstr "下に新しいパスワードを入力してください。"
+
+#: View/Users/reset.ctp:29
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: View/Users/reset.ctp:31
+msgid "Please re-enter password"
+msgstr "再入力してくださいパスワード"
+
+#: View/Users/view.ctp:22
+msgid "%s's Profile"
+msgstr "%sさんのプロフィール"
+
+#: View/Users/view.ctp:61
+msgid "%s has no movements"
+msgstr "%s何も動きがありません"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Please enter a comment"
+msgstr "コメントを入力してください"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be at least 3 characters"
+msgstr "あなたのコメントは、少なくとも3文字でなければなりません"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be less than 500 characters"
+msgstr "コメントは500文字未満でなければなりません"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "Please include user_id"
+msgstr "USER_IDを記載してください"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "isNumeric"
+msgstr "ISNUMERIC"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please enter parent_id"
+msgstr "PARENT_IDを入力してください"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please only enter parent_id as numeric value"
+msgstr "数値としてのみPARENT_ID入力してください"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Parent_id incorrect"
+msgstr "間違っPARENT_ID"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Please enter comment_type_id"
+msgstr "comment_type_idを入力してください"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Comment_type_id incorrect"
+msgstr "間違っComment_type_id"
+
+#: Model/Site/CommentVote.php:validation for field up
+msgid "Please vote up or down"
+msgstr "アップ投票またはダウンしてください。"
+
+#: Model/Site/CommentVote.php:validation for field user_id
+msgid "You may only cast your vote once"
+msgstr "あなたは一度だけあなたの票を投じることができます"
+
+#: Model/Site/CommentVote.php:validation for field comment_id
+msgid "Please enter comment_id"
+msgstr "comment_idを入力してください"
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid ""
+"You cannot contribute to this movement as you are not a supporter or "
+"promoter of this movement"
+msgstr "あなたはこの運動のサポーターやプロモーターではないように、この運動に寄与することができません"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please enter movement_design_task_id"
+msgstr "movement_design_task_idを入力してください"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please only enter movement_design_task_id as numeric value"
+msgstr "数値としてのみmovement_design_task_id入力してください"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Movement_design_task_id incorrect"
+msgstr "間違っMovement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Please enter contribution_type_id"
+msgstr "contribution_type_idを入力してください"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Contribution_type_id incorrect"
+msgstr "間違っContribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please enter a contribution"
+msgstr "貢献を入力してください"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please ensure that you have entered your contribution correctly"
+msgstr "あなたが正しくあなたの貢献を入力したことを確認してください"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "You have already submitted a contribution with those details"
+msgstr "あなたはそれらの詳細と貢献を既に提出しています"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "Please enter a title for your movement"
+msgstr "あなたの移動のためにタイトルを入力してください"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be more than 10 characters"
+msgstr "タイトルは10文字以上である必要があります"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be less than 50 characters"
+msgstr "タイトルは50文字未満である必要があります"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "Please enter a short paragraph that describes your movement"
+msgstr "あなたの動きを説明する短い段落を入力してください"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be more than 20 characters"
+msgstr "説明は20文字以上である必要があります"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be less than 140 characters"
+msgstr "説明未満140文字にする必要があります"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "Please enter a detailed overview of your movement"
+msgstr "あなたの動きの詳細な概要を入力してください"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be more than 100 characters"
+msgstr "概要では、100以上の文字でなければなりません"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be less than 4000 characters"
+msgstr "概要では、4000未満の文字である必要があります"
+
+#: Model/Site/Movement.php:validation for field app_type_id
+msgid "Please select the type of app you wish to create"
+msgstr "あなたが作成するアプリケーションの種類を選択してください"
+
+#: Model/Site/Movement.php:validation for field photo
+msgid "Please select a photo for your movement"
+msgstr "あなたの移動のための写真を選択してください"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Please enter an update"
+msgstr "更新プログラムを入力してください"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be at least 10 characters"
+msgstr "あなたの更新は、少なくとも10文字にする必要があります"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be less than 4000 characters"
+msgstr "あなたの更新は4000文字未満でなければなりません"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You are not the creator of this movement"
+msgstr "あなたはこの動きの作成者ではありません"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You can only post 2 updates per day. Please try again in a short while."
+msgstr "あなただけの1日2アップデートを投稿することができます。しばらくしてからもう一度お試しください。"
+
+#: Model/Notification.php:validation for field data
+msgid ""
+"data is incorrect format for this notification type, or you have not "
+"specified a notification type"
+msgstr "データは、この通知タイプの誤ったフォーマットであるか、通知タイプを指定していません"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr "notification_type_idを入力してください"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr "数値としてのみnotification_type_id入力してください"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Notification_type_id incorrect"
+msgstr "間違っNotification_type_id"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "いくつかのレビューテキストを入力してください"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 800 characters"
+msgstr "レビューテキスト未満800文字にする必要があります"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "あなたのフルネームを入力してください"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "フルネームは40文字未満である必要があります"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "ユーザー名を入力してください"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "そのユーザー名が取られている、別のものを選択してください"
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr "文字、数字、アンダースコアやダッシュのみ。有効な名前を入力してください"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "ユーザ名は40文字未満である必要があります"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "パスワードを入力してください。"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "パスワードは8文字以上である必要があります"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "パスワードは40文字未満でなければなりません"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "パスワードを再入力してください"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "両方のパスワード·フィールドが一致する必要があります"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr "のisEmpty"
+
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "有効なメールアドレスを入力してください"
+
+#: Model/Global/User.php:validation for field email
+msgid ""
+"An account registered with this email already exists, please enter another "
+"or login below"
+msgstr "このメールすでに存在しているに登録アカウントは、別のものを入力するか、または以下のログインしてください"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "電子メールは240文字未満でなければなりません"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "画像は型でなければなりません：JPG、JPEGまたはPNG"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "画像は5キロバイト以上である必要があります"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "画像は3メガバイト未満でなければなりません"
+

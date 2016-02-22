@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-11-27 13:27-0000\n"
+"PO-Revision-Date: 2015-11-28 17:43+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Please enter a comment"
+msgstr "Пожалуйста введите комментарий"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be at least 3 characters"
+msgstr "Ваш комментарий должен быть не менее 3 символов"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be less than 500 characters"
+msgstr "Ваш комментарий должен быть не более 500 символов"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation
+msgid "Please include user_id"
+msgstr "Пожалуйста добавьте user_id"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/MovementUpdate.php:validation
+msgid "isNumeric"
+msgstr "isNumeric"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please enter parent_id"
+msgstr "Пожалуйста введите parent_id"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please only enter parent_id as numeric value"
+msgstr "Пожалуйста введите parent_id в виде численного значения"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Parent_id incorrect"
+msgstr "Некорректный parent_id"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Please enter comment_type_id"
+msgstr "Пожалуйста введите comment_type_id"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Comment_type_id incorrect"
+msgstr " Сomment_type_id неверен"
+
+#: Model/Site/CommentVote.php:validation for field up
+msgid "Please vote up or down"
+msgstr "Пожалуйста проголосуйте \"ЗА\" или \"ПРОТИВ\""
+
+#: Model/Site/CommentVote.php:validation for field user_id
+msgid "You may only cast your vote once"
+msgstr "Вы можете проголосовать только один раз"
+
+#: Model/Site/CommentVote.php:validation for field comment_id
+msgid "Please enter comment_id"
+msgstr "Пожалуйста введите comment_id"
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid "Please only enter a number for the user_id"
+msgstr "Пожалуйста используйте только числа при вводе user_id"
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid ""
+"You cannot contribute to this movement as you are not a supporter or "
+"promoter of this movement"
+msgstr ""
+"Вы не можете ничего предложить либо проголосовать за это движения, так как "
+"вы его еще не поддержали. "
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please enter movement_design_task_id"
+msgstr "Пожалуйста введите movement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please only enter movement_design_task_id as numeric value"
+msgstr "Пожалуйста введите movement_design_task_id в виде численного значения"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Movement_design_task_id incorrect"
+msgstr "Некорректный movement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Please enter contribution_type_id"
+msgstr "Пожалуйста введите contribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Contribution_type_id incorrect"
+msgstr "Некорректный contribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please enter a contribution"
+msgstr "Пожалуйста введите предложение"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please ensure that you have entered your contribution correctly"
+msgstr "Пожалуйста убедитесь что предложение введено корректно"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "You have already submitted a contribution with those details"
+msgstr "Вы уже вносили подобное предложение"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "Please enter a title for your movement"
+msgstr "Пожалуйста укажите название движения"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be more than 10 characters"
+msgstr "Название должно содержать более 10 символов"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be less than 50 characters"
+msgstr "Название должно быть менее 50 символов"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "Please enter a short paragraph that describes your movement"
+msgstr "Пожалуйста кратко опишите Ваше движение"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be more than 20 characters"
+msgstr "Краткое описание должно быть более 20 символов"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be less than 140 characters"
+msgstr "Краткое описание должно быть менее 140 символов"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "Please enter a detailed overview of your movement"
+msgstr "Пожалуйста введите детальное описание Вашего движения"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be more than 100 characters"
+msgstr "Детальное описание должно быть более 100 символов"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be less than 4000 characters"
+msgstr "Детальное описание должно быть менее 4000 символов"
+
+#: Model/Site/Movement.php:validation for field app_type_id
+msgid "Please select the type of app you wish to create"
+msgstr "Пожалуйста выберите тип создаваемого приложения "
+
+#: Model/Site/Movement.php:validation for field photo
+msgid "Please select a photo for your movement"
+msgstr "Пожалуйста выберите изображение для Вашего движения"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Please enter an update"
+msgstr "Пожалуйста укажите обновления"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be at least 10 characters"
+msgstr "Информация об обновление должна содержать не менее 10 символов"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be less than 4000 characters"
+msgstr "Информация об обновление должна содержать не более 4000 символов"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You are not the creator of this movement"
+msgstr "Вы не создатель данного движения"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You can only post 2 updates per day. Please try again in a short while."
+msgstr ""
+"Вы можете отправлять максимум 2 письма об обновлениях в день. Пожалуйста "
+"попробуйте позже. "

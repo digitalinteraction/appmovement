@@ -1,0 +1,127 @@
+
+/* Colour Task Preview */
+
+body {
+	background-color: #f9f9f9;
+}
+
+.preview {
+	background-color: #FFF;
+	height: 568px;
+	margin: 0 auto;
+	width: 320px;
+}
+
+/* Status Bar */
+
+.status-bar {
+	background-color: #fff;
+	height: 14px;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+.status-bar .carrier, .status-bar .time, .status-bar .battery {
+	color: #999;
+	float: left;
+	line-height: 14px;
+	font-size: 11px;
+	width: 33.3%;
+}
+
+.status-bar .carrier {
+	text-align: left;
+}
+
+.status-bar .time {
+	text-align: center;
+}
+
+.status-bar .battery {
+	text-align: right;
+}
+
+/* Navigation Bar */
+
+.nav-bar {
+	background-color: #fff;
+	height: 44px;
+	padding: 5px;
+	width: 320px;
+}
+
+.nav-bar .nav-item {
+	display: inline-block;
+	margin-right: -4px;
+	width: 33%;
+}
+
+.nav-bar .nav-title {
+	font-size: 18px;
+	font-weight: bold;
+	height: 34px;
+	line-height: 34px;
+	text-align: center;
+}
+
+.nav-bar .nav-button-right {
+	font-size: 16px;
+	text-align: right;
+}
+
+.nav-bar .nav-button-left {
+	font-size: 16px;
+	text-align: left;
+}
+
+.nav-bar .nav-button-left i {
+	font-size: 28px;
+	margin-right: 2px;
+	bottom: -3px;
+	position: relative;
+}
+
+/* Venu Photo */
+
+.venue-photo {
+	background-color: #333;
+	height: 150px;
+	text-align: center;
+	width: 320px;
+}
+
+.venue-name {
+	color: #FFF;
+	font-size: 18px;
+	line-height: 150px;
+	margin: 0;
+	padding: 0;
+}
+
+/* Ratings */
+
+.ratings-container {
+	padding: 20px 0px;
+	text-align: center;
+	width: 320px;
+}
+
+.rating-title {
+	color: #666;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 5px 0px;
+	text-align: center;
+}
+
+.rating-stars {
+	color: #CCC;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.rating-stars i {
+	display: inline-block;
+	font-size: 32px;
+	margin: 4px;
+}

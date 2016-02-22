@@ -1,0 +1,104 @@
+/** Edit Styles **/
+
+.edit-form {
+	background-color: #FFF;
+	border: #E1E1E1 1px solid;
+	border-radius: 4px;
+	max-width: 600px;
+	margin: 60px auto 20px auto;
+	padding: 40px 80px;
+	text-align: center;
+}
+
+.form-container {
+	text-align: center;
+}
+
+.form-container p {
+	color: #999;
+}
+
+.form-container a, .form-container a:active {
+	color: #999;
+}
+
+.form-container a:hover {
+	color: #333;
+	text-decoration: underline;
+}
+
+@media (max-width: 800px) {
+
+	.registration-form {
+		padding: 40px 40px;
+	}
+
+}
+
+.profile-photo {
+	background-size: cover;
+	background-position: center;
+	border: #E1E1E1 1px solid;
+	border-radius: 60px;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	height: 120px;
+	margin: 0 auto 40px auto;
+	width: 120px;
+}
+
+.input-section .input-field {
+	border: #e1e1e1 1px solid;
+	border-radius: 4px;
+	box-shadow: none;
+	font-size: 18px;
+	margin-bottom: 20px;
+	padding: 15px;
+	text-align: center;
+	width: 100%;
+}
+
+.file-upload {
+	text-align: center;
+}
+
+.file-upload input {
+	margin: 0 auto;
+	padding: 20px 0px;
+}
+
+.input-section label {
+	color: #666;
+	display: block;
+	margin-bottom: 10px;
+}
+
+.input-section .checkbox {
+	text-align: left;
+	width: 100%;
+}
+
+.input-section .checkbox .input {
+	display: inline-block !important;
+	width: auto;
+}
+
+.input-section .btn {
+	margin: 20px auto 0px auto;
+}
+
+.progress {
+	border-radius: 6px;
+	height: 12px;
+}
+
+.uploaded-image {
+	background-color: #fff;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 100px;
+	margin-right: 10px;
+	width: 100px;
+}

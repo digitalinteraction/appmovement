@@ -1,0 +1,298 @@
+/* Task Landing Styles */
+
+.banner-row {
+	margin-bottom: 20px;
+}
+
+@media(max-width: 768px) {
+
+	.breadcrumbs {
+		margin: 10px;
+	}
+
+	.feed-back-box {
+		display: none;
+	}
+
+}
+
+/* Design Header */
+
+.design-header {
+	background-color: #fff;
+	border: #e1e1e1 1px solid;
+	border-radius: 6px;
+	min-height: 10px;
+	margin: 0px auto 15px auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+@media(max-width: 768px) {
+
+	.design-header {
+		border: none;
+		border-bottom: #e1e1e1 1px solid;
+		border-top: #e1e1e1 1px solid;
+		border-radius: 0px;
+		margin: 0px;
+	}
+
+}
+
+.design-header #design-header-row {
+	padding: 15px; 
+}
+
+/* Info Banner */
+
+.design-header .info-banner {
+	padding: 20px;
+}
+
+.design-header .info-banner.info-banner-info {
+	background-color: #2CD7D7;
+}
+
+.design-header .info-banner.info-banner-success {
+	background-color: #5BCA5B;
+}
+
+.design-header .info-banner.info-banner-warning {
+	background-color: #ff6633;
+}
+
+.design-header .info-banner h1 {
+	color: #fff;
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+.design-header .info-banner p {
+	color: #fff;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+
+.design-header .info-banner.info-banner-default {
+	background-color: #fff;
+	border-top: #e1e1e1 1px solid;
+}
+
+.design-header .info-banner.info-banner-default h1 {
+	color: #666;
+	font-size: 22px;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+.design-header .info-banner.info-banner-default p {
+	color: #999;
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.design-header .design-duration h1 {
+	color: #444;
+}
+
+.design-header .design-duration h5 {
+	color: #999;	
+}
+
+.movement-photo {
+	background-color: #e1e1e1;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	float: left;
+	border-radius: 4px;
+	height: 80px;
+	width: 110px;
+	margin-right: 15px;
+}
+
+.time-remaining {
+	display: block;
+	padding: 0px 15px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	text-align: center;
+}
+
+@media(max-width: 768px) {
+
+	.movement-photo {
+		height: 140px;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+
+	.time-remaining {
+		display: none;
+	}
+
+}
+
+.task-info {
+	padding: 10px;
+}
+
+.task-info a {
+	color: #000;
+}
+
+.task-info a:hover {
+	text-decoration: underline;
+}
+
+.task-info h2 {
+	color: #000;
+	font-size: 20px;
+	margin: 0;
+	margin-top: 5px; 
+	margin-bottom: 5px;
+	padding: 0;
+}
+
+.task-info h4 {
+	color: #999;
+	font-size: 14px;
+	margin: 0;
+	margin-bottom: 5px;
+	padding: 0;
+}
+
+.task-info h4 .fa-warning {
+	color: #ff6633;
+	margin-right: 6px;
+}
+
+.task-info h4 .fa-circle-o {
+	color: #5cb85c;
+	margin-right: 6px;
+}
+
+.task-info h4 .fa-check-circle {
+	color: #5cb85c;
+	margin-right: 6px;
+}
+
+/* Movement Tasks */
+
+.movement-tasks-container {
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+
+.movement-tasks {
+}
+
+.movement-tasks .movement-task {
+	background-color: #fff;
+	border: #e1e1e1 1px solid;
+	border-radius: 6px;
+	margin-bottom: 20px;
+	padding: 10px 20px 5px 20px;
+}
+
+.movement-tasks .movement-task:hover {
+	background-color: #fefefe;
+}
+
+.movement-tasks .status-container {
+	padding: 20px 20px 20px 10px;
+	text-align: center;
+}
+
+.movement-tasks .fa {
+	color: #999;
+	font-size: 18px;
+}
+
+.movement-tasks .status-container .fa-check {
+	color: #5cb85c;
+	font-size: 22px;
+}
+
+.movement-tasks .status-container .fa-circle-o {
+	color: #ff6633;
+	font-size: 22px;
+}
+
+.movement-tasks h3 {
+	font-size: 22px;
+	line-height: 30px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.movement-tasks p {
+	color: #999;
+	font-size: 14px;
+	line-height: 26px;
+	margin: 0px;
+	padding: 0px;
+}
+
+@media(max-width: 768px) {
+
+	.movement-tasks-container {
+		margin-bottom: 20px;
+		margin-top: 0px;
+	}
+
+	.movement-tasks .movement-task {
+		border: none;
+		border-bottom: #e1e1e1 1px solid;
+		border-radius: 0px;
+		margin: 0px;
+		padding: 15px 15px 15px 15px;
+	}
+
+	.movement-tasks h3 {
+		font-size: 20px;
+		line-height: 24px;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.movement-tasks p {
+		color: #999;
+		font-size: 14px;
+		line-height: 24px;
+		margin: 0px;
+		padding: 0px;
+	}
+
+}
+
+.movement-tasks .recent-contributions img {
+	max-height: 80px;
+}
+
+.movement-tasks .recent-contributions h3 {
+	color: #4FA84F;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+/* Bootstrap Tour */
+
+.tour-backdrop {
+	opacity: 0.5;
+}
+
+.design-duration {
+	text-align: center;
+}
+
+.design-duration h1 {
+	margin:10px;
+}

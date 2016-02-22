@@ -1,0 +1,161 @@
+
+/* View Movement Sidebar */
+
+.movement-sidebar {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+	margin-bottom: 15px;
+	min-height: 50px;
+	padding: 20px 15px 20px 15px;
+	text-align: center;
+}
+
+.profile-container {
+	padding: 20px;
+}
+
+.profile-container h2 {
+	color: #666;
+	font-size: 22px;
+	margin: 0;
+	padding: 20px 0px 5px 0px;
+}
+
+.profile-container p {
+	color: #CCC;
+	font-size: 14px;
+	margin: 0;
+	padding: 5px 0px 5px 0px;
+}
+
+.profile-container .profile-photo {
+	background-size: cover;
+	background-position: center;
+	border: #E1E1E1 1px solid;
+	border-radius: 60px;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	height: 100px;
+	margin: 0 auto;
+	width: 100px;
+}
+
+.profile-container .btn {
+	margin-top: 15px;
+}
+
+.movement-sidebar .stats-section {
+	padding: 15px 0 30px 0;
+}
+
+/* Movement Sidebar */
+
+.movement-sidebar h1 {
+	color: #999;
+	font-size: 42px;
+	font-weight: bold;
+	margin: 0;
+	padding: 5px;
+}
+
+.movement-sidebar h5 {
+	color: #666;
+	margin: 0;
+	padding: 5px;
+}
+
+.movement-sidebar hr {
+	margin: 30px;
+}
+
+/* Notifications Sidebar */
+
+.notifications-sidebar {
+	padding: 20px 5px;
+}
+
+.notifications-sidebar h5 {
+	line-height: 20px;
+}
+
+.notifications-sidebar i {
+	color: orange;
+	margin-right: 8px;
+}
+
+/* Share Buttons in Sidebar */
+
+.movement-sidebar ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.movement-sidebar li {
+	color: #999;
+	display: inline-block;
+	font-size: 32px;
+	margin: 0;
+	padding: 0px 6px;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-transition-duration: 0.3s, 0.3s, 0.3s;
+	-webkit-transition-property: color;
+}
+
+.movement-sidebar li:hover {
+	cursor: pointer;
+}
+
+.movement-sidebar .share-fb:hover {
+	color: #3B5998;
+}
+
+.movement-sidebar .share-twitter:hover {
+	color: #4099ff;
+}
+
+.movement-sidebar .share-googleplus:hover {
+	color: #d34836;
+}
+
+.movement-sidebar .share-email:hover {
+	color: #f0ad4e;
+}
+
+#edit-button, #update-button {
+	margin: 15px 0px;
+}
+
+@media (max-width: 768px) {
+	
+	.movement-sidebar {
+		border: none;
+		border-top: #DDD 1px solid;
+		border-bottom: #DDD 1px solid;
+		border-radius: 0px;
+		margin-bottom: 10px;
+	}
+
+	.movement-sidebar .stats-section {
+		padding: 10px 0 10px 0;
+	}
+
+	.movement-sidebar hr {
+		margin: 15px 10px;
+	}
+
+	.movement-sidebar h1 {
+		font-size: 24px;
+	}
+
+	.movement-sidebar h5 {
+		font-size: 11px;
+	}
+
+	.movement-sidebar h5 {
+		font-size: 13px;
+	}
+
+}

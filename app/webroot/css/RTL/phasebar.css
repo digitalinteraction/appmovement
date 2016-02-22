@@ -1,0 +1,227 @@
+/** Phase Bar Styles **/
+
+.phase-bar {
+	border-bottom: #e6e6e6 1px solid;
+	font: 18px Helvetica, Arial, Sans-Serif;
+	list-style: none;
+	margin: 0px;
+	overflow: hidden;
+	padding: 0px;
+}
+
+.phase-bar li { 
+	float: left;
+	position: relative;
+	text-align: center;
+	width: 33.3%;
+}
+
+.phase-bar li span {
+	color: white;
+	text-decoration: none; 
+	background: transparent;
+	position: relative; 
+	display: block;
+	float: left;
+	text-align: center;
+	width: 100%;
+}
+
+.phase-bar li span {
+	background-color: #fff;
+}
+
+.phase-bar li span:before { 
+	content: " "; 
+	display: block; 
+	width: 0; 
+	height: 0;
+	border-top: 30px solid transparent;
+	border-bottom: 30px solid transparent;
+	border-right: 10px solid transparent;
+	position: absolute;
+	top: 50%;
+	margin-top: -30px; 
+	right: 100%;
+	z-index: 2; 
+}
+
+.phase-bar li span:after { 
+	content: " "; 
+	display: block; 
+	width: 0; 
+	height: 0;
+	border-top: 30px solid transparent;
+	border-bottom: 30px solid transparent;
+	border-right: 10px solid #fff;
+	position: absolute;
+	top: 50%;
+	margin-top: -30px; 
+	margin-right: 2px;
+	right: 100%;
+	z-index: 1; 
+}
+
+.phase-bar h3 {
+	color: #999;
+	font-size: 18px;
+	line-height: 50px;
+	margin: 0px;
+	margin-top: 0px;
+	padding: 0px;
+}
+
+@media (max-width:768px) {
+
+	.phase-bar h3 {
+		font-size: 13px;
+		line-height: 40px;
+	}
+
+}
+
+/* Process */
+
+#process-banner {
+	background-color: #fafafa;
+	border-bottom: #E1E1E1 1px solid;
+	display: none;
+	position: relative;
+}
+
+#process-banner .collapse-button {
+	color: #999;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 2;
+}
+
+#process-banner .collapse-button:hover {
+	color: #444;
+	cursor: pointer;
+}
+
+#process-banner h2 {
+	color: #666;
+	font-weight: 200;
+	text-align: center;
+}
+
+.process-content {
+	padding: 30px 20px;
+	text-align: center;
+}
+
+.process-content img {
+	margin: 0px auto 20px auto;
+	max-height: 80px;
+	padding: 0px;
+	opacity: 0.5;
+}
+
+.process-content h5 {
+	color: #666;
+	font-size: 18px;
+	font-weight: 100;
+}
+
+.process-content p {
+	color: #666;
+	margin: 0;
+	padding: 0;
+}
+
+@media (max-width: 768px) {
+
+	.process-content {
+		padding: 30px 20px;
+		text-align: center;
+	}
+
+}
+
+/* Phasebar States */
+
+/* Support Phase */
+
+.support-phase #support-phase:hover { cursor: pointer; }
+
+.support-phase #support-phase h3 { color: #FFF; }
+
+.support-phase #support-phase span:before { border-right: 10px solid #4CC5FF; }
+
+.support-phase #support-phase span { background-color: #4CC5FF; }
+
+/* Hover */
+
+.support-phase #support-phase span:hover:before { border-right: 10px solid #41B4EB; }
+
+.support-phase #support-phase span:hover { background-color: #41B4EB; }
+
+
+/* Design Phase */
+
+.design-phase #support-phase:hover, .design-phase #design-phase:hover { cursor: pointer; }
+
+.design-phase #support-phase h3, .design-phase #design-phase h3 { color: #FFF; top:-2px; position: relative;}
+
+.design-phase #support-phase span:before { border-right: 10px solid #5BCA5B; }
+.design-phase #design-phase span:before { border-right: 10px solid #4CC5FF; }
+
+.design-phase #support-phase span { background-color: #5BCA5B; }
+.design-phase #design-phase span { background-color: #4CC5FF; }
+
+/* Hover */
+
+.design-phase #support-phase span:hover:before { border-right: 10px solid #54AC54; }
+
+.design-phase #support-phase span:hover { background-color: #54AC54; }
+
+.design-phase #design-phase span:hover:before { border-right: 10px solid #41B4EB; }
+
+.design-phase #design-phase span:hover { background-color: #41B4EB; }
+
+
+/* Launch Phase */
+
+.launch-phase #support-phase:hover, .launch-phase #design-phase:hover, .launch-phase #launch-phase:hover { cursor: pointer; }
+
+.launch-phase #support-phase h3, .launch-phase #design-phase h3, .launch-phase #launch-phase h3 { color: #FFF; }
+
+.launch-phase #support-phase span:before, .launch-phase #design-phase span:before { border-right: 10px solid #5BCA5B; }
+.launch-phase #launch-phase span:before { border-right: 10px solid #4CC5FF; }
+
+.launch-phase #support-phase span { background-color: #5BCA5B; }
+.launch-phase #design-phase span { background-color: #5BCA5B; }
+.launch-phase #launch-phase span { background-color: #4CC5FF; }
+
+/* Hover */
+
+.launch-phase #support-phase span:hover:before, .launch-phase #design-phase span:hover:before { border-right: 10px solid #54AC54; }
+
+.launch-phase #support-phase span:hover, .launch-phase #design-phase span:hover { background-color: #54AC54; }
+
+.launch-phase #launch-phase span:hover:before { border-right: 10px solid #41B4EB; }
+
+.launch-phase #launch-phase span:hover { background-color: #41B4EB; }
+
+
+/* Complete */
+
+.complete-phase #support-phase:hover, .complete-phase #design-phase:hover, .complete-phase #launch-phase:hover { cursor: pointer; }
+
+.complete-phase #support-phase h3, .complete-phase #design-phase h3, .complete-phase #launch-phase h3 { color: #FFF; }
+
+.complete-phase #support-phase span:before, .complete-phase #design-phase span:before { border-right: 10px solid #5BCA5B; }
+.complete-phase #launch-phase span:before { border-right: 10px solid #5BCA5B; }
+
+.complete-phase #support-phase span { background-color: #5BCA5B; }
+.complete-phase #design-phase span { background-color: #5BCA5B; }
+.complete-phase #launch-phase span { background-color: #5BCA5B; }
+
+/* Hover */
+
+.complete-phase #support-phase span:hover:before, .complete-phase #design-phase span:hover:before, .complete-phase #launch-phase span:hover:before { border-right: 10px solid #54AC54; }
+
+.complete-phase #support-phase span:hover, .complete-phase #design-phase span:hover, .complete-phase #launch-phase span:hover { background-color: #54AC54; }

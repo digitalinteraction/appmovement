@@ -1,0 +1,9 @@
+/** Learn Styles **/
+
+.learn-row {
+	margin: 40px auto;
+}
+
+.learn-row .col-xs-4 {
+	margin: 40px 0px;
+}

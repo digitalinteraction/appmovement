@@ -1,0 +1,295 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-05-28 16:27-0000\n"
+"PO-Revision-Date: 2015-05-28 16:31-0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8\n"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Please enter a comment"
+msgstr "S'il vous plaît entrer un commentaire"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be at least 3 characters"
+msgstr "Votre commentaire doit être au moins 3 caractères"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be less than 500 characters"
+msgstr "Votre commentaire doit être inférieure à 500 caractères"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "Please include user_id"
+msgstr "S'il vous plaît inclure user_id"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "isNumeric"
+msgstr "isNumeric"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please enter parent_id"
+msgstr "S'il vous plaît entrer parent_id"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please only enter parent_id as numeric value"
+msgstr "S'il vous plaît entrer que parent_id comme valeur numérique"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Parent_id incorrect"
+msgstr "Parent_id incorrecte"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Please enter comment_type_id"
+msgstr "S'il vous plaît entrer comment_type_id"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Comment_type_id incorrect"
+msgstr "Comment_type_id incorrecte"
+
+#: Model/Site/CommentVote.php:validation for field up
+msgid "Please vote up or down"
+msgstr "S'il vous plaît voter pour ou contre"
+
+#: Model/Site/CommentVote.php:validation for field user_id
+msgid "You may only cast your vote once"
+msgstr "Vous ne pouvez voter une fois"
+
+#: Model/Site/CommentVote.php:validation for field comment_id
+msgid "Please enter comment_id"
+msgstr "S'il vous plaît entrer comment_id"
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid "Please only enter a number for the user_id"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid ""
+"You cannot contribute to this movement as you are not a supporter or "
+"promoter of this movement"
+msgstr ""
+"Vous ne pouvez pas contribuer à ce mouvement que vous n'êtes pas un partisan "
+"ou un promoteur de ce mouvement"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please enter movement_design_task_id"
+msgstr "S'il vous plaît entrer movement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please only enter movement_design_task_id as numeric value"
+msgstr ""
+"S'il vous plaît entrer que movement_design_task_id comme valeur numérique"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Movement_design_task_id incorrect"
+msgstr "Movement_design_task_id incorrecte"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Please enter contribution_type_id"
+msgstr "S'il vous plaît entrer contribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Contribution_type_id incorrect"
+msgstr "Contribution_type_id incorrecte"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please enter a contribution"
+msgstr "S'il vous plaît entrer une contribution"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please ensure that you have entered your contribution correctly"
+msgstr ""
+"S'il vous plaît vous assurer que vous avez entré correctement votre "
+"contribution"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "You have already submitted a contribution with those details"
+msgstr "Vous avez déjà soumis une contribution à ces détails"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "Please enter a title for your movement"
+msgstr "S'il vous plaît donner un titre à votre mouvement"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be more than 10 characters"
+msgstr "Le titre doit être de plus de 10 caractères"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be less than 50 characters"
+msgstr "Le titre doit être inférieure à 50 caractères"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "Please enter a short paragraph that describes your movement"
+msgstr "S'il vous plaît entrer un court paragraphe qui décrit votre mouvement"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be more than 20 characters"
+msgstr "La description doit être plus de 20 caractères"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be less than 140 characters"
+msgstr "La description doit être inférieure à 140 caractères"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "Please enter a detailed overview of your movement"
+msgstr "S'il vous plaît entrer un aperçu détaillé de votre mouvement"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be more than 100 characters"
+msgstr "La vue d'ensemble doit être plus de 100 caractères"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be less than 4000 characters"
+msgstr "La liste doit être inférieure à 4000 caractères"
+
+#: Model/Site/Movement.php:validation for field app_type_id
+msgid "Please select the type of app you wish to create"
+msgstr ""
+"S'il vous plaît sélectionnez le type d'application que vous souhaitez créer"
+
+#: Model/Site/Movement.php:validation for field photo
+msgid "Please select a photo for your movement"
+msgstr "S'il vous plaît sélectionner une photo de votre mouvement"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Please enter an update"
+msgstr "S'il vous plaît entrer une mise à jour"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be at least 10 characters"
+msgstr "Votre mise à jour doit être d'au moins 10 caractères"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be less than 4000 characters"
+msgstr "Votre mise à jour doit être inférieure à 4000 caractères"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You are not the creator of this movement"
+msgstr "Vous n'êtes pas le créateur de ce mouvement"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You can only post 2 updates per day. Please try again in a short while."
+msgstr ""
+"Vous ne pouvez poster 2 mises à jour par jour. S'il vous plaît essayer de "
+"nouveau dans un temps court."
+
+#: Model/Notification.php:validation for field data
+msgid ""
+"data is incorrect format for this notification type, or you have not "
+"specified a notification type"
+msgstr ""
+"données est un format incorrect pour ce type de notification, ou si vous "
+"avez pas spécifié un type de notification"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr "S'il vous plaît entrer un notification_type_id"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr "S'il vous plaît entrer que notification_type_id comme valeur numérique"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Notification_type_id incorrect"
+msgstr "Notification_type_id incorrecte"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "S'il vous plaît entrer du texte de révision"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 800 characters"
+msgstr "Texte de l'avis doit être inférieure à 800 caractères"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "S'il vous plaît entrer votre nom complet"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "Nom complet doit être inférieure à 40 caractères"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "S'il vous plaît entrer un nom d'utilisateur"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "Ce nom d'utilisateur n'a été prise, s'il vous plaît choisir un autre"
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr ""
+"Seuls les lettres, chiffres, caractères de soulignement ou des tirets. S'il "
+"vous plaît entrer un nom valide"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "Les noms d'utilisateur doit être inférieure à 40 caractères"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "S'il vous plaît entrer un mot de passe"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "Mot de passe doit être plus de 8 caractères"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "Mot de passe doit être inférieure à 40 caractères"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "S'il vous plaît entrer de nouveau votre mot de passe"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "Les deux champs de mot de passe doivent correspondre"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr "est vide"
+
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "S'il vous plaît entrer une adresse email valide"
+
+#: Model/Global/User.php:validation for field email
+msgid ""
+"An account registered with this email already exists, please enter another "
+"or login below"
+msgstr ""
+"Un compte enregistré avec cet email existe déjà, s'il vous plaît entrer un "
+"autre ou connectez-vous ci-dessous"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "Les e-mails doivent être inférieure à 240 caractères"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "L'image doit être de type: jpg, jpeg ou png"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "L'image doit faire plus de 5 Ko"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "L'image doit être inférieure à 3 Mo"

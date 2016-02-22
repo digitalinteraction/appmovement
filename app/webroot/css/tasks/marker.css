@@ -1,0 +1,60 @@
+
+/* Marker Task Styles */
+
+.marker-tile {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+}
+
+.marker-tile table {
+	width: 100%;
+}
+
+.marker-tile table td {
+	text-align: center;
+}
+
+.marker-tile table img {
+	margin: 10px auto;
+	max-width: 80%;
+	max-height: 100px;
+}
+
+/* Preview Options */
+
+.preview-options-container {
+	border-radius: 4px;
+	display: inline-block;
+	margin-bottom: 20px;
+	padding: 10px 0px;
+}
+
+@media(max-width:768px) {
+	
+	.preview-options-container {
+		padding: 15px;
+	}
+
+}
+
+.preview-options-container select {
+	display: inline-block;
+	outline: none;
+}
+
+.simplecolorpicker.icon, .simplecolorpicker span.color {
+	border-radius: 50%;
+	height: 22px;
+	margin: 10px 5px 0px 5px;
+	outline: none;
+	width: 22px;
+}
+
+.preview-options-container h4 {
+  color: #999;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 200;
+  margin: 0 5px;
+}

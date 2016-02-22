@@ -1,0 +1,15 @@
+/* Published Photo Styles */
+
+body {
+	background-color: #fafafa;
+}
+
+.photo-tile {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+	float: left;
+	height: 0px;
+	width: 0px;
+}

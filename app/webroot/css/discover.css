@@ -1,0 +1,120 @@
+/** Discover Styles **/
+
+.movements-row .col-md-3, .movements-row .col-sm-4, .movements-row .col-xs-6 {
+	margin: 0;
+	padding: 10px;
+}
+
+.custom-container {
+	margin: 0 auto;
+	max-width: 1200px;
+	padding: 0px 20px;
+}
+
+#movements-container {
+	margin: 0 auto;
+}
+
+.no-results {
+	padding: 120px 60px;
+	text-align: center;
+}
+
+.no-results h3 {
+	color: #888;
+}
+
+.no-results h5 {
+	color: #AAA;
+}
+
+/** Sort Row **/
+
+.sort-row {
+	padding: 30px 0px 30px 0px;
+	text-align: center;
+}
+
+.sort-row ul {
+	background-color: #FFF;
+	border: 1px solid #DDD;
+	border-radius: 6px;
+	display: inline-block;
+	line-height: 36px;
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+ }
+
+.sort-row li {
+	border-right: #E1E1E1 1px solid;
+	float: left;
+ }
+
+ .search-element .fa-search {
+ 	color: #888;
+ 	padding: 10px 14px 10px 10px;
+ }
+
+ .search-element .fa-search:hover {
+ 	color: #222;
+ 	cursor: pointer;
+ }
+
+@media (max-width: 720px) {
+
+	.search-element {
+		display: none !important;
+	}
+
+}
+
+.sort-row li:last-child {
+	border-right: none;
+ }
+
+.sort-row li a {
+	color: #888;
+	padding: 10px 24px;
+ }
+
+.sort-row li a:hover {
+	color: #222;
+	cursor: pointer;
+ }
+
+ .sort-row .active a {
+	color: #000;
+ }
+
+@media (max-width: 420px) {
+
+	.sort-row li a {
+		padding: 10px 15px;
+	 }
+
+}
+
+/** Sort Row **/
+
+ .sort-row a.asc, .sort-row a.desc {
+ 	color: #000;
+}
+
+ .sort-row a.asc:after {
+    content: ' ↓';
+}
+
+.sort-row a.desc:after {
+    content: ' ↑';
+}
+
+ .sort-row input {
+ 	background-color: #fff;
+ 	border: none;
+	box-shadow: none;
+ 	height: 36px;
+ 	margin: 0;
+	text-align: left;
+ 	width: 240px;
+ }

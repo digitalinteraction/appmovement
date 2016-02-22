@@ -1,0 +1,32 @@
+/* Published App Download Styles */
+
+.download-container {
+	background-color: #fff;
+	border: #e1e1e1 1px solid;
+	border-radius: 8px;
+	margin: 40px auto;
+	padding: 40px 60px;
+	text-align: center;
+}
+
+.download-container .store-image {
+	height: 60px;
+	margin: 10px;
+}
+
+.download-container .app-icon {
+	border: #e1e1e1 1px solid;
+	border-radius: 20px;
+	height: 100px;
+	margin: 10px auto;
+	overflow: hidden;
+	width: 100px;
+}
+
+@media (min-width: 750px) {
+	.top-store-image {
+		display:none;
+	}
+}
+
+

@@ -1,0 +1,147 @@
+
+/* Support Modal */
+
+#support-modal {
+	display: none;
+	max-width: 100%;
+	width: 560px;
+	left: 50%;
+	margin-left: -280px;
+	top: 20px;
+	position: fixed;
+	text-align: center;
+	z-index: 51;
+}
+
+@media (max-width: 600px) {
+	
+	#support-modal {
+		left: 10px;
+		right: 10px;
+		top: 10px;
+		position: absolute;
+		margin-left: auto;
+		width: auto;
+	}
+}
+
+@media (max-width: 400px) {
+	
+	#support-modal {
+		left: 5px;
+		right: 5px;
+		top: 5px;
+		position: absolute;
+		margin-left: auto;
+		width: auto;
+	}
+
+	#support-modal .modal-body {
+		padding: 20px 3px;
+	}
+}
+
+#support-modal-backdrop {
+	content: " ";
+	background-color: rgba(0, 0, 0, 0.4);
+	display: none;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	opacity: 0.0;
+	z-index: 50;
+}
+
+#support-modal-close-button {
+	color: #CCC;
+	height: 60px;
+	line-height: 60px;
+	width: 60px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 52;
+}
+
+#support-modal-close-button:hover {
+	color: red;
+	cursor: pointer;
+}
+
+#support-modal #verification-code {
+	background-color: #f9f9f9;
+	border: #CCC 2px dashed;
+	border-radius: 6px;
+	font-size: 44px;
+	margin-top: 10px;
+	padding: 10px 30px;
+}
+
+#support-modal p {
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+#support-modal h4 {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 10px 0px;
+}
+
+#support-modal .modal-subsection {
+	margin: 30px 0;
+}
+
+#support-modal .modal-subsection h5 {
+	color: #666;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+#support-modal #download-buttons {
+	padding-top: 20px;
+}
+
+#support-modal p {
+	color: #999;
+	margin: 10px 10px 10px 10px;
+}
+
+#support-modal img {
+	margin: 20px 10px;
+	max-height: 45px;
+}
+
+#support-modal .btn-support-confirm {
+	margin-top: 15px;
+}
+
+#support-modal .btn-support-confirm i {
+	margin-right: 6px;
+}
+
+#support-modal .error_msgs p {
+	color: red;
+}
+
+#support-modal .g-recaptcha > div > div{
+	margin: 0 auto;
+}
+
+#support-modal .modal-footer {
+	border-top: #eeeeee 1px solid;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+@media(max-width: 768px) {
+	#support-modal .modal-footer {
+		border-top: none;
+		margin: 0;
+	}
+}

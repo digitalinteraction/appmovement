@@ -1,0 +1,23 @@
+/** FAQ Styles **/
+
+.faq-row {
+	text-align: center;
+}
+
+.faq-row .page-panel {
+	margin: 30px auto 0px auto;
+}
+
+.faq-row .faq-section {
+	padding: 20px 40px;
+}
+
+.faq-row .faq-section h3 {
+	margin-bottom: 20px;
+}
+
+.faq-row .faq-section p {
+	max-width: 600px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}

@@ -1,0 +1,28 @@
+
+/* Download Modal */
+
+.download-modal {
+	text-align: center;
+}
+
+.download-modal .btn {
+	margin: 0px 5px;
+}
+
+.download-modal .modal-body {
+	padding: 20px 30px 30px 30px;
+}
+
+.download-modal h2 {
+	margin-bottom: 30px;
+}
+
+.download-modal .store-image {
+	height: 80px;
+	padding: 10px;
+	margin: 0 auto;
+}
+
+.download-modal .download-links {
+	margin-top: 20px;
+}

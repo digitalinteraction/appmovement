@@ -1,0 +1,15 @@
+/* Published App Stats Styles */
+
+.stats-tile {
+	float: left;
+	padding: 50px 0;
+	text-align: center;
+	width: 33%
+}
+
+#chart-container {
+}
+
+#review-chart {
+	padding: 0 20px;
+}

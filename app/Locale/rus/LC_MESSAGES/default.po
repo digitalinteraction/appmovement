@@ -1,0 +1,2555 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-11-17 16:22-0000\n"
+"PO-Revision-Date: 2015-12-08 23:42+0300\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"Language: ru\n"
+
+#: Controller/CommentsController.php:121 Controller/MovementsController.php:565
+msgid "You are required to be logged in for this transaction"
+msgstr "Вы должны быть авторизованы для осуществления этого действия "
+
+#: Controller/CommentsController.php:141
+#: Controller/ContributionsController.php:181
+#: Controller/MovementsController.php:439;501;585
+msgid "You do not have permission to do that"
+msgstr "У Вас недостаточно прав для совершения действия"
+
+#: Controller/ContributionsController.php:67
+msgid "No file has been submitted"
+msgstr "Файл не был загружен"
+
+#: Controller/ContributionsController.php:73
+msgid "Error in file submission"
+msgstr "Ошибка в загрузке файла"
+
+#: Controller/ContributionsController.php:135
+msgid "Contribution has been submitted"
+msgstr "Ваш вариант успешно отправлен"
+
+#: Controller/ContributionsController.php:145
+msgid "Please ensure that your image is in the correct format (jpg, jpeg, png) and is between 2KB - 3MB"
+msgstr "Пожалуйста, убедитесь, что Ваше изображение в правильном формате (JPG, JPEG, PNG) и его размер от 2 Кб  до 3 Мб"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/ContributionsController.php:208
+#, fuzzy
+msgid "Contribution id required"
+msgstr "Требуется идентификатор предложения"
+
+#: Controller/ContributionsController.php:209
+msgid "No Report Type id"
+msgstr "Отсутствует идентификатор типа отчета"
+
+#: Controller/ContributionsController.php:235
+msgid "Report type id incorrect"
+msgstr "Идентификатор типа отчета неверен"
+
+#: Controller/MobileController.php:13;29
+#: Controller/MovementsController.php:289;308;428;493;747
+#: Controller/TasksController.php:14;82
+msgid "Could not find movement"
+msgstr "Не удалось найти движение"
+
+#: Controller/MovementsController.php:265
+msgid "%s needs your support"
+msgstr "%s нуждается в вашей поддержке"
+
+#: Controller/MovementsController.php:282
+msgid "Your friends have been invited"
+msgstr "Ваши друзья были приглашены"
+
+#: Controller/MovementsController.php:295;296
+msgid "%s | Onboarding"
+msgstr "%s | Присоединяется"
+
+#: Controller/MovementsController.php:335;336
+#: View/Emails/html/movement_failed.ctp:41 View/Movements/start.ctp:28
+#: View/Pages/home.ctp:36
+msgid "Start a Movement"
+msgstr "Предложите идею для движения"
+
+#: Controller/MovementsController.php:346
+msgid "Please login or create an account to start a movement"
+msgstr "Пожалуйста, войдите или зарегистрируйтесь, для того чтобы начать движение"
+
+#: Controller/MovementsController.php:409
+msgid "There are some errors with your movement"
+msgstr "Возникли некоторые ошибки связанные с вашим движением"
+
+#: Controller/MovementsController.php:419;420
+#: View/Elements/Movements/sidebar.ctp:158 View/Movements/edit.ctp:17
+msgid "Edit Movement"
+msgstr "Редактировать Движение"
+
+#: Controller/MovementsController.php:468
+msgid "Movement was updated"
+msgstr "Движение было обновлено"
+
+#: Controller/MovementsController.php:476
+msgid "Movement was not updated"
+msgstr "Движение не было обновлено"
+
+#: Controller/MovementsController.php:508
+msgid "Movement was deleted"
+msgstr "Движение было удалено"
+
+#: Controller/MovementsController.php:662
+msgid "api_key parameter required"
+msgstr "Требуется ключ приложения (api_key)"
+
+#: Controller/MovementsController.php:668
+msgid "Id parameter required"
+msgstr "Требуется идентификатор (Id)"
+
+#: Controller/MovementsController.php:776
+msgid "This movement has not yet reached the launch phase"
+msgstr "Это движение еще не достигло стадии запуска"
+
+#: Controller/MovementsController.php:790
+msgid "Movements with 5 supporters or more cannot be edited"
+msgstr "Движения с более чем пятью сторонниками не могут быть отредактированы"
+
+#: Controller/NotificationsController.php:261
+msgid "We have new updates for you!"
+msgstr "У нас есть новые обновления для Вас!"
+
+#: Controller/PromotersController.php:126
+msgid "Please check that you have entered the correct code. This can be found at https://app-movement.com"
+msgstr "Пожалуйста, убедитесь, что Вы ввели правильный код. Он может быть найден на https://app-movement.com"
+
+#: Controller/PromotersController.php:131
+#: Controller/SupportersController.php:94
+msgid "Code parameter missing"
+msgstr "Отсутствует код"
+
+#: Controller/SupportersController.php:89
+msgid "Please check that you have entered the correct code. This can be found at http://app-movement.com"
+msgstr "Пожалуйста, убедитесь, что Вы ввели верный код. Он может быть найден на http://app-movement.com"
+
+#: Controller/SupportersController.php:166;171
+msgid "Please verify you are a real person by clicking the button above"
+msgstr "Пожалуйста, подтвердите, что Вы реальный человек, нажав кнопку выше"
+
+#: Controller/SupportersController.php:176
+msgid "Invalid movement_id"
+msgstr "Неверный идентификатор движения (movement_id)"
+
+#: Controller/SupportersController.php:181
+msgid "You must be logged in to perform this action"
+msgstr "Вы должны войти в систему, чтобы выполнить это действие"
+
+#: Controller/TasksController.php:90;156
+msgid "Movement has not yet reached the design phase"
+msgstr "Движение еще не достигло стадии дизайна"
+
+#: Controller/UsersController.php:66
+msgid "You have created an account"
+msgstr "Вы создали учетную запись"
+
+#: Controller/UsersController.php:162
+msgid "You have logged in"
+msgstr "Вы вошли"
+
+#: Controller/UsersController.php:170
+msgid "Your username or password was incorrect."
+msgstr "Вы ввели неверное имя пользователя или пароль"
+
+#: Controller/UsersController.php:205
+msgid "Reset Your App Movement Password"
+msgstr "Сбросить пароль"
+
+#: Controller/UsersController.php:209
+msgid "A reset link will be emailed to you."
+msgstr "Ссылка на страницу сброса будет отправлен на вашу почту."
+
+#: Controller/UsersController.php:214
+msgid "The reset email could not be sent"
+msgstr "Сообщение со ссылкой для сброса не может быть отправлено"
+
+#: Controller/UsersController.php:219
+msgid "An account does not exist with the given email address"
+msgstr "К данному почтовому адресу не привязана ни одна учетная запись в системе."
+
+#: Controller/UsersController.php:253
+msgid "Your password has been updated"
+msgstr "Ваш пароль был обновлен"
+
+#: Controller/UsersController.php:268;273
+msgid "Password could not be updated"
+msgstr "Пароль не может быть обновлен"
+
+#: Controller/UsersController.php:431
+msgid "Your profile was updated"
+msgstr "Ваш профиль был обновлен"
+
+#: Controller/UsersController.php:439;445
+msgid "Your profile was not updated"
+msgstr "Ваш профиль не был обновлен"
+
+#: Controller/VotesController.php:30
+msgid "You cannot vote on your own contribution"
+msgstr "Вы не можете голосовать за свое собственное предложение"
+
+#: Controller/VotesController.php:38
+msgid "You cannot vote more than once"
+msgstr "Вы не можете голосовать несколько раз"
+
+#: Controller/VotesController.php:81
+msgid "You must be logged in to vote"
+msgstr "Вы должны войти для того чтобы проголосовать"
+
+#: Controller/Templates/AuthController.php:133
+msgid "Please provide username"
+msgstr "Пожалуйста, введите имя пользователя"
+
+#: Controller/Templates/AuthController.php:134;279;378
+msgid "Please provide email"
+msgstr "Пожалуйста, введите адрес электронной почты"
+
+#: Controller/Templates/AuthController.php:135;280
+msgid "Please provide password"
+msgstr "Пожалуйста, введите пароль"
+
+#: Controller/Templates/AuthController.php:149
+msgid "Email address already registered. Please sign in with your App Movement account if you have one."
+msgstr "Адрес электронной почты уже зарегистрирован. Пожалуйста, войдите под своей учетной записью в системе."
+
+#: Controller/Templates/AuthController.php:150
+msgid "Username has been taken. Please sign in with your App Movement account if you have one."
+msgstr "Данное имя пользователя уже занято. Пожалуйста, войдите под своей учетной записью в системе."
+
+#: Controller/Templates/AuthController.php:175
+msgid "Account could not be created"
+msgstr "Учетная запись не может быть создана"
+
+#: Controller/Templates/AuthController.php:288
+msgid "Authentication Failed"
+msgstr "Ошибка аутентификации"
+
+#: Controller/Templates/AuthController.php:379
+msgid "Please provide an app name"
+msgstr "Пожалуйста, укажите название приложения"
+
+#: Controller/Templates/AuthController.php:392
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+#: Controller/Templates/AuthController.php:412
+msgid "Email failed to send"
+msgstr "Не удалось отправить электронное письмо"
+
+#: Controller/Templates/AuthController.php:562
+#: Controller/Templates/GeolocationController.php:491;659;867;1060;1174;1277;1395;1492;1619
+msgid "Please provide user_id"
+msgstr "Пожалуйста, введите идентификатор пользователя (user_id)"
+
+#: Controller/Templates/AuthController.php:589
+msgid "Incorrect identifier specified"
+msgstr "Предоставлен неверный идентификатор"
+
+#: Controller/Templates/AuthController.php:705
+msgid "API key required"
+msgstr "Требуется ключ API"
+
+#: Controller/Templates/AuthController.php:718
+msgid "Please provide content_id"
+msgstr "Пожалуйста, предоставьте content_id"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/AuthController.php:719
+#, fuzzy
+msgid "Please provide app_identifier"
+msgstr "Пожалуйста, предоставьте идентификатор приложения (app_identifier)"
+
+#: Controller/Templates/AuthController.php:720
+msgid "Please provide share_type"
+msgstr "Пожалуйста, укажите как Вы хотите поделиться (share_type)"
+
+#: Controller/Templates/AuthController.php:730
+msgid "Please provide valid app_identifier"
+msgstr "Пожалуйста, укажите верный идентификатор приложения (app_identifier)"
+
+#: Controller/Templates/AuthController.php:738
+msgid "Please provide a valid share_type"
+msgstr "Пожалуйста, представьте верный  share_type"
+
+#: Controller/Templates/GeolocationController.php:259;1062
+msgid "Please provide latitude"
+msgstr "Пожалуйста, укажите широту"
+
+#: Controller/Templates/GeolocationController.php:260;1063
+msgid "Please provide longitude"
+msgstr "Пожалуйста, укажите долготу"
+
+#: Controller/Templates/GeolocationController.php:492;660;868;1175;1278;1396;1493
+msgid "Please provide venue_id"
+msgstr "Пожалуйста, укажите идентификатор события (venue_id)"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:504;668
+#, fuzzy
+msgid "No venue found"
+msgstr "Событие не найдено"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:869
+#, fuzzy
+msgid "Please provide q1"
+msgstr "Пожалуйста, укажите q1"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:870
+#, fuzzy
+msgid "Please provide q2"
+msgstr "Пожалуйста, укажите q2"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:871
+#, fuzzy
+msgid "Please provide q3"
+msgstr "Пожалуйста, укажите q3"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:872
+#, fuzzy
+msgid "Please provide q4"
+msgstr "Пожалуйста, укажите q4"
+
+#: Controller/Templates/GeolocationController.php:873
+msgid "Please provide review_text"
+msgstr "Пожалуйста предоставьте review_text"
+
+#: Controller/Templates/GeolocationController.php:893
+msgid "Failed to submit review"
+msgstr "Не удалось отправить отзыв"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:1061
+#, fuzzy
+msgid "Please provide venue name"
+msgstr "Пожалуйста, укажите название события"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:1075
+#, fuzzy
+msgid "Failed to add venue"
+msgstr "Не удалось добавить событие"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:1176;1279;1397;1494
+#, fuzzy
+msgid "Please provide review_id"
+msgstr "Пожалуйста, укажите идентификатор отзыва (review_id)"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Controller/Templates/GeolocationController.php:1177
+#, fuzzy
+msgid "Please provide receiver_id"
+msgstr "Пожалуйста, укажите идентификатор получателя (receiver_id)"
+
+#: Controller/Templates/GeolocationController.php:1198
+msgid "Failed to like review"
+msgstr "Не удалось поставить \"Мне Нравится\" для отзыва"
+
+#: Controller/Templates/GeolocationController.php:1416
+msgid "Failed to report review"
+msgstr "Не удалось сообщить об отзыве"
+
+#: Controller/Templates/GeolocationController.php:1620
+msgid "Please provide profile_id"
+msgstr "Пожалуйста, укажите идентификатор профиля (profile_id)"
+
+#: Controller/Templates/GeolocationController.php:1671
+msgid "No user found"
+msgstr "Ни один пользователь не найден"
+
+#: View/Elements/discussion.ctp:21
+msgid "Discussion"
+msgstr "Обсуждение"
+
+#: View/Elements/discussion.ctp:35 View/Elements/Comments/comment.ctp:56
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: View/Elements/discussion.ctp:36
+msgid "Comment"
+msgstr "Комментировать"
+
+#: View/Elements/discussion.ctp:43
+msgid "Order by date"
+msgstr "Сортировать по дате"
+
+#: View/Elements/footer.ctp:24 View/Pages/contact.ctp:9 View/Pages/press.ctp:81
+msgid "Contact"
+msgstr "Контакты"
+
+#: View/Elements/footer.ctp:27
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "FAQ"
+msgstr "Часто задаваемые вопросы"
+
+#: View/Elements/footer.ctp:30 View/Mobile/terms.ctp:10
+msgid "Terms"
+msgstr "Условия использования"
+
+#: View/Elements/footer.ctp:33
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Elements/footer.ctp:36
+#, fuzzy
+msgid "Press"
+msgstr "Пресса"
+
+#: View/Elements/movement_tile.ctp:14;74 View/Movements/view.ctp:82;85
+msgid "SUPPORTED"
+msgstr "ПОДДЕРЖЕНО"
+
+#: View/Elements/movement_tile.ctp:25
+msgid "by"
+msgstr "от"
+
+#: View/Elements/movement_tile.ctp:49 View/Elements/Movements/sidebar.ctp:150
+msgid "Under Review"
+msgstr "На рассмотрении"
+
+#: View/Elements/movement_tile.ctp:57
+msgid "Unsuccessful"
+msgstr "Неудачно"
+
+#: View/Elements/movement_tile.ctp:73
+msgid "%"
+msgstr "%"
+
+#: View/Elements/movement_tile.ctp:78
+msgid "DAY TO GO"
+msgstr "ДЕНЬ ОСТАЛСЯ"
+
+#: View/Elements/movement_tile.ctp:78
+msgid "DAYS TO GO"
+msgstr "ДНЕЙ ОСТАЛОСЬ"
+
+#: View/Elements/movement_tile.ctp:87
+msgid "Design Phase"
+msgstr "Стадия дизайна"
+
+#: View/Elements/movement_tile.ctp:95 View/Movements/launch.ctp:13
+msgid "Launch Phase"
+msgstr "Стадия запуска"
+
+#: View/Elements/movement_tile.ctp:103 View/Movements/launch.ctp:9
+msgid "Available to Download"
+msgstr "Доступно для скачивания"
+
+#: View/Elements/navigation.ctp:16;22 View/Mobile/about.ctp:10
+msgid "About"
+msgstr "Описание"
+
+#: View/Elements/navigation.ctp:17;23
+msgid "Start"
+msgstr "Начать"
+
+#: View/Elements/navigation.ctp:18;24 View/Movements/index.ctp:10
+#: View/Previews/colour.ctp:41 View/Previews/geolocation_map.ctp:96
+#: View/Previews/geolocation_venue.ctp:41
+msgid "Discover"
+msgstr "Галерея "
+
+#: View/Elements/navigation.ctp:19
+msgid "Activity"
+msgstr "моя активность"
+
+#: View/Elements/navigation.ctp:25 View/Elements/Modals/auth_modal.ctp:33;94
+#: View/Users/login.ctp:10;30
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: View/Elements/navigation.ctp:26 View/Elements/Modals/auth_modal.ctp:32
+#: View/Users/register.ctp:44
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: View/Elements/navigation.ctp:27 View/Elements/Modals/auth_modal.ctp:64
+msgid "Create Account"
+msgstr "Создать учетную запись"
+
+#: View/Elements/Banners/video_banner.ctp:3;5
+msgid "Watch the introduction video"
+msgstr "Просмотреть вводное видео"
+
+#: View/Elements/Comments/comment.ctp:44;57
+msgid "Reply"
+msgstr "Ответить"
+
+#: View/Elements/Contributions/colour.ctp:15;44
+#: View/Elements/Tasks/colour.ctp:56
+msgid "Primary Colour"
+msgstr "Основной цвет"
+
+#: View/Elements/Contributions/colour.ctp:16;45
+#: View/Elements/Tasks/colour.ctp:66
+msgid "Pin Colour"
+msgstr "Цвет маркера"
+
+#: View/Elements/Contributions/colour.ctp:17;46
+#: View/Elements/Tasks/colour.ctp:76
+msgid "Star Colour"
+msgstr "Цвет звезды рейтинга"
+
+#: View/Elements/Contributions/colour.ctp:18;47
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: View/Elements/Contributions/location.ctp:50
+msgid "Open at User's Location"
+msgstr "Просмотр местоположения пользователя"
+
+#: View/Elements/LTR/phasebar.ctp:36 View/Elements/RTL/phasebar.ctp:46
+#: View/Movements/overview.ctp:21
+msgid "Support"
+msgstr "Поддержка"
+
+#: View/Elements/LTR/phasebar.ctp:41 View/Elements/RTL/phasebar.ctp:41
+#: View/Movements/overview.ctp:22
+msgid "Design"
+msgstr "Дизайн"
+
+#: View/Elements/LTR/phasebar.ctp:46 View/Elements/RTL/phasebar.ctp:36
+#: View/Movements/overview.ctp:23
+msgid "Launch"
+msgstr "Запуск"
+
+#: View/Elements/LTR/phasebar.ctp:58 View/Elements/RTL/phasebar.ctp:58
+msgid "Help %s by supporting this movement."
+msgstr "Помогите %s поддержав это движение."
+
+#: View/Elements/LTR/phasebar.ctp:66 View/Elements/RTL/phasebar.ctp:66
+msgid "Work with %s and other supporters to design the app."
+msgstr "Придумайте дизайн, совместно с  %s и другими сторонниками."
+
+#: View/Elements/LTR/phasebar.ctp:73 View/Elements/RTL/phasebar.ctp:73
+msgid "Download the app from the App Store for free!"
+msgstr "Скачать приложение из App Store, бесплатно!"
+
+#: View/Elements/Languages/js.ctp:4
+msgid "Support %s's app idea - %s"
+msgstr "Поддержите идею %s для приложения  %s"
+
+#: View/Elements/Languages/js.ctp:5
+msgid ""
+"Hey there! \n"
+"\n"
+"I’ve found an awesome App Movement that I think you should be a part of. \n"
+"\n"
+"Click the link to find out more about this idea, \n"
+"\n"
+"%s - http://apmv.co/%s\n"
+"\n"
+"Let's start the movement!"
+msgstr ""
+"Привет всем! \n"
+" \n"
+"Я наткнулся на отличную идею для приложения! Мне кажется тебе понравится и тебе стоит принять участие.\n"
+"\n"
+"Перейди по ссылки, чтобы узнать больше об этой идеи, \n"
+"\n"
+"%s - http://apmv.co/%s\n"
+"\n"
+" Давайподдержим идею!"
+
+#: View/Elements/Languages/js.ctp:8
+msgid "Delete contribution?"
+msgstr "Удалить вклад?"
+
+#: View/Elements/Languages/js.ctp:11
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: View/Elements/Languages/js.ctp:12
+#: View/Elements/Modals/contribution_flag_modal.ctp:20
+#: View/Elements/Modals/feedback_modal.ctp:21
+msgid "Cancel"
+msgstr "Отмена"
+
+#: View/Elements/Languages/js.ctp:15
+#: View/Elements/Movements/action_button.ctp:11;17
+msgid "Supported"
+msgstr "Поддержано"
+
+#: View/Elements/Modals/auth_modal.ctp:24
+#: View/Elements/Modals/download_modal.ctp:9
+msgid "Close"
+msgstr "Закрыть"
+
+#: View/Elements/Modals/auth_modal.ctp:45 View/Users/edit.ctp:23
+#: View/Users/register.ctp:23
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: View/Elements/Modals/auth_modal.ctp:45 View/Users/register.ctp:23
+msgid "Full Name"
+msgstr "Полное Имя"
+
+#: View/Elements/Modals/auth_modal.ctp:49
+#: View/Elements/Modals/feedback_modal.ctp:14 View/Users/edit.ctp:31
+#: View/Users/register.ctp:31
+msgid "Email Address"
+msgstr "Адрес электронной почты"
+
+#: View/Elements/Modals/auth_modal.ctp:53;83 View/Users/edit.ctp:35
+#: View/Users/login.ctp:26 View/Users/register.ctp:35
+msgid "Password"
+msgstr "Пароль"
+
+#: View/Elements/Modals/auth_modal.ctp:57
+msgid "By creating an account means you agree to our %s and %s"
+msgstr "Создавая учетную запись, Вы соглашаетесь с %s и %s"
+
+#: View/Elements/Modals/auth_modal.ctp:79 View/Users/login.ctp:24
+msgid "Username / Email"
+msgstr "Имя пользователя / Адрес электронной почты"
+
+#: View/Elements/Modals/auth_modal.ctp:79 View/Users/display_users.ctp:35
+#: View/Users/edit.ctp:27 View/Users/login.ctp:24 View/Users/register.ctp:27
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: View/Elements/Modals/auth_modal.ctp:87
+msgid "Forgotten your password? %s to reset it."
+msgstr "Забыли свой пароль? %s чтобы сбросить его."
+
+#: View/Elements/Modals/auth_modal.ctp:87
+#: View/Emails/html/build_phase_complete.ctp:76
+#: View/Emails/html/created_movement.ctp:54
+#: View/Emails/html/design_phase_complete.ctp:51
+#: View/Emails/html/invite_user_to_movement.ctp:60
+#: View/Emails/html/movement_failed.ctp:55
+#: View/Emails/html/movement_update.ctp:55 View/Emails/html/reset.ctp:47
+#: View/Emails/html/support_phase_complete.ctp:56
+#: View/Emails/html/supported_movement.ctp:52
+#: View/Layouts/Emails/html/grouped_notification.ctp:59
+msgid "Click here"
+msgstr "Кликните сюда"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Elements/Modals/contribution_flag_modal.ctp:8
+#, fuzzy
+msgid "Report Contribution"
+msgstr "Сообщить Вклад"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Elements/Modals/contribution_flag_modal.ctp:10
+#, fuzzy
+msgid "Check the option below and click submit if you think this contribution is:"
+msgstr "Выберите пункт ниже и нажмите отправить, если вы думаете,  что это предложение:"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Elements/Modals/contribution_flag_modal.ctp:12
+#, fuzzy
+msgid "Abusive / Offensive"
+msgstr "Оскорбительное"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Elements/Modals/contribution_flag_modal.ctp:13
+#, fuzzy
+msgid "Copyright Infringement"
+msgstr "Нарушает авторские права"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:14
+msgid "Spam"
+msgstr "Спам"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:16
+msgid "Please select an option above"
+msgstr "Пожалуйста, выберите один из пунктов выше"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:19
+#: View/Elements/Modals/feedback_modal.ctp:22 View/Elements/Tasks/colour.ctp:93
+msgid "Submit"
+msgstr "Отправить"
+
+#: View/Elements/Modals/download_modal.ctp:12
+msgid "Download"
+msgstr "Скачать"
+
+#: View/Elements/Modals/download_modal.ctp:14
+msgid "This app has been successfully supported and designed by the community and is now available on the app stores."
+msgstr "Запуск и дизайн этого приложения был успешно поддержан сообществом. Теперь оно доступно в магазине приложений."
+
+#: View/Elements/Modals/download_modal.ctp:16
+msgid "Please click one of the buttons below to download this app for free."
+msgstr "Пожалуйста, выберите одну из кнопок ниже (под ваш телефон, для того чтобы скачать бесплатное приложение."
+
+#: View/Elements/Modals/feedback_modal.ctp:9
+msgid "Submit Feedback"
+msgstr "Оставить отзыв"
+
+#: View/Elements/Modals/feedback_modal.ctp:11
+msgid "Got some feedback for us? Is something not working? We’d love to hear your suggestions. Please leave us a message in the box below."
+msgstr "У Вас есть что нам сказать? Что-то не работает? Мы были бы рады услышать Ваши предложения. Пожалуйста, оставьте нам сообщение в поле ниже."
+
+#: View/Elements/Modals/feedback_modal.ctp:17
+msgid "Enter your comment here"
+msgstr "Оставьте свой комментарий здесь"
+
+#: View/Elements/Modals/promote_modal.ctp:10
+msgid "Start promoting this movement"
+msgstr "Начать продвигать это движение"
+
+#: View/Elements/Modals/promote_modal.ctp:12
+msgid "Share the link below anywhere you like to start promoting this app movement and earning influence for the design phase!"
+msgstr "Поделитесь ссылкой представленной ниже где вам удобно, чтобы начать продвигать это движение получить больше влияния на стадии дизайна!"
+
+#: View/Elements/Modals/promote_modal.ctp:27 View/Movements/start.ctp:231;251
+msgid "Done"
+msgstr "Готово"
+
+#: View/Elements/Modals/support_modal.ctp:9;36
+msgid "Confirm Support"
+msgstr "Подтвердить поддержку движения."
+
+#: View/Elements/Modals/support_modal.ctp:10
+msgid "Supporting %s's idea simply involves clicking the support button below. You can also help design the app after the movement reaches its target."
+msgstr "Чтобы поддержать идею  пользователя %s просто нажмите на кнопку ниже. Вы также можете помочь создать дизайн приложения после того как движение наберет необходимое количество голосов."
+
+#: View/Elements/Modals/support_modal.ctp:14
+msgid "Stay up to date"
+msgstr "Будьте в курсе"
+
+#: View/Elements/Modals/support_modal.ctp:15
+msgid "Receive email notifications with progress updates."
+msgstr "Получайте уведомления по электронной почте с обновлениями о ходе процесса."
+
+#: View/Elements/Modals/support_modal.ctp:19
+msgid "Get access to the design area"
+msgstr "Получите доступ к стадии дизайна"
+
+#: View/Elements/Modals/support_modal.ctp:20
+msgid "Submit ideas and vote on other people's suggestions."
+msgstr "Отправьте идею и голосуйте за предложения других людей."
+
+#: View/Elements/Modals/support_modal.ctp:24
+msgid "Download the app for free"
+msgstr "Скачайте приложение бесплатно"
+
+#: View/Elements/Modals/support_modal.ctp:25
+msgid "Once it has been designed by the community and generated by us."
+msgstr "После того, как дизайн будет создан сообществом и приложение будет создано нами."
+
+#: View/Elements/Movements/action_button.ctp:15;34;61;68
+msgid "Support Idea"
+msgstr "Поддержите идею"
+
+#: View/Elements/Movements/action_button.ctp:28;36
+msgid "Help Design"
+msgstr "Помогите с дизайном"
+
+#: View/Elements/Movements/action_button.ctp:45;76
+msgid "View Progress"
+msgstr "Посмотреть прогресс"
+
+#: View/Elements/Movements/action_button.ctp:52;83 View/Movements/launch.ctp:70
+msgid "Download App"
+msgstr "Скачать приложение"
+
+#: View/Elements/Movements/notification_banner.ctp:27
+msgid "Movement was unsuccessful"
+msgstr "Движение было неуспешным "
+
+#: View/Elements/Movements/sidebar.ctp:12
+msgid "Movement Creator"
+msgstr "Создатель движения"
+
+#: View/Elements/Movements/sidebar.ctp:20
+msgid "Supporters"
+msgstr "Сторонники"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporter"
+msgstr "сторонник"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporters"
+msgstr "сторонника"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "day to go"
+msgstr "день остался"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "days to go"
+msgstr "дней осталось"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "day launching"
+msgstr "день в процессе запуска"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "days launching"
+msgstr "дней в процессе запуска"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "person shared"
+msgstr "человек поделился"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "people shared"
+msgstr "людей поделилось"
+
+#: View/Elements/Movements/sidebar.ctp:114
+msgid "This Movement has been fully supported!"
+msgstr "Это движение было полностью поддержано !"
+
+#: View/Elements/Movements/sidebar.ctp:122
+msgid "more supporters to hit the target."
+msgstr "сторонников не хватает, чтобы достигнуть цели."
+
+#: View/Elements/Movements/sidebar.ctp:134
+msgid "Movements with 5 or more supporters cannot be edited."
+msgstr "Движения с более чем пятью сторонниками не могут быть отредактированы"
+
+#: View/Elements/Movements/sidebar.ctp:144
+msgid "This movement did not gather enough support to progress to the design phase."
+msgstr "Это движение не собрало достаточно голосов для перехода на стадию дизайна."
+
+#: View/Elements/Movements/sidebar.ctp:153 View/Movements/view.ctp:164
+msgid "Post Update"
+msgstr "Сообщить об обновление"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:13
+#: View/Elements/Stream/build_phase_complete.ctp:10
+msgid "Congratulations! Your App is Now Available!"
+msgstr "Поздравляем! Ваше приложение теперь доступно для скачивания!"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:15
+msgid "%s has now been fully designed by the %s supporting members of the community and has been generated! Click below to download the app."
+msgstr "%s  успешно прошло стадию дизайна, поддержанное %s членами сообщества и было создано! Нажмите на кнопку ниже для скачивания."
+
+#: View/Elements/Notifications/created_movement.ctp:11
+#: View/Elements/Stream/created_movement.ctp:11
+msgid "You started a Movement"
+msgstr "Вы начали движение"
+
+#: View/Elements/Notifications/created_movement.ctp:13
+msgid "You have successfully created your movement - %s - and it is now visible to the public. It is now up to you to gather <strong>%s people</strong> in the next <strong>%s days.</strong>"
+msgstr "Вы успешно создали ваше движение - %s  и оно доступно для просмотра публикой. Теперь дело за Вами, соберите <strong>%s голосов</strong> в течение следующих <strong>%s days.</strong>"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:8
+#: View/Elements/Stream/design_phase_complete.ctp:8
+#: View/Emails/html/design_phase_complete.ctp:21 View/Tasks/landing.ctp:38
+#: View/Tasks/view.ctp:43
+msgid "Design Phase Complete"
+msgstr "Стадия дизайна завершина"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:10
+msgid "%s has now completed the design phase."
+msgstr "%s успешно завершило стадию дизайна."
+
+#: View/Elements/Notifications/design_phase_complete.ctp:12
+#: View/Emails/html/design_phase_complete.ctp:34
+msgid "The next stage for your Movement is the launch phase where we will generate your app based on the results from the design process. We will submit it to the app store and notify you and other supporters when it is ready to download. You can track the progress of the app through the various stages of its launch by clicking the link below."
+msgstr "Следующим этапом для движения является стадия запуска, на которой мы сгенерируем ваше приложение на основе результатов процесса дизайна. Мы отправим его в магазины приложений и уведомим Вас, и других сторонников, когда оно будет готов для скачивания. Вы можете следить за ходом процесса прохождения этапов запуска приложения, перейдя по ссылке ниже."
+
+#: View/Elements/Notifications/movement_failed.ctp:13
+msgid "Movement was Unsuccessful"
+msgstr "Движение было неуспешным"
+
+#: View/Elements/Notifications/movement_failed.ctp:15
+msgid "<strong>%s people</strong> supported the idea of creating an app for %s. Unfortunately this time you missed our target of %s and will not be taken forward into the design phase."
+msgstr "<strong>%s людей</strong> поддержали идею создания приложения %s. К сожалению, в этот раз не удалось набрать %s голосов и переход на стадию дизайна невозможен."
+
+#: View/Elements/Notifications/movement_update.ctp:13
+#: View/Elements/Notifications/new_promoters.ctp:12
+#: View/Elements/Notifications/new_supporters.ctp:12
+#: View/Elements/Stream/new_promoters.ctp:12
+#: View/Elements/Stream/new_supporters.ctp:12
+msgid "%s days"
+msgstr "%s дней"
+
+#: View/Elements/Notifications/movement_update.ctp:15
+#: View/Emails/html/movement_update.ctp:24;38
+msgid "%s has posted an update"
+msgstr "%s опубликовал обновления"
+
+#: View/Elements/Notifications/new_promoters.ctp:14
+msgid " Shared Movement"
+msgstr "Поделилось ссылкой на движение"
+
+#: View/Elements/Notifications/new_supporters.ctp:14
+msgid " New Supporters"
+msgstr "новых сторонника"
+
+#: View/Elements/Notifications/no_activity.ctp:11
+#: View/Elements/Stream/no_activity.ctp:11
+msgid "Keep Sharing!"
+msgstr "Продолжайте делится ссылкой на движение!"
+
+#: View/Elements/Notifications/no_activity.ctp:13
+#: View/Elements/Stream/no_activity.ctp:13
+msgid "It is really important that you continue to share this Movement in order to reach the goal of %s supporters!"
+msgstr "Это действительно важно, чтобы Вы и продолжали делиться ссылкой на движение для того, чтобы достичь %s сторонников!"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:9
+#: View/Elements/Stream/support_phase_complete.ctp:9
+msgid "Movement Supported"
+msgstr "Движение поддержено"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:11
+#: View/Elements/Stream/support_phase_complete.ctp:11
+msgid "Congratulaions! %s has gathered over <strong>%s supporters.</strong> You can now access the <strong>design phase</strong> where you can contribute and vote on ideas. Click below to get started."
+msgstr "Поздравляем! %s собрало более <strong>%s сторонников.</strong> Теперь Вы можете получить доступ к <strong>стадии дизайна</strong> где Вы можете внести свои ​предложения и поддержать голосом идеи других. Нажмите ниже, чтобы начать."
+
+#: View/Elements/Notifications/support_phase_complete.ctp:14
+#: View/Elements/Stream/support_phase_complete.ctp:14
+msgid "View Design Phase"
+msgstr "Посмотреть стадию дизайна"
+
+#: View/Elements/Notifications/supported_movement.ctp:11
+msgid "You supported a Movement"
+msgstr "Вы поддержали движение"
+
+#: View/Elements/Notifications/supported_movement.ctp:13
+msgid "You have supported %s. It is now up to you to gather <strong>%s people</strong> in the next <strong>%s days</strong>."
+msgstr "Вы  поддержали %s . Теперь постарайтесь помочь движению собрать <strong>%s голосов</strong> в ближайшие <strong>%s дней</strong>."
+
+#: View/Elements/Notifications/supported_movement.ctp:15
+#: View/Emails/html/created_movement.ctp:34
+#: View/Emails/html/movement_failed.ctp:35
+#: View/Emails/html/support_phase_complete.ctp:34
+msgid "What happens next?"
+msgstr "Что будет дальше?"
+
+#: View/Elements/Notifications/supported_movement.ctp:17
+msgid "You will <strong>receive updates</strong> about the progress of this movement via email. If the Movement is successful you will be exclusively invited to the design phase where you can help shape the design of the app."
+msgstr "Вы <strong>получите обновления</strong> о прогрессе данного движения по средствам электронной почты. Если движение будет успешным Вы получите приглашение на стадию дизайна, где Вы сможете создать дизайн приложения."
+
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "Take a look at our %s section for more"
+msgstr "Перейдите в секцию %s для более подробной информации"
+
+#: View/Elements/Notifications/welcome.ctp:3 View/Elements/Stream/welcome.ctp:3
+msgid "Welcome to App Movement"
+msgstr "Добро пожаловать в App Movement"
+
+#: View/Elements/Notifications/welcome.ctp:5
+msgid "Welcome to your dashboard, from here you can manage your profile and receive updates on the movements you start as well as those that you show an interest in. Be sure to check back regularly to keep up to date."
+msgstr "Добро пожаловать в Ваш Дашборд. Здесь Вы можете управлять своим профилем и просматривать обновления о движениях которые Вы начали, а также о тех, которые Вы поддержали. Не забывайте  регулярно проверять Дашборд, чтобы быть в курсе."
+
+#: View/Elements/Notifications/welcome.ctp:7 View/Elements/Stream/welcome.ctp:7
+msgid "All the best, Our Team."
+msgstr "Всего самого лучшего, Команда App Movement."
+
+#: View/Elements/Stream/build_phase_complete.ctp:12
+msgid "%s has now been fully designed by the supporting members of the community and has been generated! Click below to download the app."
+msgstr "%s  успешно прошло стадию дизайна, поддержанное %s членами сообщества и было создано! Нажмите на кнопку ниже для скачивания."
+
+#: View/Elements/Stream/build_phase_complete.ctp:15
+#: View/Elements/Stream/design_phase_complete.ctp:13
+msgid "View Launch Phase"
+msgstr "Просмотр стадии запуска"
+
+#: View/Elements/Stream/created_movement.ctp:13
+msgid "You have successfully created your movement - '%s' - and is now visible to the public. It is now up to you to gather <strong>%s people</strong> in the next <strong>%s days.</strong>"
+msgstr "Вы успешно создали ваше движение - %s  и оно доступно для просмотра публикой. Теперь дело за Вами, соберите <strong>%s голосов</strong> в течение следующих <strong>%s days.</strong>"
+
+#: View/Elements/Stream/design_phase_complete.ctp:10
+msgid "%s has now completed the design phase. The next stage for your Movement is the launch phase where we will generate your app based on the results from the design process. We will submit it to the app store and notify you and other supporters when it is ready to download. You can track the progress of the app through the various stages of its launch by clicking the link below."
+msgstr "%s успешно завершило стадию дизайна. Следующим этапом для движения является стадия запуска, на которой мы сгенерируем ваше приложение на основе результатов процесса дизайна. Мы отправим его в магазины приложений и уведомим Вас, и других сторонников, когда оно будет доступно для скачивания. Вы можете следить за ходом процесса прохождения этапов запуска приложения, перейдя по ссылке ниже."
+
+#: View/Elements/Stream/movement_failed.ctp:13
+msgid "Your Movement was unsuccessful"
+msgstr "Ваше движение было неуспешным"
+
+#: View/Elements/Stream/movement_failed.ctp:15
+msgid "<strong>%s people</strong> supported the idea of creating an app for %s. Unfortunately this time you missed our target of and will not be taken forward into the design phase."
+msgstr "<strong>%s людей</strong> поддержали идею создания приложения %s. К сожалению, в этот раз не удалось набрать %s голосов и переход на стадию дизайна невозможен."
+
+#: View/Elements/Stream/new_promoters.ctp:14
+msgid "%s</span> Shared Movement</span>"
+msgstr "%s</span> Поделиться ссылкой на движение</span>"
+
+#: View/Elements/Stream/new_supporters.ctp:14
+msgid "%s</span> New Supporters</span>"
+msgstr "%s</span> Новые сторонники</span>"
+
+#: View/Elements/Stream/welcome.ctp:5
+msgid "Visit your dashboard to manage your profile and receive updates on the movements you start as well as those that you show an interest in. Be sure to check back regularly to keep up to date."
+msgstr "Посетите ваш дашборд, где Вы сможете управлять своим профилем и получать обновления о движениях которые Вы начали, а также о тех, в которых Вы заинтересованы в. Не забывайте  регулярно проверять дашборд, чтобы быть в курсе."
+
+#: View/Elements/Tasks/colour.ctp:47 View/Elements/Tasks/logo.ctp:26
+#: View/Elements/Tasks/name.ctp:29 View/Elements/Tasks/options.ctp:41
+msgid "Suggest %s"
+msgstr "Предложить %s"
+
+#: View/Elements/Tasks/logo.ctp:39 View/Elements/Tasks/name.ctp:43
+#: View/Elements/Tasks/options.ctp:61
+msgid "Submit Idea"
+msgstr "Разместить идею"
+
+#: View/Elements/Tasks/marker.ctp:13
+msgid "Preview colour"
+msgstr "Предварительный просмотр цвета"
+
+#: View/Elements/Tasks/name.ctp:36 View/Elements/Tasks/options.ctp:51
+msgid "Enter %s"
+msgstr "Ввести %s"
+
+#: View/Elements/Updates/movement_update.ctp:58
+msgid "Update shared"
+msgstr "Обновление"
+
+#: View/Emails/html/build_phase_complete.ctp:26
+msgid "%s is now available to download!"
+msgstr "%s теперь доступно для загрузки!"
+
+#: View/Emails/html/build_phase_complete.ctp:30
+msgid "After gathering support and design input from %s people %s is now available to be downloaded from the app store."
+msgstr "После получения поддержки и прохождения утверждения дизайна %s людьми, %s теперь доступно для загрузки из магазина приложений."
+
+#: View/Emails/html/build_phase_complete.ctp:38
+msgid "Congratulations, you have an app you can share with the world!"
+msgstr "Поздравляем, у Вас есть приложение, котором Вы можете поделиться со всем миром!"
+
+#: View/Emails/html/build_phase_complete.ctp:40
+msgid "<strong>Download the app now</strong> and start contributing your knowledge about the best places nearby, the success of the app depends on it. Your actions in these early days will make sure the app is successful, so it is very important that you add the best places nearby and leave reviews."
+msgstr "<strong>Скачайте приложение</strong>  и начните заносить в него информацию о лучших местах поблизости. Успех приложения зависит от этого. Ваши действия в первые дни после запуска помогут приложению стать популярным. Сейчас очень важно чтобы Вы добавили места поблизости и оставили о них отзывы. "
+
+#: View/Emails/html/build_phase_complete.ctp:43
+msgid "<strong>It's up to you to add places and leave reviews</strong> to encourage others to download the app and contribute to the community."
+msgstr "<strong>Все зависит от того, будете ли Вы  добавлять новые места и оставлять отзывы о них</strong>, чтобы побудить остальных скачивать приложение и тоже вносить свой вклад."
+
+#: View/Emails/html/build_phase_complete.ctp:45
+msgid "Download your app by clicking below"
+msgstr "Скачайте приложение, нажав ниже"
+
+#: View/Emails/html/build_phase_complete.ctp:57
+msgid "Thank You!"
+msgstr "Спасибо!"
+
+#: View/Emails/html/build_phase_complete.ctp:59
+msgid "Without you this app would never have been made so we would like to say thank you for contributing your time and efforts in supporting the idea, contributing your thoughts and sharing it with friends."
+msgstr "Без Вас это приложение никогда бы не было создано. Мы хотели бы сказать Вам спасибо за клад вашего времени и усилий в поддержку идеи,  за Ваши предложения и поддержку идей, за то, что делились информацией о приложении с другими."
+
+#: View/Emails/html/build_phase_complete.ctp:62 View/Pages/contact.ctp:68
+msgid "App Movement Team"
+msgstr "Команда App Movement"
+
+#: View/Emails/html/build_phase_complete.ctp:68
+#: View/Emails/html/created_movement.ctp:46
+#: View/Emails/html/design_phase_complete.ctp:43
+#: View/Emails/html/invite_user_to_movement.ctp:52
+#: View/Emails/html/movement_failed.ctp:47
+#: View/Emails/html/movement_update.ctp:47 View/Emails/html/reset.ctp:39
+#: View/Emails/html/support_phase_complete.ctp:48
+#: View/Emails/html/supported_movement.ctp:44
+msgid "View this email in another language"
+msgstr "Просмотр данного электронного письма на другом языке "
+
+#: View/Emails/html/build_phase_complete.ctp:72
+#: View/Emails/html/created_movement.ctp:50
+#: View/Emails/html/design_phase_complete.ctp:47
+#: View/Emails/html/invite_user_to_movement.ctp:56
+#: View/Emails/html/movement_failed.ctp:51
+#: View/Emails/html/movement_update.ctp:51 View/Emails/html/reset.ctp:43
+#: View/Emails/html/support_phase_complete.ctp:52
+#: View/Emails/html/supported_movement.ctp:48
+#: View/Layouts/Emails/html/grouped_notification.ctp:55
+msgid "Find out more at %s"
+msgstr "Узнайте больше на %s"
+
+#: View/Emails/html/build_phase_complete.ctp:76
+#: View/Emails/html/created_movement.ctp:54
+#: View/Emails/html/design_phase_complete.ctp:51
+#: View/Emails/html/invite_user_to_movement.ctp:60
+#: View/Emails/html/movement_failed.ctp:55
+#: View/Emails/html/movement_update.ctp:55 View/Emails/html/reset.ctp:47
+#: View/Emails/html/support_phase_complete.ctp:56
+#: View/Emails/html/supported_movement.ctp:52
+#: View/Layouts/Emails/html/grouped_notification.ctp:59
+msgid "%s to change your notification settings"
+msgstr "%s чтобы изменить настройки уведомлений"
+
+#: View/Emails/html/created_movement.ctp:22
+msgid "You Started a Movement"
+msgstr "Вы начали движение"
+
+#: View/Emails/html/created_movement.ctp:26
+msgid "You have started a Movement for %s"
+msgstr "Вы начали движение %s"
+
+#: View/Emails/html/created_movement.ctp:36
+msgid "Your Movement is now in the support phase. This is a %s day period that gives you time to promote your idea to friends, family members and your community. In order for your Movement to be a success you need to reach a target of %s supporters. If you reach this target you will move into the design phase and your app will be built! Remeber it is vital that you share your idea with others."
+msgstr "Ваше движение находится на стадии получения поддержки. У Вас есть %s дневный срок, который дает вам время для продвижения вашей идеи среди друзей, членов семьи и вашего сообщества. Для того, чтобы ваше движение было признано успешным, оно должно набрать  %s голосов \"за\". Если Вы достигните  этой цели то перейдете к стадии  дизайна  и Ваше приложение будет создано! Помните, что очень важно, чтобы Вы продвигали и делились своей идее с другими."
+
+#: View/Emails/html/created_movement.ctp:38
+#: View/Emails/html/design_phase_complete.ctp:38
+#: View/Emails/html/supported_movement.ctp:38
+msgid "Visit our %s for more information."
+msgstr "Посетите %s для получения дополнительной информации."
+
+#: View/Emails/html/created_movement.ctp:38
+#: View/Emails/html/design_phase_complete.ctp:38
+#: View/Emails/html/supported_movement.ctp:38 View/Pages/faq.ctp:9
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: View/Emails/html/created_movement.ctp:40
+#: View/Emails/html/movement_update.ctp:42
+msgid "View Movement"
+msgstr "View Movement"
+
+#: View/Emails/html/design_phase_complete.ctp:25
+msgid "%s has now completed the Design Phase."
+msgstr "%s завершило стадию проектирования"
+
+#: View/Emails/html/design_phase_complete.ctp:33
+#: View/Emails/html/supported_movement.ctp:32
+msgid "Next steps..."
+msgstr "Следующие шаги..."
+
+#: View/Emails/html/design_phase_complete.ctp:36
+msgid "View launch status"
+msgstr "Просмотр статуса запуска "
+
+#: View/Emails/html/invite_user_to_movement.ctp:20
+msgid "Support Your Friend"
+msgstr "Поддержите Вашего друга"
+
+#: View/Emails/html/invite_user_to_movement.ctp:24
+msgid "Hey %s, your friend %s is trying to gain support for an idea for a new mobile app."
+msgstr "%s, Ваш друг %s пытается получить поддержку идеи для нового мобильного приложения. "
+
+#: View/Emails/html/invite_user_to_movement.ctp:34
+msgid "%s has chosen you amongst a handful of other people to support their Movement and help share their idea with others."
+msgstr "%s выбрал Вас среди других людей, чтобы поддержать их движение и помочь поделиться их идеями с другими."
+
+#: View/Emails/html/invite_user_to_movement.ctp:38
+msgid "You can help %s out by clicking the link below to support their Movement:"
+msgstr "Вы можете помочь %s нажав на ссылку ниже, чтобы поддержать их движение:"
+
+#: View/Emails/html/invite_user_to_movement.ctp:42
+msgid "If %s's idea gains enough support then yourself and other supporters will be able to help design the app. Pretty awesome eh?"
+msgstr "Если идея %s получит достаточно голосов, то Вы и другие поддержавшие смогут помочь создать дизайн для приложения. Довольно круто, не находите?"
+
+#: View/Emails/html/invite_user_to_movement.ctp:44
+msgid "Do you have a great idea for an app?"
+msgstr "Есть ли у вас отличная идея для приложения?"
+
+#: View/Emails/html/invite_user_to_movement.ctp:46
+msgid "Start your Movement"
+msgstr "Начните Ваше движение"
+
+#: View/Emails/html/movement_failed.ctp:23
+msgid "Movement Unsuccessful"
+msgstr "Движение неуспешно"
+
+#: View/Emails/html/movement_failed.ctp:27
+msgid "The movement for %s was unsuccessful."
+msgstr "Движение %s было неуспешным."
+
+#: View/Emails/html/movement_failed.ctp:37
+msgid "You managed to gather <b>%s</b> people to support the idea of creating an app for %s. Unfortunately this time the movement missed our target of %s and will not be taken forward into the design phase."
+msgstr "Вам удалось собрать поддержку <b>%s</b> человек, за идею создания приложения %s К сожалению, в этот раз приложению не удалось набрать %s голосов и его переход на стадию дизайна невозможен."
+
+#: View/Emails/html/movement_failed.ctp:39
+msgid "Got another idea? Why not start a new movement by clicking the link below?"
+msgstr "Есть еще идеи? Почему бы не начать новое движение, нажав на ссылку ниже?"
+
+#: View/Emails/html/movement_update.ctp:28
+msgid "You have received an update for your movement - %s"
+msgstr "Вы получили обновления касательно вашего движения - %s"
+
+#: View/Emails/html/reset.ctp:18;33 View/Users/reset.ctp:10;35
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: View/Emails/html/reset.ctp:22
+msgid "You have requested to reset your %s password"
+msgstr "Вы запросили, сброс пароля для %s"
+
+#: View/Emails/html/reset.ctp:31
+msgid "In order to reset your password please click the following link and follow the instructions."
+msgstr "Для того, чтобы сбросить пароль, пожалуйста, нажмите на следующую ссылку и следуйте инструкциям."
+
+#: View/Emails/html/support_phase_complete.ctp:22
+msgid "Support Phase Complete"
+msgstr "Стадия поддержки приложения завершена"
+
+#: View/Emails/html/support_phase_complete.ctp:26
+msgid "Over <strong>%s</strong> people have supported the idea of creating an app for %s"
+msgstr "Более <strong>%s</strong> людей поддержало идею создания приложения %s"
+
+#: View/Emails/html/support_phase_complete.ctp:36
+msgid "Your Movement will now move into the design phase. This is an area where yourself and other supporters complete a series of design tasks to help decide what the final app will be like."
+msgstr "Теперь ваше движение перейдет на стадию дизайна. Это этап, на котором Вы и другие сторонники выполнят серию дизайнерских задач, чтобы помочь решить, как будет выглядить окончательное приложение."
+
+#: View/Emails/html/support_phase_complete.ctp:38
+msgid "It is really import to engage with other supporters of the app to ensure the app we build for you is perfect!"
+msgstr "Очень важно взаимодействовать с другими сторонниками приложения, чтобы убедиться в том, что приложение которое бы создадим для Вас будет идеальным!"
+
+#: View/Emails/html/support_phase_complete.ctp:40
+msgid "Get started with the design process now by clicking the following link."
+msgstr "Начните процесс создания дизайна, перейдя по следующей ссылке."
+
+#: View/Emails/html/support_phase_complete.ctp:42
+msgid "Help Design App"
+msgstr "Помогите создать дизайн приложения"
+
+#: View/Emails/html/supported_movement.ctp:20
+msgid "You Supported a Movement"
+msgstr "Вы поддержали движение"
+
+#: View/Emails/html/supported_movement.ctp:24
+msgid "You have successfully supported the App Movement for %s"
+msgstr "Вы успешно поддержали движение %s"
+
+#: View/Emails/html/supported_movement.ctp:34
+msgid "The Movement needs at least %s people to reach its support target. By sharing the Movement page on social networks you are increasing the chances of its success. If the Movement reaches its target then yourself and other supporters will be exclusively invited to the design phase where you can share ideas and vote on the best features/contributions for the app."
+msgstr "Движение должно набрать, по крайней мере %s голосов, чтобы достичь своей цели на стадии поддержки. Делясь ссылкой на страницу Движения в социальных сетях вы увеличиваете шансы на его успех. Если движение достигнет своей цели, то Вы и другие сторонники будут приглашены на стадию дизайна, где вы можете поделиться своими идеями и проголосовать за  лучшие идеи других."
+
+#: View/Emails/html/supported_movement.ctp:36
+msgid "Once the design phase is complete the app will be automatically generated and available to download for free!"
+msgstr "После того, как стадия дизайна будет завершена, приложение будет автоматически сгенирировано и доступно для бесплатного скачивания!"
+
+#: View/Errors/error400.ctp:10 View/Errors/error500.ctp:10
+#: View/Errors/missing_controller.ctp:10
+msgid "Error"
+msgstr "Ошибка"
+
+#: View/Errors/error400.ctp:18 View/Errors/error500.ctp:18
+#: View/Errors/missing_controller.ctp:18
+#: View/Users/admin.ctp:268;269;270;271;292;316;317
+msgid "Something went wrong!"
+msgstr "Что-то пошло не так!"
+
+#: View/Errors/error400.ctp:19 View/Errors/error500.ctp:19
+#: View/Errors/missing_controller.ctp:19
+msgid "We couldn't find what you were looking for!"
+msgstr "Мы не смогли найти то, что вы искали!"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Errors/error400.ctp:23 View/Errors/error500.ctp:23
+#: View/Errors/missing_controller.ctp:23
+#, fuzzy
+msgid "Take me home"
+msgstr "Обратно на главную"
+
+#: View/Generate/marker_maker.ctp:41
+msgid "Generate Random Pin"
+msgstr "Создать случайный маркер"
+
+#: View/Generate/geolocation/listing.ctp:1
+msgid "%s was designed by an engaged community on the App Movement website."
+msgstr "Дизайн для %s был создан с помощью сообщества на сайте App Movement."
+
+#: View/Generate/geolocation/listing.ctp:3
+msgid "It provides a simple and convenient way to discover places and leave reviews. Helping you to rate places by the following important categories:"
+msgstr "Оно обеспечивает простой и удобный способ открыть для себя места и оставлять о них отзывы. Помогает Вам оценивать места по следующим важным категориям:"
+
+#: View/Generate/geolocation/listing.ctp:14
+msgid "Please visit appmovement.com to start your movement today."
+msgstr "Пожалуйста, посетите appmovement.com чтобы создать свое движение сегодня."
+
+#: View/Layouts/default.ctp:30 View/Layouts/stripped.ctp:30
+#: View/Layouts/Emails/html/view_main_notification.ctp:32
+msgid "App Movement enables anyone to propose, design and develop a mobile app. No expertise are required just a touch of determination and a great idea!"
+msgstr "Сайт App Movement позволяет любому человеку предложить свою идею, создать дизайн и создать мобильное приложение. Для того чтобы начать не требуется обладать знаниями в программировании или в создании мобильных приложений. Достаточно обладать упорством и иметь хорошую идею."
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "community"
+msgstr "сообщество"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "crowd commissioning"
+msgstr "использование толпы"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "crowd sourcing"
+msgstr "краудсорсинг"
+
+#: View/Layouts/default.ctp:142
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:25
+msgid "Movement Updates"
+msgstr "Обновления Движения"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:29
+msgid "Here are the latest updates for the movements you currently support."
+msgstr "Вот последние обновления для движения которое вы поддерживаете в настоящее время."
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:55
+msgid "app-movement.com"
+msgstr "app-movement.com"
+
+#: View/Mobile/about.ctp:29
+msgid "This app allows anyone to rate and review locations on the map."
+msgstr "Это приложение позволяет любому оценивать и оставлять отзыв о месте на карте."
+
+#: View/Mobile/about.ctp:31
+msgid "Anyone can share a review and post an image for others to see."
+msgstr "Любой желающий может оставить отзыв и загрузить изображение, чтобы другие пользователи могли его видеть."
+
+#: View/Mobile/about.ctp:33
+msgid "You can view your reviews on your profile page."
+msgstr "Вы можете просмотреть свои отзывы на странице вашего профиля."
+
+#: View/Movements/edit.ctp:31 View/Movements/start.ctp:66
+msgid "Title"
+msgstr "Заголовок"
+
+#: View/Movements/edit.ctp:34 View/Movements/start.ctp:69
+msgid "Movement Title"
+msgstr "Название Движения"
+
+#: View/Movements/edit.ctp:37 View/Movements/start.ctp:72
+msgid "Give your movement a clear and catchy title."
+msgstr "Дайте Вашему движению четкое и броское название."
+
+#: View/Movements/edit.ctp:43 View/Movements/start.ctp:78
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: View/Movements/edit.ctp:46
+msgid "Movement Description"
+msgstr "Описание движения"
+
+#: View/Movements/edit.ctp:49 View/Movements/start.ctp:84
+msgid "A short summary of the movement that will be visible across the site."
+msgstr "Краткое описание движения, которое будет отображаться на сайте."
+
+#: View/Movements/edit.ctp:55 View/Movements/start.ctp:90
+#: View/Users/display_users.ctp:33
+msgid "Photo"
+msgstr "Фото"
+
+#: View/Movements/edit.ctp:61;204;222 View/Movements/start.ctp:96;344;362
+msgid "Choose Photo"
+msgstr "Выберите фотографию"
+
+#: View/Movements/edit.ctp:82 View/Movements/start.ctp:117
+msgid "A striking image that represents your movement."
+msgstr "Яркое изображение, которое отражает суть вашего движение."
+
+#: View/Movements/edit.ctp:88 View/Movements/start.ctp:123
+msgid "Location"
+msgstr "Местонахождения"
+
+#: View/Movements/edit.ctp:88;104 View/Movements/start.ctp:123;139
+msgid "Optional"
+msgstr "Необязательный"
+
+#: View/Movements/edit.ctp:91 View/Movements/start.ctp:126
+msgid "Movement Location"
+msgstr "Местоположение движения"
+
+#: View/Movements/edit.ctp:94 View/Movements/start.ctp:129
+msgid "Provide the location of your movement."
+msgstr "Укажите местоположение вашего движения."
+
+#: View/Movements/edit.ctp:104;106 View/Movements/start.ctp:139
+msgid "Tags"
+msgstr "Теги"
+
+#: View/Movements/edit.ctp:109 View/Movements/start.ctp:144
+msgid "Add some tags to your movement to help people discover it."
+msgstr "Добавьте несколько тегов вашему приложению, чтобы помочь людям обнаружить его."
+
+#: View/Movements/edit.ctp:117 View/Movements/overview.ctp:11
+#: View/Movements/start.ctp:152
+msgid "Overview"
+msgstr "Детальное описание"
+
+#: View/Movements/edit.ctp:120 View/Movements/start.ctp:155
+msgid "A longer overview of your movement"
+msgstr "Детальное описание приложения для вашего движения"
+
+#: View/Movements/edit.ctp:124
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: View/Movements/edit.ctp:150
+msgid "by %s"
+msgstr "от %s"
+
+#: View/Movements/edit.ctp:158 View/Movements/start.ctp:196
+msgid "Movement Preview"
+msgstr "Предпросмотр Движения"
+
+#: View/Movements/edit.ctp:172
+msgid "Delete Movement"
+msgstr "Удалить движение"
+
+#: View/Movements/edit.ctp:200 View/Movements/start.ctp:340
+msgid "Failed"
+msgstr "Не удалось"
+
+#: View/Movements/edit.ctp:218 View/Movements/start.ctp:358
+msgid "Uploaded"
+msgstr "Загружено"
+
+#: View/Movements/edit.ctp:239 View/Movements/start.ctp:379
+msgid "Uploading"
+msgstr "Загрузается"
+
+#: View/Movements/index.ctp:20
+msgid "Everything"
+msgstr "Всё"
+
+#: View/Movements/index.ctp:21
+msgid "Recent"
+msgstr "Недавние"
+
+#: View/Movements/index.ctp:22
+msgid "Popular"
+msgstr "Популярные"
+
+#: View/Movements/index.ctp:29
+msgid "Search Movements"
+msgstr "Поиск Движения"
+
+#: View/Movements/index.ctp:46 View/Movements/overview.ctp:33
+#: View/Pages/home.ctp:66
+msgid "No Movements Found"
+msgstr "Движения не найдены"
+
+#: View/Movements/index.ctp:46
+msgid "Please search again"
+msgstr "Пожалуйста, повторите поиск"
+
+#: View/Movements/launch.ctp:9
+msgid "Building App"
+msgstr "Создание приложения"
+
+#: View/Movements/launch.ctp:9
+msgid "Submitted to App Store"
+msgstr "Передано в App Store"
+
+#: View/Movements/launch.ctp:9
+msgid "Awaiting Review"
+msgstr "В ожидании проверки"
+
+#: View/Movements/launch.ctp:9
+msgid "Review in Progress"
+msgstr "Обзор в процессе"
+
+#: View/Movements/launch.ctp:9
+msgid "Processing for App Store"
+msgstr "Обработка для App Store"
+
+#: View/Movements/launch.ctp:28
+msgid "This application has made it to the launch phase, don't worry we will take it from here."
+msgstr "Это приложение достигло стадии запуска. Не волнуйтесь, отсюда мы возьмем все на себя."
+
+#: View/Movements/launch.ctp:30
+msgid "Our engineers will use all of the communities contributions from the design phase to build a bespoke application."
+msgstr "Наши инженеры, используя все предложения сообщества на стадии дизайна, создадут приложение."
+
+#: View/Movements/launch.ctp:32
+msgid "We will then release the application to the relevant App Stores and notify you when it is available to download."
+msgstr "После чего мы выпустим приложение в соответствующем магазине мобильных приложений и уведомим Вас как оно станет доступно для скачивания. "
+
+#: View/Movements/launch.ctp:37
+msgid "View Contributions"
+msgstr "Посмотреть предложения"
+
+#: View/Movements/launch.ctp:45
+msgid "App Status"
+msgstr "Статус приложения"
+
+#: View/Movements/onboarding.ctp:12
+msgid "Invite Some Friends"
+msgstr "Пригласить друзей"
+
+#: View/Movements/onboarding.ctp:122 View/Tasks/landing.ctp:60
+msgid "Congratulations"
+msgstr "Поздравляем"
+
+#: View/Movements/onboarding.ctp:123
+msgid "It is important to gain as much support as possible for your movement. To get started why not tell some friends and get the ball rolling. Once this step is complete your movement will be available for the world to see!"
+msgstr "Очень важно, получить как можно больше поддержки для вашего движения. Для начала, почему бы  не сказать друзьям и не раскрутить клубок. После завершения этого шага ваше движение будет доступна для всего мира!"
+
+#: View/Movements/onboarding.ctp:135;142;149
+msgid "Name"
+msgstr "Название"
+
+#: View/Movements/onboarding.ctp:136;143;150 View/Users/display_users.ctp:36
+#: View/Users/forgot.ctp:27
+msgid "Email"
+msgstr "Электронный адрес"
+
+#: View/Movements/onboarding.ctp:158
+msgid "Skip"
+msgstr "Пропустить"
+
+#: View/Movements/onboarding.ctp:169
+msgid "Continue"
+msgstr "Продолжить"
+
+#: View/Movements/overview.ctp:20
+msgid "All"
+msgstr "Все"
+
+#: View/Movements/overview.ctp:33
+msgid "You have not started or supported any yet!"
+msgstr "Вы еще не начали или не поддержали ни одно движение!"
+
+#: View/Movements/start.ctp:16
+msgid "Geolocation Review"
+msgstr "Гео-информационное"
+
+#: View/Movements/start.ctp:16;51
+msgid "Social Network"
+msgstr "Социальная сеть"
+
+#: View/Movements/start.ctp:16;52
+msgid "Information"
+msgstr "Информационное"
+
+#: View/Movements/start.ctp:16;53
+msgid "Events"
+msgstr "Мероприятия"
+
+#: View/Movements/start.ctp:17
+msgid "A Geolocation Review app allows users to rate and review anything with a fixed location. An example might be a cafe, a public park or somewhere to lock your bicycle. Anyone can add new points of interest to the map and reviews on their own and other people's contributions."
+msgstr "Тип приложения \"Гео-информационное\" позволяет пользователям оценивать и оставлять отзывы о всем, что имеет фиксированное местоположение и что можно найти на карте. Примером может быть кафе, общественный парк или парковка для велосипеда. Любой желающий может добавить места на карту и оставлять отзывы о своих или добавленных другими местах."
+
+#: View/Movements/start.ctp:17
+msgid "A 'Social Network' is a type of application that allows people to connect with one another another. It enables users to share content such as photos, videos, comments and other media."
+msgstr "Тип приложения \"Социальная сеть\" позволяет людям общаться друг с другом. Он позволяет пользователям обмениваться контентом, таким как фотографии, видео, комментарии и другими медиа файлы."
+
+#: View/Movements/start.ctp:17
+msgid "An 'Information' app provides a quick method of accessing detailed information about a specific subject. It can be useful in a variety of situations where a little extra information is key."
+msgstr "Тип приложения \"Информационное\" позволяет получать быстрый доступ к подробной информации о конкретной теме. Это может быть полезным в различных ситуациях, где немного больше информации является ключом к успеху."
+
+#: View/Movements/start.ctp:17
+msgid "Our lives are full of exciting events, an 'Event' app can help people to keep track of what events are taking place in the future. Such an app could also act as a discovery tool for say a recent fan or enthusiast."
+msgstr "Наша жизнь полна захватывающих событий. Приложение \"Событие\" может помочь людям отслеживать какие события будут проходить в будущем. Такое приложение может также выступать в качестве инструмента обнаружения для фанатов или энтузиастов."
+
+#: View/Movements/start.ctp:18
+msgid "The best places to feed ducks"
+msgstr "Лучшие места, чтобы покормить уток"
+
+#: View/Movements/start.ctp:18
+msgid "Restaurants that cater for nut allergies"
+msgstr "Рестораны, которые подходят для тех у кого аллергия на орехи"
+
+#: View/Movements/start.ctp:18
+msgid "Amazing street art in London"
+msgstr "Невероятный стрит-арт в Лондоне"
+
+#: View/Movements/start.ctp:18
+msgid "Public toilet finder"
+msgstr "Поисковик общественных туалетов"
+
+#: View/Movements/start.ctp:18
+msgid "Sports coach network"
+msgstr "Сеть для спортивных тренеров"
+
+#: View/Movements/start.ctp:18
+msgid "A super social network for teenager"
+msgstr "Супер социальная сеть для подростка"
+
+#: View/Movements/start.ctp:18
+msgid "Dog owners social network"
+msgstr "Социальная сеть для владельцев собак"
+
+#: View/Movements/start.ctp:18
+msgid "Young mothers support network"
+msgstr "Сеть поддержки молодых матерей"
+
+#: View/Movements/start.ctp:18
+msgid "Miami tourist guide"
+msgstr "Туристический гид по Майами"
+
+#: View/Movements/start.ctp:18
+msgid "Help guide for your new computer"
+msgstr "Инструкция для вашего нового компьютера"
+
+#: View/Movements/start.ctp:18
+msgid "Top tips for looking after your children"
+msgstr "Лучшие советы для ухода за своими детьми"
+
+#: View/Movements/start.ctp:18
+msgid "Live gigs for the Artic Monkeys"
+msgstr "Живые выступления  \"Artic Monkeys\""
+
+# Is it really used somewhere?
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Movements/start.ctp:18
+#, fuzzy
+msgid "Car boot sales in the North East"
+msgstr "Продажи автомобилей на северо-востоке"
+
+#: View/Movements/start.ctp:18
+msgid "Stand up comedy events in London"
+msgstr "Стенд ап мероприятия в Лондоне"
+
+#: View/Movements/start.ctp:42
+msgid "App Type"
+msgstr "Тип приложения"
+
+#: View/Movements/start.ctp:54
+msgid "Other"
+msgstr "Другое"
+
+#: View/Movements/start.ctp:60
+msgid "Select the type of application you wish to launch."
+msgstr "Выберите тип приложения который Вы хотите запустить."
+
+#: View/Movements/start.ctp:81
+msgid "Describe your idea in one sentence"
+msgstr "Опишите Вашу идею в одном предложение"
+
+#: View/Movements/start.ctp:159
+msgid "Next Step"
+msgstr "Следующий шаг"
+
+#: View/Movements/start.ctp:219
+msgid "Not Currently Available"
+msgstr "В настоящее время недоступено"
+
+#: View/Movements/start.ctp:224
+msgid "Example Applications"
+msgstr "Примеры приложений"
+
+#: View/Movements/start.ctp:242
+msgid "Suggest App Type"
+msgstr "Предложить Тип приложения"
+
+#: View/Movements/start.ctp:244
+msgid "We would like to provide you with more templates in the future, please submit your app type ideas below to help us to provide more relevant app types."
+msgstr "Мы хотели бы, предоставить Вам больше шаблонов приложений в будущем. Пожалуйста, отправляйте Ваши идеи о типах приложений в форме ниже, чтобы помочь нам обеспечить Вас полезными типами приложений."
+
+#: View/Movements/start.ctp:247
+msgid "Your Suggestion"
+msgstr "Ваше предложение"
+
+#: View/Movements/view.ctp:151
+msgid "Keep your supporters informed"
+msgstr "Держите ваших сторонников информированными"
+
+#: View/Movements/view.ctp:152
+msgid "Send your supporters updates to keep them informed and get them involved. Your update will be sent directly to their email inbox. Please note, you can only send a maximum of 2 updates per day."
+msgstr "Отправить Ваши обновления сторонникам поддержавшим идею, чтобы держать их в курсе и привлечь при неоьходимости. Ваши обновления будут направлены непосредственно на их почтовый ящик. Пожалуйста, обратите внимание, Вы можете отправить максимум 2 обновления в сутки."
+
+#: View/Movements/view.ctp:160
+msgid "Keep your supporters in the loop by posting an update."
+msgstr "Держите ваших сторонников в тонусе, размещая обновления."
+
+#: View/Pages/about.ctp:10
+msgid "How it Works"
+msgstr "Как это работает"
+
+#: View/Pages/about.ctp:21;49;61
+msgid "Start your movement"
+msgstr "Начните свое движение"
+
+#: View/Pages/about.ctp:22
+msgid "Add your idea to the site and get your friends and family to support your campaign."
+msgstr "Добавьте свою идею на сайт и попросите ваших друзей и семью поддержать движение."
+
+#: View/Pages/about.ctp:29
+msgid "Design together"
+msgstr "Создавайте дизайн вместе"
+
+#: View/Pages/about.ctp:30
+msgid "Submit ideas and vote on community contributions to select the features you want."
+msgstr "Предлагайте идеи и голосуйте за уже предложенные сообществом, чтобы выбрать функции которые Вы хотите видеть в приложение."
+
+#: View/Pages/about.ctp:37
+msgid "Launch the app"
+msgstr "Запустите приложение"
+
+#: View/Pages/about.ctp:38
+msgid "We build your app based on the results of the design phase and release it for iOS and Android."
+msgstr "Мы создадим Ваше приложение на основе результатов стадии дизайна и разместим его в магазинах приложения для iOS and Android."
+
+#: View/Pages/about.ctp:50
+msgid "Share your app idea with the world and get your community involved"
+msgstr "Поделитесь идей приложения со всем миром и привлеките Ваше сообщество к участию"
+
+#: View/Pages/about.ctp:62
+msgid "Post your awesome app idea to the site and start your movement. Select from an app template, add a title and description and hit start!"
+msgstr "Опубликуйте свою великолепную идею для приложения на сайте и организуйте движение. Выберите из шаблонов приложения, добавьте название, описание и вперед!"
+
+#: View/Pages/about.ctp:71
+msgid "Engage your Community"
+msgstr "Привлекайте Ваше сообщество"
+
+#: View/Pages/about.ctp:72
+msgid "Get support from your community and promote your movement through social media to reach your target."
+msgstr "Получите поддержку от вашего сообщества и продвигайте Ваше движение через социальные медиа, чтобы достигнуть Вашей цели."
+
+#: View/Pages/about.ctp:83
+msgid "Share your idea with friends"
+msgstr "Поделитесь своей идеей с друзьями"
+
+#: View/Pages/about.ctp:84
+msgid "Hit your target by sharing your movement through social media. Get your friends involved so they can get in on the action too."
+msgstr "Достигните вашей цели путем обмена ссылками на ваше движение в социальных медиа. Привлеките ваших друзей, таким образом они тоже примут участие."
+
+#: View/Pages/about.ctp:93
+msgid "Hit your target"
+msgstr "Достигните вашей цели"
+
+#: View/Pages/about.ctp:94
+msgid "Reach your target number of supporters for yout idea and proceed to designing your app."
+msgstr "Достигните необходимого числа сторонников идеи приступите к разработке вашего приложения."
+
+#: View/Pages/about.ctp:107
+msgid "Design with your community"
+msgstr "Создавайте Дизайн вместе с сообществом"
+
+#: View/Pages/about.ctp:108
+msgid "Share ideas and vote on the best features you want in the app."
+msgstr "Делитесь идеями и голосуйте за лучшие из них. Идеи которые вы хотите видеть в приложение."
+
+#: View/Pages/about.ctp:120
+msgid "Contribute ideas"
+msgstr "Предлагайте идеи"
+
+#: View/Pages/about.ctp:121
+msgid "Got a great idea for the name? Want to pick the colour scheme? Submit your idea to the community."
+msgstr "Есть хорошая идея для названия? Хотите выбрать цветовую схему? Поделитесь своей идеей с сообществом."
+
+#: View/Pages/about.ctp:130
+msgid "Vote on features"
+msgstr "Голосуйте за предложения и идеи"
+
+#: View/Pages/about.ctp:131
+msgid "Work together to vote on the best ideas from within your community. The best ideas with the most votes are selected for the final app."
+msgstr "Выбирайте совместным общим голосованием лучшие идеи предложенные сообществом. Идеи с наибольшим количеством голосов попадут в финальную версию приложения."
+
+#: View/Pages/about.ctp:142
+msgid "Discuss your ideas"
+msgstr "Обсуждайте ваши идеи"
+
+#: View/Pages/about.ctp:143
+msgid "Start the conversation around what features you want in the app and what they might look like."
+msgstr "Начните обсуждать особенности и функции, которые Вы хотите видеть в приложении, и то как они могут выглядеть."
+
+#: View/Pages/about.ctp:152
+msgid "Your app is generated by us"
+msgstr "Ваше приложение создается нами"
+
+#: View/Pages/about.ctp:153
+msgid "Once the best ideas have been voted on we'll automatically add them to the app."
+msgstr "После того, как лучшие идеи будут выбраны голосованием, мы автоматически добавим их в приложение."
+
+#: View/Pages/about.ctp:166
+msgid "Launch your app to the world"
+msgstr "Запустите приложение в мир"
+
+#: View/Pages/about.ctp:167
+msgid "Your app is automatically generated and free for your community to download."
+msgstr "Ваше приложение автоматически создастся и будет доступно для скачивания совершено бесплатно."
+
+#: View/Pages/about.ctp:179
+msgid "Download your app"
+msgstr "Скачивайте своё приложение"
+
+#: View/Pages/about.ctp:180
+msgid "We'll automatically generate the app for Android and iOS and tell you when it's ready so you can be the first to download it!"
+msgstr "Мы автоматически сгенерируем приложение для Android и  iOS и сообщим Вам когда оно будет готова, так, чтобы Вы смогли быть первым кто скачает его!"
+
+#: View/Pages/about.ctp:189
+msgid "Share with everyone"
+msgstr "Поделиться со всеми"
+
+#: View/Pages/about.ctp:190
+msgid "Excited by your new app? Tell people about it and get them to download the app so they can use it too!"
+msgstr "Восторгаетесь Вашим новым приложением? Расскажите об этом людям и посоветуйте им скачать приложение, чтобы они тоже начали его использовать!"
+
+#: View/Pages/about.ctp:202
+msgid "Sustain your community"
+msgstr "Поддерживайте свое сообщество"
+
+#: View/Pages/about.ctp:203
+msgid "The app will be available to everyone, it's important you contribute content as much as possible to improve it for others."
+msgstr "Приложение будет доступно для всех. Очень важно, чтобы вы внесли посильный вклад в содержимое приложения, чтобы повысить его качество и привлекательность для других."
+
+#: View/Pages/about.ctp:212
+msgid "Feel awesome!"
+msgstr "Почувствуйте себя потрясающе!"
+
+#: View/Pages/about.ctp:213
+msgid "Congratulations you've made it! You can feel awesome knowing you've released an app for everyone to enjoy, good job!"
+msgstr "Поздравляем Вы сделали это! Вы можете чувствовать себя восхитительно, зная, что вы выпустили приложение для всеобщего наслаждения, хорошая работа!"
+
+#: View/Pages/about.ctp:223;227
+msgid "Get Started"
+msgstr "Начать"
+
+#: View/Pages/contact.ctp:19
+msgid "Send an email"
+msgstr "Отправить электронное письмо"
+
+#: View/Pages/contact.ctp:21
+msgid "If you have any questions, would like to work with the team or have any other concerns please contact the team on the following email address:"
+msgstr "Если у вас есть какие-либо вопросы, или Вы хотели бы поработать с командой или у вас есть другие вопросы, пожалуйста, свяжитесь с командой по следующим адресам электронной почты:"
+
+#: View/Pages/contact.ctp:38
+msgid "What is App Movement?"
+msgstr "Что приложение App Movement?"
+
+#: View/Pages/contact.ctp:40 View/Pages/faq.ctp:23
+msgid "App Movement enables any individual, community or organisation to propose, design and develop a multi-platform mobile application. No expertise are required to get started just a touch of determination and a great idea."
+msgstr "Сайт App Movement позволяет любому человеку, сообществу или организации, предложить идею, создать дизайн и разработать мультиплатформенное мобильное приложение. Для начала не требуется обладать знаниями в программирование или создание мобильных приложений. Достаточно иметь упорство и хорошую идеи."
+
+#: View/Pages/contact.ctp:48
+msgid "Who created this?"
+msgstr "Кто создал это?"
+
+#: View/Pages/contact.ctp:49
+msgid "App Movement is a research project created by %s at Newcastle University. This research project aims to explore how communities can begin to design and commission technology at a grassroots level. As such we will be collecting data about the websites usage and the mobile applications generated by App Movement. You can find out more in our privacy policy."
+msgstr "App Movement это исследовательский проект, созданный %s в Университета Ньюкасла. Он направлен на изучение того, как сообщества могут начать использовать технологий на самом базовом и доступном уровне. Для этого мы будем собирать данные об использовании сайтов и мобильных приложений, созданных с помощью App Movement. Вы можете узнать подробнее об этом в нашей политике конфиденциальности."
+
+#: View/Pages/contact.ctp:57
+msgid "Why did we create App Movement?"
+msgstr "Почему мы создали App Movement?"
+
+#: View/Pages/contact.ctp:58
+msgid "We realised that in the digital age communities need digital tools and services. However the development and creation of these services has traditionally been commissioned by local government, bed room programmers or enthusiastic community members. However we argue that this top down, reactive approach, fails to address real needs of communities. Therefore we believe anyone who has a genuine need for a mobile application should not be limited by their lack of software development experience."
+msgstr "Мы поняли, что в эпоху цифровых технологий сообщества нуждаются в цифровых инструментах и услугах. Однако, разработка и создание этих услуг традиционно отдавалась на откуп местному самоуправлению, программистам одиночкам или энтузиастом внутри общества. Однако, мы считаем, что подход сверху вниз, не может удовлетворить реальных  потребностей общин. Поэтому мы верим, что любой, кто имеет подлинную потребность в мобильном приложении не должен быть ограничен своей неопытностью в деле разработки программного обеспечения."
+
+#: View/Pages/contact.ctp:80
+msgid "This project was funded by both the EPSRC Social Inclusion Through the Digital Economy (SiDE) and the AHRC Creative Exchange (CX) research projects."
+msgstr "Этот проект был профинансирован исследовательскими проектами как EPSRC Social Inclusion Through the Digital Economy (SiDE) так и  и AHRC Creative Exchange (CX)."
+
+#: View/Pages/faq.ctp:22
+msgid "What is AppMovement?"
+msgstr "Что такое AppMovement?"
+
+#: View/Pages/faq.ctp:27
+msgid "What is a Movement?"
+msgstr "Что такое движение?"
+
+#: View/Pages/faq.ctp:28
+msgid "A Movement is an awesome idea for an app that has been created by a member of your community and allows other individuals to come together and support the idea. Once the Movement has reached the Supporter Target the Movement will move into the design phase to allow you to begin designing the features in your app. After this has been completed the app will be automatically generated and free to download for all."
+msgstr "Движение - это хорошая идея для приложения, которое было создано одним из членов вашего сообщества и позволит другим членам поддержать эту идею. Как только движение достигнет необходимого порога голосов \"за\"  оно перейдет на стадии дизайна, чтобы позволит Вам разработать дизайн особенностей вашего приложения. После того как дизайн будет создан, приложение будет автоматически сгенирировано и размещено в магазине приложения для бесплатного скачивания."
+
+#: View/Pages/faq.ctp:32
+msgid "What does it mean to be a Supporter?"
+msgstr "Что это значит быть сторонником?"
+
+#: View/Pages/faq.ctp:33
+msgid "By supporting a Movement you are pledging your support for the idea. This will allow you to be a part of the design phase and gain early access to the automatically generated mobile app when it becomes available. There are no financial commitments to being a supporter and you have the choice to interact with the Movement as you see fit. During the design phase you can contribute ideas e.g. the app's name or colour scheme and you do not require any technical expertise."
+msgstr "Голосуя за движение вы заявляете свою поддержку идеи. Это позволит вам принять участие в создание дизайна и получить ранний доступ к автоматически сгенерируемому мобильному приложению, когда оно станет доступным. Поддерживая приложение Вы не несете никаких финансовых обязательств и у Вас есть выбор взаимодействовать с движением, как Вы считаете нужным. На стадии дизайна Вы можете предлагать свои идеи. Например: название или цветовая схема приложения. От Вас не требуется никаких технических знаний."
+
+#: View/Pages/faq.ctp:37
+msgid "What is the Design Phase?"
+msgstr "Что такое стадия дизайна?"
+
+#: View/Pages/faq.ctp:38
+msgid "The Design Phase is accessible by only the supporters who have supported a movement and allows them to contribute ideas and vote on the best contributions made by others. In this phase you will not be asked to write any code, just simply come up with names and colour schemes for example."
+msgstr "Стадия дизайна доступна только сторонников, которые поддержали движение. Она позволяет им предлагать идеи и отдавать голос за лучших идеи других. На этой стадии Вам не придется писать какой либо код, нужно просто придумать название и цветовую схемы, например."
+
+#: View/Pages/faq.ctp:46
+msgid "How do you automatically generate an app?"
+msgstr "Как Вы автоматически генерирует приложение?"
+
+#: View/Pages/faq.ctp:47
+msgid "When movements are created by users they are created using a template we have developed. This template allows us to automatically configure the mobile application so that it reflects the design choices made by the community in the design phase."
+msgstr "Когда движения создаются пользователями они создаются с помощью шаблонов, которую мы разработали. Шаблон позволяет автоматически настроить мобильное приложение так, чтобы оно отражало выбор сделанный членами сообщества на этапе дизайна."
+
+#: View/Pages/faq.ctp:51
+msgid "Who owns the generated app?"
+msgstr "Кто владеет сгенерированным приложением?"
+
+#: View/Pages/faq.ctp:52
+msgid "The mobile application will be released under the Digital Interaction Group developer accounts as part of ongoing research into community commissioning platforms. Ownership of the application will therefore remain with the Digital Interaction Group. Please visit our terms and conditions of use for more information."
+msgstr "Мобильное приложение будет выпущена под  аккаунтом разработчиков Digital Interaction Group в рамках проводимого исследования о платформе взаимодействия внутри сообщества . Приложение является собственностью  Digital Interaction Group. Для более подробной информации обратитесь к условиям использования на нашем сайте."
+
+#: View/Pages/faq.ctp:56
+msgid "Who is organising this?"
+msgstr "Кто организовывает это?"
+
+#: View/Pages/faq.ctp:57
+msgid "This is a research project run by the Digitial Interaction Group as part of the ongoing research. With your permission through registering with the server, your annonymized data will be used to begin to understand how technologies of the future can encourage grassroots comissioning of mobile applications. If you wish to know more about this please visit our About page for further information."
+msgstr "Это исследовательский проект в ведении Digitial Interaction Group в рамках проводимых исследований. С вашего разрешения, после регистрации на сервере, ваши анонимизированные данные будут использоваться, чтобы начать понимать, как технологии будущего могут способствовать простому и быстрому созданию мобильных приложений. Если вы хотите узнать больше об этом, пожалуйста, посетите нашу страницу  \"Описание\" для получения дополнительной информации."
+
+#: View/Pages/home.ctp:12
+msgid "Your Community. Your App."
+msgstr "Ваше сообщество. Ваше приложение."
+
+#: View/Pages/home.ctp:14
+msgid "App Movement enables anyone to propose, design and develop a mobile application. No expertise are required and the process is fun and simple. Watch the video below to get started."
+msgstr "Сайт App Movement позволяет любому человеку, сообществу или организации, предложить идею, создать дизайн и разработать мультиплатформенное мобильное приложение. Для начала не требуется обладать знаниями в программирование или создание мобильных приложений. Это интересно и просто. Просмотрите видео ниже, чтобы убедиться в этом и начать."
+
+#: View/Pages/home.ctp:19;21
+msgid "Watch the Video"
+msgstr "Смотреть видео"
+
+#: View/Pages/home.ctp:37
+msgid "Choose one of the app templates and start your movement. Gain support for your movement by sharing it with friends."
+msgstr "Выберите один из шаблонов приложений и начните движение. Получите поддержку движения делясь ссылкой на него с друзьями."
+
+#: View/Pages/home.ctp:44
+msgid "Design Together"
+msgstr "Создавайте дизайн вместе"
+
+#: View/Pages/home.ctp:45
+msgid "The supporters of your movement work together to design the app by submitting and voting on ideas."
+msgstr "Набирайте сторонников. Они будут работать вместе с Вами на результат: придумывать дизайн приложения, предлагать свои идеи и голосовать за идеи других."
+
+#: View/Pages/home.ctp:52
+msgid "Generate Application"
+msgstr "Создание приложения"
+
+#: View/Pages/home.ctp:53
+msgid "You app is automatically generated based on the results of the design process and it is released in the app store."
+msgstr "Ваше приложение автоматически генерируется на основе результатов стадии дизайна и затем публикуется в App Store."
+
+#: View/Pages/home.ctp:63
+msgid "Featured Movements"
+msgstr "Популярные Движения"
+
+#: View/Pages/press.ctp:9
+msgid "Press Kit"
+msgstr "Инструменты для прессы"
+
+#: View/Pages/press.ctp:19
+msgid "Press Releases"
+msgstr "Пресс-релизы"
+
+#: View/Pages/press.ctp:23
+msgid "We welcome you to report on App Movement through your media channels and encourage the use of the materials provided on this page."
+msgstr "Мы будем рады если Вы сообщите о App Movement через Ваши медиа-каналы с использованием материала представленного на данной странице"
+
+#: View/Pages/press.ctp:32
+msgid "Logos & Brand"
+msgstr "Логотипы и Бренды"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Pages/press.ctp:36
+#, fuzzy
+msgid "Click any of the following assets to view the full-resolution version."
+msgstr "Нажмите на любую из следующих картинок, чтобы посмотреть версию с полным разрешением."
+
+#: View/Pages/press.ctp:36
+msgid "If you require any other assets please contact us."
+msgstr "Если вам требуется каких-либо другие активы пожалуйста, свяжитесь с нами."
+
+#: View/Pages/press.ctp:85
+msgid "If you have any queries please contact us."
+msgstr "Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с нами."
+
+#: View/Pages/press.ctp:88
+msgid "Press contact"
+msgstr "Контакты для прессы"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Pages/press.ctp:89
+#, fuzzy
+msgid "Image contact"
+msgstr "Контакт изображения "
+
+#: View/Pages/press.ctp:98
+msgid "Case Studies"
+msgstr "Примеры"
+
+#: View/Pages/press.ctp:108
+msgid "A story about Katie Brittain's idea to support people living with dementia and their carers."
+msgstr "История об идее Кэти Бриттен, которая позволяет поддержать людей, живущих со слабоумием и их сиделок."
+
+#: View/Pages/privacy.ctp:10
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: View/Pages/terms.ctp:10
+msgid "Terms of Use"
+msgstr "Условия использования"
+
+#: View/Previews/colour.ctp:47 View/Previews/geolocation_venue.ctp:47
+msgid "Place"
+msgstr "Место"
+
+#: View/Previews/colour.ctp:53 View/Previews/geolocation_venue.ctp:53
+msgid "Add Review"
+msgstr "Добавить отзыв"
+
+#: View/Previews/colour.ctp:63 View/Previews/geolocation_venue.ctp:63
+msgid "Name of Place"
+msgstr "Название Места"
+
+#: View/Previews/colour.ctp:75 View/Previews/geolocation_venue.ctp:75
+msgid "Rating Option A"
+msgstr "Рейтинг Вариант А"
+
+#: View/Previews/colour.ctp:95 View/Previews/geolocation_venue.ctp:95
+msgid "Rating Option B"
+msgstr "Рейтинг Вариант Б"
+
+#: View/Previews/colour.ctp:115 View/Previews/geolocation_venue.ctp:115
+msgid "Rating Option C"
+msgstr "Рейтинг Вариант В"
+
+#: View/Previews/colour.ctp:135 View/Previews/geolocation_venue.ctp:135
+msgid "Rating Option D"
+msgstr "Рейтинг Вариант Г"
+
+#: View/Previews/geolocation_map.ctp:90
+msgid "Home"
+msgstr "Главная"
+
+#: View/Previews/geolocation_map.ctp:102
+msgid "Add"
+msgstr "Добавить"
+
+#: View/Tasks/landing.ctp:18 View/Tasks/view.ctp:19
+msgid "Design Area"
+msgstr "Область создания дизайна"
+
+#: View/Tasks/landing.ctp:34
+msgid "Design Phase Not Available"
+msgstr "Стадия дизайна недоступна"
+
+#: View/Tasks/landing.ctp:36 View/Tasks/view.ctp:41
+msgid "Design Phase Active"
+msgstr "Стадия дизайна активна"
+
+#: View/Tasks/landing.ctp:44
+msgid "Day Remaining"
+msgstr "День остался"
+
+#: View/Tasks/landing.ctp:44
+msgid "Days Remaining"
+msgstr "Дней осталось"
+
+#: View/Tasks/landing.ctp:55
+msgid "The design phase is not yet available, please come back later!"
+msgstr "Стадия дизайна еще не доступна, пожалуйста, зайдите позже!"
+
+#: View/Tasks/landing.ctp:61
+msgid "This movement has made it to the design phase. Yourself and other supporters can now design the application together. Just click one of the following design tasks to explore, vote and contribute ideas."
+msgstr "Это движение достигло стадии дизайна. Вы и другие сторонники теперь могут создать дизайн приложения вместе. Просто выберите один из пунктов дизайна, чтобы  начать. Голосуйте за идеи и предлагайте свои."
+
+#: View/Tasks/landing.ctp:65 View/Tasks/view.ctp:63
+msgid "You have not supported this movement so you are not eligible to vote or contribute in the design phase. You are however free to browse what others have submitted."
+msgstr "Вы не поддержли это движение, так что вы не имеете права голосовать или предлагать идеи для дизайна. Однако, Вы можете просматривать то, что другие предлагают."
+
+#: View/Tasks/landing.ctp:70 View/Tasks/view.ctp:68
+msgid "Design Complete"
+msgstr "Дизайн завершен"
+
+#: View/Tasks/landing.ctp:71
+msgid "The design phase is now complete, we will select the highest voted contributions to tailor the application. You can view the community's contributions below."
+msgstr "Стадия дизайна завершена, мы выберем идеи с наибольшим количеством голосов и реализуем их. Вы можете просмотреть предложения сообщества ниже."
+
+#: View/Tasks/landing.ctp:137
+msgid "Fixed Option"
+msgstr "Вариантов на выбор"
+
+#: View/Tasks/landing.ctp:139
+msgid "User Contribution"
+msgstr "- Предложений внесено"
+
+#: View/Tasks/landing.ctp:160
+msgid "Awesome!"
+msgstr "Здорово!"
+
+#: View/Tasks/landing.ctp:161
+msgid "You've submitted contributions to all of the design tasks, thank you!"
+msgstr "Вы отправили предложения для всех дизайнерских задач, спасибо!"
+
+#: View/Tasks/landing.ctp:161
+msgid "Don't forget to come back and vote on contributions from other members!"
+msgstr "Не забудьте вернуться и проголосовать за предложения от других членов!"
+
+#: View/Tasks/view.ctp:58
+msgid "Instructions"
+msgstr "Инструкции"
+
+#: View/Tasks/view.ctp:69
+msgid "The design phase is now complete, you can view the contributions below. The winning contributions are highlighted in green."
+msgstr "стадия дизайна завершена, вы можете просматривать все предложения ниже. Победившие предложения выделены зеленым цветом."
+
+#: View/Users/admin.ctp:15 View/Users/dashboard.ctp:35
+msgid "Admin Section"
+msgstr "Раздел для админов"
+
+#: View/Users/admin.ctp:53
+msgid "APP STORE"
+msgstr "МАГАЗИН ПРИЛОЖЕНИЙ"
+
+#: View/Users/admin.ctp:54
+msgid "DATABASE"
+msgstr "БАЗА ДАННЫХ"
+
+#: View/Users/admin.ctp:55
+msgid "XML"
+msgstr "XML"
+
+#: View/Users/admin.ctp:56
+msgid "ASSETS"
+msgstr "АКТИВЫ"
+
+#: View/Users/admin.ctp:57
+msgid "LAUNCH"
+msgstr "ЗАПУСК"
+
+#: View/Users/admin.ctp:64
+msgid "App Name"
+msgstr "Название приложения"
+
+#: View/Users/admin.ctp:68
+msgid "App Identifier"
+msgstr "Идентификатор приложения"
+
+#: View/Users/admin.ctp:72
+msgid "Listing"
+msgstr "Список"
+
+#: View/Users/admin.ctp:76
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: View/Users/admin.ctp:83
+msgid "SQL Create Dump"
+msgstr "Дамп SQL Create"
+
+#: View/Users/admin.ctp:90
+msgid "iOS XML Dump"
+msgstr "Дамп IOS XML"
+
+#: View/Users/admin.ctp:94
+msgid "Android XML Dump"
+msgstr "Дамп Android XML"
+
+#: View/Users/admin.ctp:101
+msgid "Set Background Colour"
+msgstr "Установить цвет фона"
+
+#: View/Users/admin.ctp:103
+msgid "Clear"
+msgstr "Очистить"
+
+#: View/Users/admin.ctp:104
+msgid "Apply"
+msgstr "Применить"
+
+#: View/Users/admin.ctp:107
+msgid "App Icon"
+msgstr "Иконка приложения"
+
+#: View/Users/admin.ctp:111
+msgid "Spash Screen"
+msgstr "Слеш скрин"
+
+#: View/Users/admin.ctp:115
+msgid "App Screenshots"
+msgstr "Скриншоты приложения"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: View/Users/admin.ctp:120
+#, fuzzy
+msgid "Download Assets"
+msgstr "Скачать активы"
+
+#: View/Users/admin.ctp:125
+msgid "Android Store Listing URL"
+msgstr "Магазин приложений Android, список URL"
+
+#: View/Users/admin.ctp:128
+msgid "iOS Store Listing URL"
+msgstr "Магазин IOS список URL"
+
+#: View/Users/admin.ctp:131
+msgid "Click below to send the launch notification to all supporters"
+msgstr "Нажмите ниже, чтобы отправить уведомление о запуске всем сторонникам поддержавшим приложение"
+
+#: View/Users/admin.ctp:132
+msgid "Send Launch Notification"
+msgstr "Отправить уведомления о Запуске"
+
+#: View/Users/admin.ctp:172
+msgid "Notifications have been sent!"
+msgstr "Уведомления были отправлены!"
+
+#: View/Users/admin.ctp:247;248;249;250;300;302
+msgid "Loading"
+msgstr "Загрузка"
+
+#: View/Users/dashboard.ctp:14
+msgid "Your Dashboard"
+msgstr "Ваш Дашборд"
+
+#: View/Users/dashboard.ctp:30 View/Users/display_users.ctp:37
+#: View/Users/view.ctp:38
+msgid "Joined"
+msgstr "Присоединился в"
+
+#: View/Users/dashboard.ctp:36
+msgid "Site Users"
+msgstr "Пользователи сайта"
+
+#: View/Users/dashboard.ctp:40 View/Users/edit.ctp:10
+msgid "Edit Profile"
+msgstr "Редактировать Профиль"
+
+#: View/Users/dashboard.ctp:41
+msgid "Logout"
+msgstr "Выйти"
+
+#: View/Users/dashboard.ctp:53
+msgid "Your Movements"
+msgstr "Ваши движения"
+
+#: View/Users/dashboard.ctp:79
+msgid "Your Notification Stream"
+msgstr "Ваши уведомления"
+
+#: View/Users/display_users.ctp:5
+msgid "Site users"
+msgstr "Пользователи сайта"
+
+#: View/Users/display_users.ctp:34
+msgid "Fullname"
+msgstr "Имя"
+
+#: View/Users/edit.ctp:41
+msgid "Profile Photo"
+msgstr "Фото для профиля"
+
+#: View/Users/edit.ctp:47
+msgid "Notification Preferences"
+msgstr "Настройки уведомлений"
+
+#: View/Users/edit.ctp:52
+msgid "Send me awesome email updates"
+msgstr "Отправлять мне информацию об обновлениях по электронной почте"
+
+#: View/Users/edit.ctp:64
+msgid "Update Profile"
+msgstr "Обновить профиль"
+
+#: View/Users/forgot.ctp:10
+msgid "Forgot Password"
+msgstr "Забыли пароль"
+
+#: View/Users/forgot.ctp:18
+msgid "Send Reset Email"
+msgstr "Отправить письмо для сброса пароля"
+
+#: View/Users/forgot.ctp:19
+msgid "Please enter the email address you used to register to reset your password."
+msgstr "Пожалуйста, введите адрес электронной почты, который вы использовали для регистрации, чтобы сбросить пароль."
+
+#: View/Users/forgot.ctp:31
+msgid "Send Email"
+msgstr "Отправить электронное письмо"
+
+#: View/Users/login.ctp:37
+msgid "Forgotten your password?"
+msgstr "Забыли свой пароль?"
+
+#: View/Users/register.ctp:10
+msgid "Create an Account"
+msgstr "Создать учетную запись"
+
+#: View/Users/register.ctp:39 View/Users/reset.ctp:31
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: View/Users/register.ctp:50
+msgid "By creating an account means you agree to App Movement's <br /> %s and %s"
+msgstr "Создавая учетную запись вы подтверждаете согласие с <br /> %s and %s"
+
+#: View/Users/register.ctp:55
+msgid "I already have an account"
+msgstr "У меня уже есть учетная запись"
+
+#: View/Users/reset.ctp:18
+msgid "Reset Your Password"
+msgstr "Сбросить Ваш пароль"
+
+#: View/Users/reset.ctp:19
+msgid "Please enter new password below."
+msgstr "Пожалуйста, введите новый пароль ниже."
+
+#: View/Users/reset.ctp:29
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: View/Users/reset.ctp:31
+msgid "Please re-enter password"
+msgstr "Пожалуйста, повторно введите пароль"
+
+#: View/Users/view.ctp:22
+msgid "%s's Profile"
+msgstr "Профиль %s"
+
+#: View/Users/view.ctp:61
+msgid "%s has no movements"
+msgstr "%s не имеет движений"
+
+#: Model/IssuedSurvey.php:validation for field
+#: published_app_survey_id;validation user_id
+msgid "Please enter a numeric value"
+msgstr "Пожалуйста, введите числовое значение"
+
+#: Model/IssuedSurvey.php:validation for field published_app_survey_id
+msgid "Please enter a published_app_survey_id"
+msgstr "Пожалуйста, введите published_app_survey_id"
+
+#: Model/IssuedSurvey.php:validation for field user_id
+msgid "Please enter a user_id who will receive this survey"
+msgstr "Пожалуйста, введите идентификатор пользователя (user_id), который получит эту анкету"
+
+#: Model/Notification.php:validation for field user_id
+msgid "Please include user_id"
+msgstr "Пожалуйста, введите идентификатор пользователя user_id"
+
+#: Model/Notification.php:validation for field user_id
+msgid "isNumeric"
+msgstr "Числовой"
+
+#: Model/Notification.php:validation for field data
+msgid "data is incorrect format for this notification type, or you have not specified a notification type"
+msgstr "Неверный формат данных для данного типа уведомлений, или вы не указали тип уведомления"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr "Пожалуйста, введите notification_type_id"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr "Пожалуйста, вводите идентификатор типа уведомления notification_type_id только как числовое значение"
+
+# Need to know where exactly this phrase i used, In order to have a better translation
+#: Model/Notification.php:validation for field notification_type_id
+#, fuzzy
+msgid "Notification_type_id incorrect"
+msgstr "Идентификатор уведомления неверен (Notification_type_id )"
+
+#: Model/PublishedAppSurvey.php:validation for field
+#: published_app_id;validation survey_id
+msgid "Please enter numeric values only"
+msgstr "Пожалуйста, используете только числовые значения"
+
+#: Model/PublishedAppSurvey.php:validation for field published_app_id
+msgid "Please enter a published_app_id"
+msgstr "Пожалуйста, введите published_app_id"
+
+#: Model/PublishedAppSurvey.php:validation for field survey_id
+msgid "Please enter a survey_id"
+msgstr "Пожалуйста, введите идентификатор анкеты опроса (survey_id)"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "Пожалуйста, введите текст отзыва"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 800 characters"
+msgstr "Текст отзыва должен быть меньше, чем 800 символов"
+
+#: Model/Survey.php:validation for field url
+msgid "Please enter a survey url"
+msgstr "Пожалуйста, введите URL-адрес анкеты опроса"
+
+#: Model/Survey.php:validation for field start
+msgid "Please only enter a datetime"
+msgstr "Пожалуйста, введите только дату и время"
+
+#: Model/Survey.php:validation for field start
+msgid "Please enter a start datetime"
+msgstr "Пожалуйста, введите начальную дату и время"
+
+#: Model/Survey.php:validation for field duration_in_days
+msgid "Please enter a whole number (in days)"
+msgstr "Пожалуйста, введите целое число (в днях)"
+
+#: Model/Survey.php:validation for field duration_in_days
+msgid "Please enter the duration in days that you wish for the survey to be presented"
+msgstr "Пожалуйста, введите длительность в днях, в течение которой, вы хотите чтобы анкета опроса должна быть доступна"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "пожалуйста введите свое полное имя"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be more than 4 characters"
+msgstr "Полное Имя должно быть более 4 символов"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "Полное Имя должно быть менее 40 символов"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "Пожалуйста введите имя пользователя"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "Это имя пользователя занято. Пожалуйста, выберите другое"
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr "Только буквы, цифры, нижнее подчеркивание и тире. Пожалуйста, введите допустимое имя"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be more than 4 characters"
+msgstr "Имена пользователей должны быть больше, чем 4 символов"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "Имена пользователей должны быть меньше, чем 40 символов"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "Пожалуйста, введите пароль"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "Пароль должен быть больше, чем 8 символов"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "Пароль должен быть менее 40 символов"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "Пожалуйста, введите еще раз ваш пароль"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "Пароли должны совпадать"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr "пустой"
+
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста, введите правильный адрес электронной почты"
+
+#: Model/Global/User.php:validation for field email
+msgid "An account registered with this email already exists, please enter another or login below"
+msgstr "Учетная запись привязанная к этой электронной почте уже существует, пожалуйста, введите другую почту или войдите в систему"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "Электронный адрес недолжен содержать более240 символов"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "Изображение должно быть следующих типов: JPG, JPEG или PNG"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "Изображение должно быть более 5KB"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "Изображение должно быть менее 3 МБ"
+
+#: From Database Table: design_tasks[name]
+msgid "Colour Scheme"
+msgstr "Цветовая схема"
+
+#: From Database Table: design_tasks[name]
+msgid "Rating Options"
+msgstr "Варианты рейтинга"
+
+#: From Database Table: design_tasks[name]
+msgid "Map Pin Style"
+msgstr "Стиль Маркера на карте"
+
+#: From Database Table: design_tasks[description]
+msgid "Choose a name that will grab attention and sounds great"
+msgstr "Выберите название, которое будет привлекать внимание и звучать хорошо"
+
+#: From Database Table: design_tasks[description]
+msgid "A memorable icon ensures people will engage with your app"
+msgstr "Запоминающая иконка обеспечит узнаваемость и  побудит людей чаще пользоваться Вашим приложением"
+
+#: From Database Table: design_tasks[description]
+msgid "Select a colour scheme that will fit the app purpose"
+msgstr "Выберите цветовую схему, которая будет соответствовать цели приложения"
+
+#: From Database Table: design_tasks[description]
+msgid "These are the things users of the app will rate on a scale of 0 - 5 stars (e.g. Comfort, Price, Quality etc.)"
+msgstr "Это те вещи, которые пользователи приложения будет оценивать по шкале от 0 - 5 звезд (например, комфорт, цена, качество и т.д.)"
+
+#: From Database Table: design_tasks[description]
+msgid "Choose a style of map pin to indicate the location of places on the map"
+msgstr "Выберите стиль маркета на карте, который указывает расположение мест на карте"
+
+#: From Database Table: design_tasks[instruction]
+msgid "Its time to choose a name for the app, you can vote on the contributions below or submit your own. The contribution with the highest votes at the end of the design period will be the final name."
+msgstr "Самое время выбрать имя для приложения. Вы можете голосовать за предложения ниже или добавить свои собственные. Предложение с самым большим количеством голосов к концу стадии дизайна станет окончательным названием."
+
+#: From Database Table: design_tasks[instruction]
+msgid "Below are some of the logos submitted by the community but you can always add your own. The contribution with the highest votes at the end of the design phase will be selected for use throughout the app."
+msgstr "Ниже приведены некоторые из логотипов, представленных сообществом, но вы всегда можете добавить своё. Логотип с самыми большим числом голосов к концу стадии дизайна будет отобран для использования во всем приложении."
+
+#: From Database Table: design_tasks[instruction]
+msgid "Choose a beautiful colour scheme for your application. Think about your brand colours and vote on the submissions below or add your own idea."
+msgstr "Выберите красивую цветовую схему для вашего приложения. Подумайте о Ваших любимых цветах и голосуйти за предложения ниже или добавьте свою идею."
+
+#: From Database Table: design_tasks[instruction]
+msgid "Here you can vote on different review options proposed by users or submit your own ideas at the bottom."
+msgstr "Здесь вы можете голосовать за разные варианты отзывов предложенные пользователями или предложить свои идеи в нижней части."
+
+#: From Database Table: design_tasks[instruction]
+msgid "When places are added to the map their location is represented by a map pin. You can vote for your favourite style of map pin in this design task."
+msgstr "Когда место добавляется на карту, его местоположение обозначается маркером. В  данном разделе Вы можете проголосовать за понравившейся стиль маркера."
+
+#: From Database Table: report_types[description]
+msgid "abusive / offensive"
+msgstr "оскорбительное"
+
+#: From Database Table: report_types[description]
+msgid "copyright"
+msgstr "авторские права"
+
+#: From Database Table: report_types[description]
+msgid "spam"
+msgstr "спам"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App Movement has been created! Get promoting your Movement now!"
+msgstr "Ваше движение для создания приложения было создано! Начинайте продвигать его!"
+
+#: From Database Table: notification_types[subject]
+msgid "Great news, You've Reached The Goal!"
+msgstr "Отличная новость, вы достигли цели!"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App is Almost Here!"
+msgstr "Ваше приложение почти здесь!"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App Is Now Available To Download!"
+msgstr "Ваше приложение теперь доступно для скачивания!"
+
+#: From Database Table: notification_types[subject]
+msgid "Your Movement Has Unfortunately Missed The Target"
+msgstr "К сожалению, Ваше движение не достигло цели"
+
+#: From Database Table: notification_types[subject]
+msgid "You Have Successfully Supported a Movement!"
+msgstr "Вы успешно поддержали движение!"
+
+#: From Database Table: notification_types[subject]
+msgid "{creator_name} has posted an update about {movement_title}"
+msgstr "{creator_name} опубликовал обновление о {movement_title}"

@@ -1,0 +1,14 @@
+/* Survey Mobile Styles */
+
+.survey-container {
+	text-align: center;
+}
+.survey-container .input {
+	margin: 6px 20px 30px 20px;
+}
+.survey-container input[type="text"] {
+	border: #ccc 1px solid;
+	border-radius: 6px;
+	padding: 10px;
+	width: 240px;
+}

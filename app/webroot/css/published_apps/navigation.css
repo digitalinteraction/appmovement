@@ -1,0 +1,170 @@
+/** Navigation **/
+
+#navigation {
+	background-color: #fff;
+	border-bottom: #E1E1E1 1px solid;
+	position: relative;
+}
+
+@media(min-width: 992px) {
+
+	#navigation {
+		background-color: rgba(255, 255, 255, 0.975);
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		z-index: 4;
+	}
+
+}
+
+#navigation #logo {
+	color: #000;
+	float: left;
+	font-size: 22px;
+	font-weight: 300;
+	height: 80px;
+	letter-spacing: 5px;
+	line-height: 80px;
+	padding: 0;
+}
+
+#navigation #logo strong {
+	font-weight: 600;
+}
+
+#navigation a {
+	color: #000;
+}
+
+#navigation ul {
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul a li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+#navigation ul a li {
+	color: #666;
+	font-size: 13.5px;
+	font-weight: 600;
+	height: 80px;
+	line-height: 80px;
+	padding: 0px 20px;
+}
+
+#navigation ul .active {
+	color: #000;
+	border-bottom: #2CD7D7 2px solid;
+}
+
+#navigation ul a li:hover {
+	color: #000;
+}
+
+#navigation ul a li:hover:not(.nav-button) {
+	background-color: #f9f9f9;
+	cursor: pointer;
+}
+
+#navigation:after {
+	clear: both;
+	float: none;
+}
+
+#navigation img {
+	background-size: cover;
+	background-position: center;
+	border: #E1E1E1 1px solid;
+	border-radius: 26px;
+	height: 50px;
+	position: relative;
+	width: 50px;
+}
+
+#navigation #register-button {
+	display: inline-block;
+}
+
+#navigation #register-tab {
+	display: none;
+}
+
+#navigation #register-btn {
+	display: inline-block;
+}
+
+@media(max-width: 992px) {
+
+	#navigation #logo {
+		float: none;
+		font-size: 20px;
+		height: 60px;
+		line-height: 60px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	#navigation .container {
+		width: 100%;
+	}
+
+	#navigation ul {
+		border-top: #E1E1E1 1px solid;
+		float: none;
+		text-align: center;
+	}
+
+	#navigation ul a li {
+		color: #666;
+		font-size: 13.5px;
+		font-weight: 600;
+		height: 60px;
+		line-height: 60px;
+		padding: 0px 15px;
+	}
+
+	#navigation ul .active {
+		color: #000;
+		border-bottom: none;
+	}
+
+	#navigation ul a li:hover {
+		color: #000;
+	}
+
+	#navigation ul a li:hover:not(.nav-button) {
+		background-color: #fff;
+		cursor: pointer;
+	}
+
+	#navigation .nav-button {
+		height: 50px;
+		line-height: 50px;
+	}
+
+	#navigation #register-btn {
+		display: none;
+	}
+
+	#navigation #register-tab {
+		display: inline-block;
+	}
+
+}
+
+@media(max-width: 568px) {
+
+	#navigation ul a li {
+		padding: 0px 8px;
+	}
+
+}

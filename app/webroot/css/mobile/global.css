@@ -1,0 +1,19 @@
+/* Global Mobile Styles */
+
+html, body {
+	background: #fff;
+	border-top: none;
+	margin: 0;
+	padding: 0;
+}
+
+.page-wrap:after {
+	height: 0px;
+}
+
+/* Page Panels */
+
+.mobile-page-panel {
+	padding: 20px;
+	text-align: center;
+}

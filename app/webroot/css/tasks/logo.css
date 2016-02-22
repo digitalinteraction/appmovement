@@ -1,0 +1,22 @@
+
+/* Logo Task Styles */
+
+.logo-tile {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+}
+
+.logo-tile table {
+	width: 100%;
+}
+
+.logo-tile table td {
+	text-align: center;
+}
+
+.logo-tile table img {
+	margin: 10px auto;
+	max-width: 80%;
+	max-height: 120px;
+}

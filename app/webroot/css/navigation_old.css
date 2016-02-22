@@ -1,0 +1,166 @@
+/** Navigation **/
+
+#navigation {
+	background-color: #fff;
+	border-bottom: #E1E1E1 1px solid;
+}
+
+@media(min-width: 992px) {
+
+	#navigation {
+		background-color: rgba(255, 255, 255, 0.98);
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		z-index: 4;
+	}
+
+}
+
+#navigation #logo {
+	float: left;
+	height: 88px;
+
+	color: #000;
+	font-size: 23px;
+	font-weight: 300;
+	letter-spacing: 8px;
+	line-height: 88px;
+	padding: 0px 40px;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-transition-duration: 0.3s, 0.3s, 0.3s;
+	-webkit-transition-property: color;
+}
+
+#navigation #logo strong {
+	font-weight: 600;
+}
+
+#navigation ul {
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li {
+	color: #999;
+	display: inline-block;
+	font-weight: 300;
+	height: 40px;
+	margin: 26px 0px;
+	padding: 0px 20px;
+	text-align: left;
+}
+
+@media (max-width: 420px) {
+
+	#navigation ul li {
+		padding: 0px 10px;
+	}
+
+}
+
+#navigation .nav-link h5 {
+	color: #666;
+	font-size: 18px;
+	line-height: 20px;
+	margin: 0;
+	padding: 0;
+
+    -webkit-transition: color 100ms ease-out 100ms;
+    -moz-transition: color 100ms ease-out 100ms;
+    -o-transition: color 100ms ease-out 100ms;
+    transition: color 100ms ease-out 100ms;
+}
+
+#navigation .nav-link p {
+	color: #444;
+	font-size: 12px;
+	line-height: 18px;
+	margin: 0;
+	margin-top: 2px;
+	padding: 0;
+
+    -webkit-transition: color 100ms ease-out 100ms;
+    -moz-transition: color 100ms ease-out 100ms;
+    -o-transition: color 100ms ease-out 100ms;
+    transition: color 100ms ease-out 100ms;
+}
+
+#navigation .nav-link:hover h5, #navigation .nav-link:hover p {
+	color: #000;
+}
+
+#navigation:after {
+	clear: both;
+	float: none;
+}
+
+@media (max-width:768px) {
+	
+	#navigation ul li p {
+		display: none;
+	}
+	#navigation .nav-link h5 {
+		font-size: 16px;
+		line-height: 40px;
+	}
+
+}
+
+#user-profile {
+	background-size: cover;
+	background-position: center;
+	border: #E1E1E1 1px solid;
+	border-radius: 26px;
+	float: right;
+	height: 52px;
+	margin: 18px;
+	width: 52px;
+}
+
+@media (max-width: 992px) {
+
+	#navigation {
+		text-align: center;
+	}
+
+	#navigation #logo {
+		border-bottom: #E1E1E1 1px solid;
+		float: none;
+		margin: 0 auto;
+		padding: 0px 10px;
+		width: 100%;
+	}
+
+	#navigation ul {
+		float: none;
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	#navigation ul li {
+		margin: 16px 0px;
+	}
+
+	#user-profile {
+		float: none;
+		margin: 0px;
+		position: absolute;
+		top: 18px;
+		right: 18px;
+	}
+
+}
+
+@media (max-width: 400px) {
+	
+	#navigation #logo {
+		font-size: 18px;
+		text-align: center;
+	}
+
+}

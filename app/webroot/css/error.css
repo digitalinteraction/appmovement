@@ -1,0 +1,15 @@
+/** Error Styles **/
+
+.error-row {
+	padding: 100px 20px;
+	text-align: center;
+}
+
+.error-row h3 {
+	color: #666;
+}
+
+.error-row p {
+	color: #666;
+	font-size: 16px;
+}

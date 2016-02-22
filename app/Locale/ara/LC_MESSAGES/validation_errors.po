@@ -1,0 +1,287 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-07-24 09:14-0000\n"
+"PO-Revision-Date: 2015-07-24 12:00-0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 1.8\n"
+"Language: ar_001\n"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Please enter a comment"
+msgstr "الرجاء إضافة تعليق"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be at least 3 characters"
+msgstr "يجب أن يكون تعليقك أكثر من ٣ أحرف"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be less than 500 characters"
+msgstr "يجب أن يكون تعليقك أقل من ٥٠٠ حرفا"
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "Please include user_id"
+msgstr ""
+
+#: Model/Site/Comment.php:validation for field user_id
+#: Model/Site/CommentVote.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "isNumeric"
+msgstr ""
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please enter parent_id"
+msgstr ""
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please only enter parent_id as numeric value"
+msgstr ""
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Parent_id incorrect"
+msgstr ""
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Please enter comment_type_id"
+msgstr ""
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Comment_type_id incorrect"
+msgstr ""
+
+#: Model/Site/CommentVote.php:validation for field up
+msgid "Please vote up or down"
+msgstr "يرجى التصويت"
+
+#: Model/Site/CommentVote.php:validation for field user_id
+msgid "You may only cast your vote once"
+msgstr "يسمح بالتصويت مرة واحدة فقط"
+
+#: Model/Site/CommentVote.php:validation for field comment_id
+msgid "Please enter comment_id"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid "Please only enter a number for the user_id"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid ""
+"You cannot contribute to this movement as you are not a supporter or "
+"promoter of this movement"
+msgstr "لا يمكنك المساهمة في هذه الحركة حيث انك لست مؤيد أو مروج لهذه الحركة"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please enter movement_design_task_id"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please only enter movement_design_task_id as numeric value"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Movement_design_task_id incorrect"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Please enter contribution_type_id"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Contribution_type_id incorrect"
+msgstr ""
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please enter a contribution"
+msgstr "الرجاء إدخال مساهمتك"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please ensure that you have entered your contribution correctly"
+msgstr "يرجى التأكد من إدخال مساهمتك بشكل صحيح"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "You have already submitted a contribution with those details"
+msgstr "كنت قد قدمت مسبقا مساهمة بهذه التفاصيل"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "Please enter a title for your movement"
+msgstr "يرجى إدخال عنوان لحركتك"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be more than 10 characters"
+msgstr "يجب أن يكون العنوان أكثر من ١٠ أحرف"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be less than 50 characters"
+msgstr "يجب أن يكون العنوان أقل من ٥٠ حرفا"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "Please enter a short paragraph that describes your movement"
+msgstr "الرجاء إدخال نص قصير يصف حركتك"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be more than 20 characters"
+msgstr "يجب أن يكون الوصف أكثر من ٢٠ حرفا"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be less than 140 characters"
+msgstr "يجب أن يكون الوصف أقل من ١٤٠ حرفا"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "Please enter a detailed overview of your movement"
+msgstr "يرجى إدخال نظرة عامة مفصلة عن الحركة الخاص بك"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be more than 100 characters"
+msgstr "يجب أن تكون النظرة العامة أكثر من ١٠٠ حرفا"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be less than 4000 characters"
+msgstr "يجب أن تكون النظرة العامة أقل من ٤٠٠٠ حرفا"
+
+#: Model/Site/Movement.php:validation for field app_type_id
+msgid "Please select the type of app you wish to create"
+msgstr "يرجى تحديد نوع التطبيق الذي ترغب في إنشائه"
+
+#: Model/Site/Movement.php:validation for field photo
+msgid "Please select a photo for your movement"
+msgstr "الرجاء اختيار صورة لحركتك"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Please enter an update"
+msgstr "الرجاء إدخال التحديث"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be at least 10 characters"
+msgstr "يجب أن يكون التحديث أكثر من ١٠ أحرف"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be less than 4000 characters"
+msgstr "يجب أن يكون التحديث أقل من ٤٠٠٠ حرفا"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You are not the creator of this movement"
+msgstr "أنت لست مُنشأ هذه الحركة"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You can only post 2 updates per day. Please try again in a short while."
+msgstr ""
+"يمكنك إضافة فقط تحديثان فقط في اليوم الواحد. يرجى المحاولة مرة أخرى لاحقا."
+
+#: Model/Notification.php:validation for field data
+msgid ""
+"data is incorrect format for this notification type, or you have not "
+"specified a notification type"
+msgstr ""
+"البيانات غير صحيحة لهذا النوع من التنبيه، أو أنك لم تقم بتحديد نوع التنبيه."
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr ""
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr ""
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Notification_type_id incorrect"
+msgstr ""
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "الرجاء إدخال ملاحظتك"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 800 characters"
+msgstr "يجب أن يكون النص أقل من ٨٠٠ حرفا"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "الرجاء إدخل اسمك بالكامل"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "يجب أن يكون الإسم أقل من ٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "الرجاء إدخل اسم المستخدم"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "اسم المستخدم موجود مسبقا، يرجى اختيار اسم آخر"
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr ""
+"فقط الأحروف والأرقام و الشرطات العلوية والسفلية مسموحه. الرجاء إعادة إدخال "
+"اسم صحيح"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "يجب أن يكون إسم المستخدم أقل من ٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "يجب أن تكون كلمة المرور أكثر من ٨ أحرف"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "يجب أن تكون كلمة المرور أقل من ٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "الرجاء إعادة إدخال كلمة المرور"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "يجب أن يتطابق كلا حقلا كلمة المرور"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr ""
+
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "الرجاء إدخال عنوان بريد إلكتروني صحيح"
+
+#: Model/Global/User.php:validation for field email
+msgid ""
+"An account registered with this email already exists, please enter another "
+"or login below"
+msgstr ""
+"البريد الإلكتروني موجود مسبقا، يرجى إدخال عنوان آخر أو تسجيل الدخول في الأسفل"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "يجب أن يكون البريد الإلكتروني أقل من ٢٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "يجب أن تكون الصورة من نوع: JPG ،JPEG أو PNG"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "يجب أن تكون الصورة أكثر من 5KB"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "يجب أن تكون الصورة أقل من 3MB "

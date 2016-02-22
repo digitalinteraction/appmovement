@@ -1,0 +1,171 @@
+/** Styles for admin section **/
+
+.app-container {
+	overflow: hidden;
+}
+
+.app-tile-wrapper {
+	height: 220px;
+	margin: 0px auto;
+	padding: 0px;
+	text-align: center;
+	background-color: #222;
+
+
+	white-space: nowrap;
+	overflow-y: hidden;
+	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+.app-tile-wrapper::-webkit-scrollbar { 
+    display: none; 
+}
+
+.app-tile {
+	background-color: #fff;
+
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+	border: #222 1px solid;
+	border-radius: 4px;
+	cursor: pointer;
+	display: inline-block;
+	height: 180px;
+	margin: 20px 10px;
+	opacity: 0.3;
+	padding: 0px;
+	width: 240px;
+}
+
+.padder {
+	display: inline-block;
+	height: 180px;
+	margin: 20px 10px;
+	width: 50%;
+	margin-left: -140px;
+}
+
+.page {
+	background-color: #fff;
+	border: #E1E1E1 1px solid;
+	border-radius: 4px;
+	margin: 20px auto;
+	overflow: hidden;
+}
+
+.page #app-header {
+	background-color: #fdfdfd;
+	border-bottom: #e1e1e1 1px solid;
+	text-align: center;
+}
+
+.page #app-header h3 {
+	color: #666;
+	font-weight: 200;
+	margin: 0px;
+	padding: 40px 20px;
+}
+
+.input-section {
+	overflow: hidden;
+	margin: 10px;
+}
+
+.app-form .input-field {
+	border: #e1e1e1 1px solid;
+	border-radius: 4px;
+	box-shadow: none;
+	font-size: 16px;
+	margin: 0px;
+	padding: 10px;
+	text-align: left;
+	width: 100%;
+}
+
+.app-form label {
+	color: #666;
+	margin-bottom: 10px;
+}
+
+.app-form .btn {
+}
+
+.app-form .input-wrapper {
+	padding: 20px;
+}
+
+/* Admin Navigation */
+
+.admin-navigation {
+	background-color: #fff;
+	width: 100%;
+}
+
+.admin-navigation ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.admin-navigation li {
+	border-right: #ddd 1px solid;
+	display: inline-block;
+	list-style: none;
+	margin-left: -4px;
+	right: -4px;
+	padding: 15px 0px;
+	position: relative;
+	text-align: center;
+	width: 20%;
+}
+
+.admin-navigation li:last-child {
+	border-right: none;
+}
+
+.admin-navigation li:hover {
+	background-color: #e9e9e9;
+	cursor: pointer;
+}
+
+.admin-navigation .active {
+	background-color: #e6e6e6;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+/* Admin Panels */
+
+.admin-panel {
+	border-top: #DDD 1px solid;
+	display: none;
+	padding: 40px;
+}
+
+.admin-panel textarea {
+	background-color: #f9f9f9;
+	border: #e1e1e1 1px solid;
+	border-radius: 4px;
+	height: 300px;
+	width: 100%;
+}
+
+.admin-panel input {
+	background-color: #f9f9f9;
+	border: #e1e1e1 1px solid;
+	border-radius: 4px;
+	padding: 10px;
+	width: 100%;
+}
+
+#assets-panel .color {
+	max-width: 200px;
+}
+
+#assets-panel .btn, #assets-panel input {
+	display: inline-block;
+	margin-right: 10px;
+}

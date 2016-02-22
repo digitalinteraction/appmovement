@@ -1,0 +1,124 @@
+/** Launch Styles **/
+
+.breadcrumbs {
+	margin: 20px 0px;
+}
+
+.info-container {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+	min-height: 20px;
+	margin: 20px 10px;
+	padding: 0;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+.info-container h2 {
+	color: #666;
+	font-weight: 300;
+	margin: 0;
+	padding: 20px;
+}
+
+.status-container h2 {
+	color: #666;
+	font-weight: 300;
+	margin: 0;
+	padding: 30px 20px;
+}
+
+.link-container {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+	min-height: 20px;
+	margin: 20px 10px;
+	padding: 20px 10px;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+.info-container a {
+	color: #666;
+	font-size: 20px;
+	font-weight: 300;
+	margin: 0;
+	padding: 0;
+}
+
+.info-container p {
+	color: #444;
+	font-size: 14px;
+	margin-bottom: 20px;
+	padding: 0px 20px;
+}
+
+.info-container .status-banner {
+	background-size: cover;
+	background-position: center;
+	min-height: 200px;
+	width: 100%;
+}
+
+.download-container .col-xs-6 {
+	padding: 15px 15px;
+}
+
+.download-container img {
+}
+
+.status-container {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+	min-height: 200px;
+	margin: 20px 10px;
+	padding: 0px;
+	text-align: center;
+	word-wrap: break-word;
+}
+
+.status-container .status-title h2 {
+	font-size: 24px;
+	font-weight: 300;
+}
+
+.status-container ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.status-container ul li {
+	border-top: #EEE 1px solid;
+	list-style: none;
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+}
+
+.status-container ul li:hover {
+	cursor: pointer;
+	background-color: #f9f9f9;
+}
+
+.status-container ul li h4 {
+	color: #666;
+	font-weight: 300;
+}
+
+.status-container ul li h4 .fa {
+	margin-right: 15px;
+}
+
+.status-container ul li h4 .fa-check {
+	color: #5cb85c;
+	font-weight: 300;
+}
+
+.status-container ul li h4 .fa-circle-o {
+	color: #ff6633;
+	font-weight: 300;
+}

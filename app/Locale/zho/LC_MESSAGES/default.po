@@ -1,0 +1,1901 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-06-02 09:59-0000\n"
+"PO-Revision-Date: 2015-06-02 10:45-0000\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8\n"
+"Language: zh_CN\n"
+
+#: View/Elements/discussion.ctp:21
+msgid "Discussion"
+msgstr "讨论"
+
+#: View/Elements/discussion.ctp:35 View/Elements/Comments/comment.ctp:56
+msgid "Your comment"
+msgstr "您的评论"
+
+#: View/Elements/discussion.ctp:36
+msgid "Comment"
+msgstr "评论"
+
+#: View/Elements/discussion.ctp:43
+msgid "Order by date"
+msgstr "按日期"
+
+#: View/Elements/footer.ctp:11 View/Pages/contact.ctp:9 View/Pages/press.ctp:81
+msgid "Contact"
+msgstr "联系"
+
+#: View/Elements/footer.ctp:14 View/Elements/Notifications/supported_movement.ctp:19
+msgid "FAQ"
+msgstr "常问问题"
+
+#: View/Elements/footer.ctp:17 View/Mobile/terms.ctp:10
+msgid "Terms"
+msgstr "条款"
+
+#: View/Elements/footer.ctp:20
+msgid "Privacy"
+msgstr "隐私"
+
+#: View/Elements/footer.ctp:23
+msgid "Press"
+msgstr "按"
+
+#: View/Elements/movement_tile.ctp:21
+msgid "by"
+msgstr "由"
+
+#: View/Elements/movement_tile.ctp:45 View/Elements/Movements/sidebar.ctp:150
+msgid "Under Review"
+msgstr "在回顾"
+
+#: View/Elements/movement_tile.ctp:53
+msgid "Unsuccessful"
+msgstr "不成功"
+
+#: View/Elements/movement_tile.ctp:69
+msgid "%"
+msgstr "％"
+
+#: View/Elements/movement_tile.ctp:70
+msgid "SUPPORTED"
+msgstr "支"
+
+#: View/Elements/movement_tile.ctp:74
+msgid "DAY TO GO"
+msgstr "DAY TO GO"
+
+#: View/Elements/movement_tile.ctp:74
+msgid "DAYS TO GO"
+msgstr "DAYS TO GO"
+
+#: View/Elements/movement_tile.ctp:83
+msgid "Design Phase"
+msgstr "设计阶段"
+
+#: View/Elements/movement_tile.ctp:91 View/Movements/launch.ctp:13
+msgid "Launch Phase"
+msgstr "启动阶段"
+
+#: View/Elements/movement_tile.ctp:99
+msgid "Available to Download"
+msgstr "可供下载"
+
+#: View/Elements/navigation.ctp:16;22 View/Mobile/about.ctp:10
+msgid "About"
+msgstr "大约"
+
+#: View/Elements/navigation.ctp:17;23
+msgid "Start"
+msgstr "开始"
+
+#: View/Elements/navigation.ctp:18;24 View/Movements/index.ctp:10 View/Previews/colour.ctp:41 View/Previews/geolocation_map.ctp:96
+#: View/Previews/geolocation_venue.ctp:41
+msgid "Discover"
+msgstr "发现"
+
+#: View/Elements/navigation.ctp:19
+msgid "Activity"
+msgstr "活动"
+
+#: View/Elements/navigation.ctp:25 View/Elements/Modals/auth_modal.ctp:16;77 View/Users/login.ctp:10;30
+msgid "Login"
+msgstr "登录"
+
+#: View/Elements/navigation.ctp:26 View/Elements/Modals/auth_modal.ctp:15 View/Users/register.ctp:44
+msgid "Register"
+msgstr "注册"
+
+#: View/Elements/navigation.ctp:27 View/Elements/Modals/auth_modal.ctp:47
+msgid "Create Account"
+msgstr "创建账户"
+
+#: View/Elements/phasebar.ctp:36 View/Movements/overview.ctp:21
+msgid "Support"
+msgstr "支持"
+
+#: View/Elements/phasebar.ctp:41 View/Movements/overview.ctp:22
+msgid "Design"
+msgstr "设计"
+
+#: View/Elements/phasebar.ctp:46 View/Movements/overview.ctp:23
+msgid "Launch"
+msgstr "发射"
+
+#: View/Elements/phasebar.ctp:58
+msgid "Help %s by supporting this movement."
+msgstr "帮%s通过支持这项运动。"
+
+#: View/Elements/phasebar.ctp:66
+msgid "Work with %s and other supporters to design the app."
+msgstr "工作与%s和其他支持者设计的应用程序。"
+
+#: View/Elements/phasebar.ctp:73
+msgid "Download the app from the App Store for free!"
+msgstr "下载从App Store应用程序是免费的！"
+
+#: View/Elements/Banners/video_banner.ctp:3
+msgid "Watch the introduction video"
+msgstr "观看视频介绍"
+
+#: View/Elements/Comments/comment.ctp:44;57
+msgid "Reply"
+msgstr "回复"
+
+#: View/Elements/Contributions/colour.ctp:15;42 View/Elements/Tasks/colour.ctp:56
+msgid "Primary Colour"
+msgstr "主色"
+
+#: View/Elements/Contributions/colour.ctp:16;43 View/Elements/Tasks/colour.ctp:66
+msgid "Pin Colour"
+msgstr "引脚颜色"
+
+#: View/Elements/Contributions/colour.ctp:17;44 View/Elements/Tasks/colour.ctp:76
+msgid "Star Colour"
+msgstr "星颜色"
+
+#: View/Elements/Contributions/colour.ctp:18;45
+msgid "Preview"
+msgstr "预览"
+
+#: View/Elements/Contributions/location.ctp:50
+msgid "Open at User's Location"
+msgstr "在开放用户位置"
+
+#: View/Elements/Modals/auth_modal.ctp:9 View/Elements/Modals/download_modal.ctp:9
+msgid "Close"
+msgstr "关闭"
+
+#: View/Elements/Modals/auth_modal.ctp:28 View/Users/edit.ctp:23 View/Users/register.ctp:23
+msgid "Your Name"
+msgstr "你的名字"
+
+#: View/Elements/Modals/auth_modal.ctp:28 View/Users/register.ctp:23
+msgid "Full Name"
+msgstr "全名"
+
+#: View/Elements/Modals/auth_modal.ctp:32 View/Elements/Modals/feedback_modal.ctp:15 View/Users/edit.ctp:31 View/Users/register.ctp:31
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: View/Elements/Modals/auth_modal.ctp:36;66 View/Users/edit.ctp:35 View/Users/login.ctp:26 View/Users/register.ctp:35
+msgid "Password"
+msgstr "密码"
+
+#: View/Elements/Modals/auth_modal.ctp:40
+msgid "By creating an account means you agree to our %s and %s"
+msgstr "通过创建一个帐户意味着您同意我们的%s和%s"
+
+#: View/Elements/Modals/auth_modal.ctp:62 View/Users/login.ctp:24
+msgid "Username / Email"
+msgstr "用户名/电子邮件"
+
+#: View/Elements/Modals/auth_modal.ctp:62 View/Users/display_users.ctp:35 View/Users/edit.ctp:27 View/Users/login.ctp:24 View/Users/register.ctp:27
+msgid "Username"
+msgstr "用户名"
+
+#: View/Elements/Modals/auth_modal.ctp:70
+msgid "Forgotten your password? %s to reset it."
+msgstr "忘记密码？ %s重置。"
+
+#: View/Elements/Modals/auth_modal.ctp:70
+msgid "Click here"
+msgstr "点击这里"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:8
+msgid "Report Contribution"
+msgstr "报告亦有贡献"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:10
+msgid "Check the option below and click submit if you think this contribution is:"
+msgstr "选中该选项下面，然后点击，如果你觉得这个贡献是提出："
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:12
+msgid "Abusive / Offensive"
+msgstr "辱骂/进攻"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:13
+msgid "Copyright Infringement"
+msgstr "版权侵权"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:14
+msgid "Spam"
+msgstr "垃圾邮件"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:16
+msgid "Please select an option above"
+msgstr "请选择上面一个选项"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:19 View/Elements/Modals/feedback_modal.ctp:23 View/Elements/Tasks/colour.ctp:93
+msgid "Submit"
+msgstr "提交"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:20 View/Elements/Modals/feedback_modal.ctp:22
+msgid "Cancel"
+msgstr "取消"
+
+#: View/Elements/Modals/download_modal.ctp:12
+msgid "Download"
+msgstr "下载"
+
+#: View/Elements/Modals/download_modal.ctp:14
+msgid "This app has been successfully supported and designed by the community and is now available on the app stores."
+msgstr "这个应用程序已经成功地支持和社区设计，现在可在应用程序商店。"
+
+#: View/Elements/Modals/download_modal.ctp:16
+msgid "Please click one of the buttons below to download this app for free."
+msgstr "请点击下面的按钮中的一个来下载这个应用程序是免费的。"
+
+#: View/Elements/Modals/feedback_modal.ctp:10
+msgid "Submit Feedback"
+msgstr "提交反馈"
+
+#: View/Elements/Modals/feedback_modal.ctp:12
+msgid "Got some feedback for us? Is something not working? We’d love to hear your suggestions. Please leave us a message in the box below."
+msgstr "得到了一些反馈给我们？什么是不工作？我们很想听听您的建议。请给我们留言在下面的框中。"
+
+#: View/Elements/Modals/feedback_modal.ctp:18
+msgid "Enter your comment here"
+msgstr "在此输入您的评论"
+
+#: View/Elements/Modals/promote_modal.ctp:10
+msgid "Start promoting this movement"
+msgstr "开始推广这一运动"
+
+#: View/Elements/Modals/promote_modal.ctp:12
+msgid "Share the link below anywhere you like to start promoting this app movement and earning influence for the design phase!"
+msgstr "下面分享随时随地的链接，你想开始推广这个应用程序的移动，并赢得影响力，为设计阶段！"
+
+#: View/Elements/Modals/promote_modal.ctp:27 View/Movements/start.ctp:223;243
+msgid "Done"
+msgstr "DONE"
+
+#: View/Elements/Modals/support_modal.ctp:9;36
+msgid "Confirm Support"
+msgstr "确认支持"
+
+#: View/Elements/Modals/support_modal.ctp:10
+msgid ""
+"Supporting %s's idea simply involves clicking the support button below. You can also help design the app after the movement reaches its target."
+msgstr "配套%s的想法只涉及点击下面的按钮的支持。您还可以帮助设计应用程序后的运动达到其目标。"
+
+#: View/Elements/Modals/support_modal.ctp:14
+msgid "Stay up to date"
+msgstr "保持最新"
+
+#: View/Elements/Modals/support_modal.ctp:15
+msgid "Receive email notifications with progress updates."
+msgstr "收到电子邮件通知与最新进展。"
+
+#: View/Elements/Modals/support_modal.ctp:19
+msgid "Get access to the design area"
+msgstr "获取访问的设计区"
+
+#: View/Elements/Modals/support_modal.ctp:20
+msgid "Submit ideas and vote on other people's suggestions."
+msgstr "提交想法和投票等人的建议。"
+
+#: View/Elements/Modals/support_modal.ctp:24
+msgid "Download the app for free"
+msgstr "下载免费应用程序"
+
+#: View/Elements/Modals/support_modal.ctp:25
+msgid "Once it has been designed by the community and generated by us."
+msgstr "一旦它已被设计由社区和由我们产生的。"
+
+#: View/Elements/Movements/action_button.ctp:11;17
+msgid "Supported"
+msgstr "支持"
+
+#: View/Elements/Movements/action_button.ctp:15;57
+msgid "Support Idea"
+msgstr "支持理念"
+
+#: View/Elements/Movements/action_button.ctp:28
+msgid "Help Design"
+msgstr "帮助设计"
+
+#: View/Elements/Movements/action_button.ctp:32;64
+msgid "View Design"
+msgstr "景观设计"
+
+#: View/Elements/Movements/action_button.ctp:41;71
+msgid "View Progress"
+msgstr "查看进度"
+
+#: View/Elements/Movements/action_button.ctp:48;78 View/Movements/launch.ctp:70
+msgid "Download App"
+msgstr "下载应用程序"
+
+#: View/Elements/Movements/notification_banner.ctp:27
+msgid "Movement was unsuccessful"
+msgstr "运动是不成功的"
+
+#: View/Elements/Movements/sidebar.ctp:12
+msgid "Movement Creator"
+msgstr "运动的创造者"
+
+#: View/Elements/Movements/sidebar.ctp:20
+msgid "Supporters"
+msgstr "支持者"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporter"
+msgstr "支持者"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporters"
+msgstr "支持者"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "day to go"
+msgstr "一天走"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "days to go"
+msgstr "天去"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "day launching"
+msgstr "日发射"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "days launching"
+msgstr "天发射"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "person shared"
+msgstr "人共享"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "people shared"
+msgstr "人共享"
+
+#: View/Elements/Movements/sidebar.ctp:114
+msgid "This Movement has been fully supported!"
+msgstr "这个运动已全面支持！"
+
+#: View/Elements/Movements/sidebar.ctp:122
+msgid "more supporters to hit the target."
+msgstr "更多的支持者击中目标。"
+
+#: View/Elements/Movements/sidebar.ctp:134
+msgid "Movements with 5 or more supporters cannot be edited."
+msgstr "有5个或更多的支持者运动不能编辑。"
+
+#: View/Elements/Movements/sidebar.ctp:144
+msgid "This movement did not gather enough support to progress to the design phase."
+msgstr "这个运动没有收集到足够的支持，进展到设计阶段。"
+
+#: View/Elements/Movements/sidebar.ctp:153 View/Movements/view.ctp:157
+msgid "Post Update"
+msgstr "更新后"
+
+#: View/Elements/Movements/sidebar.ctp:158 View/Movements/edit.ctp:17
+msgid "Edit Movement"
+msgstr "编辑运动"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:13
+msgid "Congratulations! Your App is Now Available!"
+msgstr "恭喜！您的应用程序现已上市！"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:15
+msgid "%s has now been fully designed by the %s supporting members of the community and has been generated! Click below to download the app."
+msgstr "%s现在已经完全由设计%s支持社区的成员，已经产生！点击以下链接下载该应用程序。"
+
+#: View/Elements/Notifications/created_movement.ctp:11
+msgid "You started a Movement"
+msgstr "你开始一个运动"
+
+#: View/Elements/Notifications/created_movement.ctp:13
+msgid ""
+"You have successfully created your movement - %s - and it is now visible to the public. It is now up to you to gather <strong>%s people</strong> "
+"in the next <strong>%s days.</strong>"
+msgstr "您已成功创建你的运动- %s -这是现在可见的公众。现在是由你来收集的<strong> %s人</ STRONG>在今后的<strong> %s日子。</ STRONG>"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:8 View/Tasks/landing.ctp:40 View/Tasks/view.ctp:43
+msgid "Design Phase Complete"
+msgstr "设计阶段完成"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:10
+msgid "%s has now completed the design phase."
+msgstr "%s目前已经完成了设计阶段。"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:12
+msgid ""
+"The next stage for your Movement is the launch phase where we will generate your app based on the results from the design process. We will submit "
+"it to the app store and notify you and other supporters when it is ready to download. You can track the progress of the app through the various "
+"stages of its launch by clicking the link below."
+msgstr ""
+"为您的运动下一阶段是发射阶段，我们将根据从设计过程的结果生成您的应用程序。我们将它提交到App Store，并通知你和其他的支持者，当它准备下载。您可以通"
+"过点击下面的链接，通过跟踪其推出的各个阶段的应用程序的进度。"
+
+#: View/Elements/Notifications/movement_failed.ctp:13
+msgid "Movement was Unsuccessful"
+msgstr "运动是不成功"
+
+#: View/Elements/Notifications/movement_failed.ctp:15
+msgid ""
+"<strong>%s people</strong> supported the idea of creating an app for %s. Unfortunately this time you missed our target of %s and will not be "
+"taken forward into the design phase."
+msgstr "<STRONG> %s人</ STRONG>支持创建一个应用程序的想法%s 。不幸的是这时候你错过了我们的目标%s ，并不会采取迈进的设计阶段。"
+
+#: View/Elements/Notifications/movement_update.ctp:13 View/Elements/Notifications/new_promoters.ctp:12
+#: View/Elements/Notifications/new_supporters.ctp:12
+msgid "%s days"
+msgstr "%s天"
+
+#: View/Elements/Notifications/movement_update.ctp:15
+msgid "%s has posted an update"
+msgstr "%s已经发布了更新"
+
+#: View/Elements/Notifications/new_promoters.ctp:14
+msgid " Shared Movement"
+msgstr "共享运动"
+
+#: View/Elements/Notifications/new_supporters.ctp:14
+msgid " New Supporters"
+msgstr "新的支持者"
+
+#: View/Elements/Notifications/no_activity.ctp:11
+msgid "Keep Sharing!"
+msgstr "请分享！"
+
+#: View/Elements/Notifications/no_activity.ctp:13
+msgid "It is really important that you continue to share this Movement in order to reach the goal of %s supporters!"
+msgstr "这是你继续以达到的目标分享这一运动真的很重要%s支持者！"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:9
+msgid "Movement Supported"
+msgstr "支持运动"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:11
+msgid ""
+"Congratulaions! %s has gathered over <strong>%s supporters.</strong> You can now access the <strong>design phase</strong> where you can "
+"contribute and vote on ideas. Click below to get started."
+msgstr ""
+"Congratulaions！ %s已聚集了<STRONG> %s支持者。</ strong>：您现在可以访问的<strong>设计阶段</ STRONG>在那里你可以做出贡献的想法和表决。上手点击下"
+"面。"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:14
+msgid "View Design Phase"
+msgstr "查看设计阶段"
+
+#: View/Elements/Notifications/supported_movement.ctp:11
+msgid "You supported a Movement"
+msgstr "你支持的运动"
+
+#: View/Elements/Notifications/supported_movement.ctp:13
+msgid "You have supported %s. It is now up to you to gather <strong>%s people</strong> in the next <strong>%s days</strong>."
+msgstr "您一直支持%s 。现在它是由你来收集的<strong> %s人</ STRONG>在今后的<strong> %s天</ STRONG>。"
+
+#: View/Elements/Notifications/supported_movement.ctp:15
+msgid "What happens next?"
+msgstr "接下来会发生什么？"
+
+#: View/Elements/Notifications/supported_movement.ctp:17
+msgid ""
+"You will <strong>receive updates</strong> about the progress of this movement via email. If the Movement is successful you will be exclusively "
+"invited to the design phase where you can help shape the design of the app."
+msgstr "您将<STRONG>接收更新</ strong>关于这项运动的通过电子邮件的进步。如果运动成功，您将专门邀请到设计阶段，你可以帮助塑造应用程序的设计。"
+
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "Take a look at our %s section for more"
+msgstr "看一看我们的%s部分了解更多"
+
+#: View/Elements/Notifications/welcome.ctp:3
+msgid "Welcome to App Movement"
+msgstr "欢迎到移动应用程序"
+
+#: View/Elements/Notifications/welcome.ctp:5
+msgid ""
+"Welcome to your dashboard, from here you can manage your profile and receive updates on the movements you start as well as those that you show an "
+"interest in. Be sure to check back regularly to keep up to date."
+msgstr "欢迎到仪表板，从这里可以管理您的个人资料，并接受你开始运动的更新，以及那些你表现出兴趣。一定要定期查看，以保持最新。"
+
+#: View/Elements/Notifications/welcome.ctp:7
+msgid "All the best, Our Team."
+msgstr "所有最优秀的，我们的团队。"
+
+#: View/Elements/Tasks/colour.ctp:47 View/Elements/Tasks/logo.ctp:26 View/Elements/Tasks/name.ctp:29 View/Elements/Tasks/options.ctp:41
+msgid "Suggest"
+msgstr "建议"
+
+#: View/Elements/Tasks/logo.ctp:39 View/Elements/Tasks/name.ctp:43 View/Elements/Tasks/options.ctp:55
+msgid "Submit Idea"
+msgstr "提交想法"
+
+#: View/Elements/Tasks/marker.ctp:13
+msgid "Preview colour"
+msgstr "颜色预览"
+
+#: View/Elements/Updates/movement_update.ctp:58
+msgid "Update shared"
+msgstr "更新共享"
+
+#: View/Errors/error400.ctp:10 View/Errors/error500.ctp:10 View/Errors/missing_controller.ctp:10
+msgid "Error"
+msgstr "错误"
+
+#: View/Errors/error400.ctp:18 View/Errors/error500.ctp:18 View/Errors/missing_controller.ctp:18 View/Users/admin.ctp:268;269;270;271;292;316;317
+msgid "Something went wrong!"
+msgstr "出事了！"
+
+#: View/Errors/error400.ctp:19 View/Errors/error500.ctp:19 View/Errors/missing_controller.ctp:19
+msgid "We couldn't find what you were looking for!"
+msgstr "我们无法找到你要找的！"
+
+#: View/Errors/error400.ctp:23 View/Errors/error500.ctp:23 View/Errors/missing_controller.ctp:23
+msgid "Take me home"
+msgstr "带我回家"
+
+#: View/Generate/marker_maker.ctp:41
+msgid "Generate Random Pin"
+msgstr "生成随机引脚"
+
+#: View/Generate/geolocation/listing.ctp:1
+msgid "%s was designed by an engaged community on the App Movement website."
+msgstr "%s是由应用程序移动网站上的啮合设计的社区。"
+
+#: View/Generate/geolocation/listing.ctp:3
+msgid ""
+"It provides a simple and convenient way to discover places and leave reviews. Helping you to rate places by the following important categories:"
+msgstr "它提供了一个简单方便的方式来发现的地方，并留下评论。帮助您通过以下重要类别进行评分的地方："
+
+#: View/Generate/geolocation/listing.ctp:14
+msgid "Please visit appmovement.com to start your movement today."
+msgstr "请访问appmovement.com今天开始你的运动。"
+
+#: View/Layouts/default.ctp:30 View/Layouts/stripped.ctp:30
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile app. No expertise are required just a touch of determination and a great idea!"
+msgstr "移动应用程序使任何人都提出，设计和开发移动应用程序。没有专业知识是必需的只是淡淡的决心和一个伟大的想法！"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+msgid "community"
+msgstr "社区"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+msgid "crowd commissioning"
+msgstr "人群调试"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+msgid "crowd sourcing"
+msgstr "众包"
+
+#: View/Mobile/about.ctp:29
+msgid "This app allows anyone to rate and review locations on the map."
+msgstr "这个程序允许任何人在地图上率和审查地点。"
+
+#: View/Mobile/about.ctp:31
+msgid "Anyone can share a review and post an image for others to see."
+msgstr "任何人都可以分享评论并张贴图片给别人看的。"
+
+#: View/Mobile/about.ctp:33
+msgid "You can view your reviews on your profile page."
+msgstr "您可以查看您的个人资料页的评论。"
+
+#: View/Movements/edit.ctp:31 View/Movements/start.ctp:66
+msgid "Title"
+msgstr "称号"
+
+#: View/Movements/edit.ctp:34 View/Movements/start.ctp:69
+msgid "Movement Title"
+msgstr "运动标题"
+
+#: View/Movements/edit.ctp:37 View/Movements/start.ctp:72
+msgid "Give your movement a clear and catchy title."
+msgstr "给你的运动清晰虚名。"
+
+#: View/Movements/edit.ctp:43 View/Movements/start.ctp:78
+msgid "Short Description"
+msgstr "简述"
+
+#: View/Movements/edit.ctp:46
+msgid "Movement Description"
+msgstr "运动说明"
+
+#: View/Movements/edit.ctp:49 View/Movements/start.ctp:84
+msgid "A short summary of the movement that will be visible across the site."
+msgstr "运动的简短总结，这将是整个网站可见。"
+
+#: View/Movements/edit.ctp:55 View/Movements/start.ctp:90 View/Users/display_users.ctp:33
+msgid "Photo"
+msgstr "照片"
+
+#: View/Movements/edit.ctp:61;198;216 View/Movements/start.ctp:96;328;346
+msgid "Choose Photo"
+msgstr "选择照片"
+
+#: View/Movements/edit.ctp:82 View/Movements/start.ctp:117
+msgid "A striking image that represents your movement."
+msgstr "一个突出的形象，表示你的运动。"
+
+#: View/Movements/edit.ctp:88 View/Movements/start.ctp:123
+msgid "Location"
+msgstr "地点"
+
+#: View/Movements/edit.ctp:88;100 View/Movements/start.ctp:123;135
+msgid "Optional"
+msgstr "自选"
+
+#: View/Movements/edit.ctp:91 View/Movements/start.ctp:126
+msgid "Movement Location"
+msgstr "运动地点"
+
+#: View/Movements/edit.ctp:94 View/Movements/start.ctp:129
+msgid "Provide the location of your movement."
+msgstr "提供你的运动的位置。"
+
+#: View/Movements/edit.ctp:100;102 View/Movements/start.ctp:135
+msgid "Tags"
+msgstr "标签"
+
+#: View/Movements/edit.ctp:105 View/Movements/start.ctp:140
+msgid "Add some tags to your movement to help people discover it."
+msgstr "添加一些标签，你的运动，以帮助人们发现它。"
+
+#: View/Movements/edit.ctp:111 View/Movements/overview.ctp:11 View/Movements/start.ctp:146
+msgid "Overview"
+msgstr "概观"
+
+#: View/Movements/edit.ctp:114 View/Movements/start.ctp:149
+msgid "A longer overview of your movement"
+msgstr "你的运动较长概述"
+
+#: View/Movements/edit.ctp:118
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: View/Movements/edit.ctp:144
+msgid "by %s"
+msgstr "由%s"
+
+#: View/Movements/edit.ctp:152 View/Movements/start.ctp:188
+msgid "Movement Preview"
+msgstr "运动预览"
+
+#: View/Movements/edit.ctp:166
+msgid "Delete Movement"
+msgstr "删除运动"
+
+#: View/Movements/edit.ctp:194 View/Movements/start.ctp:324
+msgid "Failed"
+msgstr "失败"
+
+#: View/Movements/edit.ctp:212 View/Movements/start.ctp:342
+msgid "Uploaded"
+msgstr "上传"
+
+#: View/Movements/edit.ctp:233 View/Movements/start.ctp:363
+msgid "Uploading"
+msgstr "上传"
+
+#: View/Movements/index.ctp:20
+msgid "Everything"
+msgstr "一切"
+
+#: View/Movements/index.ctp:21
+msgid "Recent"
+msgstr "最近"
+
+#: View/Movements/index.ctp:22
+msgid "Popular"
+msgstr "流行"
+
+#: View/Movements/index.ctp:29
+msgid "Search Movements"
+msgstr "搜索运动"
+
+#: View/Movements/index.ctp:46 View/Movements/overview.ctp:33 View/Pages/home.ctp:65
+msgid "No Movements Found"
+msgstr "没有发现变动"
+
+#: View/Movements/index.ctp:46
+msgid "Please search again"
+msgstr "请重新搜索"
+
+#: View/Movements/launch.ctp:28
+msgid "This application has made it to the launch phase, don't worry we will take it from here."
+msgstr "该应用程序使得其发射阶段，不用担心，我们会把它从这里开始。"
+
+#: View/Movements/launch.ctp:30
+msgid "Our engineers will use all of the communities contributions from the design phase to build a bespoke application."
+msgstr "我们的工程师将使用所有的社区贡献从设计阶段建立一个定制的应用程序。"
+
+#: View/Movements/launch.ctp:32
+msgid "We will then release the application to the relevant App Stores and notify you when it is available to download."
+msgstr "然后，我们将发布应用程序相关的应用程序商店，并通知你当它是可供下载。"
+
+#: View/Movements/launch.ctp:37
+msgid "View Contributions</div>"
+msgstr "查看捐款</ DIV>"
+
+#: View/Movements/launch.ctp:45
+msgid "App Status"
+msgstr "应用现状"
+
+#: View/Movements/onboarding.ctp:12
+msgid "Invite Some Friends"
+msgstr "邀请一些朋友"
+
+#: View/Movements/onboarding.ctp:122 View/Tasks/landing.ctp:63
+msgid "Congratulations"
+msgstr "祝贺"
+
+#: View/Movements/onboarding.ctp:123
+msgid ""
+"It is important to gain as much support as possible for your movement. To get started why not tell some friends and get the ball rolling. Once "
+"this step is complete your movement will be available for the world to see!"
+msgstr "重要的是要获得对你的运动尽可能多的支持成为可能。要开始为什么不告诉一些朋友和让球滚动。一旦这一步完成你的运动将供全世界都看到！"
+
+#: View/Movements/onboarding.ctp:135;142;149
+msgid "Name"
+msgstr "名字"
+
+#: View/Movements/onboarding.ctp:136;143;150 View/Users/display_users.ctp:36 View/Users/forgot.ctp:27
+msgid "Email"
+msgstr "电子邮件"
+
+#: View/Movements/onboarding.ctp:158
+msgid "Skip"
+msgstr "跳跃"
+
+#: View/Movements/onboarding.ctp:169
+msgid "Continue"
+msgstr "继续"
+
+#: View/Movements/overview.ctp:20
+msgid "All"
+msgstr "所有"
+
+#: View/Movements/overview.ctp:33
+msgid "You have not started or supported any yet!"
+msgstr "您还没有启动或支持任何尚未！"
+
+#: View/Movements/start.ctp:16
+msgid "Geolocation Review"
+msgstr "地理位置评论"
+
+#: View/Movements/start.ctp:16;51
+msgid "Social Network"
+msgstr "社会网络"
+
+#: View/Movements/start.ctp:16;52
+msgid "Information"
+msgstr "信息"
+
+#: View/Movements/start.ctp:16;53
+msgid "Events"
+msgstr "活动"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A 'Geolocation Review' app allows users to rate and review anything with a fixed location. An example might be a cafe, a public park or somewhere "
+"to lock your bicycle. Anyone can add new points of interest to the map and reviews on their own and other people's contributions."
+msgstr ""
+"A'地理位置评论“的应用程序允许用户评论，并查看与某个固定位置什么。一个例子可能是一个网吧，一个公共公园或其他地方来锁定你的自行车。任何人都可以添加"
+"感兴趣的地图和评论自​​己和其他人的贡献新的点。"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A 'Social Network' is a type of application that allows people to connect with one another another. It enables users to share content such as "
+"photos, videos, comments and other media."
+msgstr "“社会网络”是一个类型的应用程序，使人们能够相互连接的另一个。它使用户能够共享内容，如照片，视频，评论和其他媒体。"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"An 'Information' app provides a quick method of accessing detailed information about a specific subject. It can be useful in a variety of "
+"situations where a little extra information is key."
+msgstr "一个“信息”应用程序提供访问有关特定主题的详细信息的快速方法。它可以在各种情况下，其中一些额外的信息是关键有用。"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"Our lives are full of exciting events, an 'Event' app can help people to keep track of what events are taking place in the future. Such an app "
+"could also act as a discovery tool for say a recent fan or enthusiast."
+msgstr ""
+"我们的生活充满精彩活动，一个“事件”应用程序可以帮助人们跟踪事件正在发生，未来什么。这样的应用程序也可以作为一个发现工具，比如最近的风扇或爱好者。"
+
+#: View/Movements/start.ctp:18
+msgid "The best places to feed ducks"
+msgstr "最好的地方喂鸭子"
+
+#: View/Movements/start.ctp:18
+msgid "Restaurants that cater for nut allergies"
+msgstr "迎合了坚果过敏餐馆"
+
+#: View/Movements/start.ctp:18
+msgid "Amazing street art in London"
+msgstr "在伦敦惊人的街头艺术"
+
+#: View/Movements/start.ctp:18
+msgid "Public toilet finder"
+msgstr "公共厕所取景器"
+
+#: View/Movements/start.ctp:18
+msgid "Sports coach network"
+msgstr "体育教练网"
+
+#: View/Movements/start.ctp:18
+msgid "A super social network for teenager"
+msgstr "一个超级社交网络小将"
+
+#: View/Movements/start.ctp:18
+msgid "Dog owners social network"
+msgstr "狗主人社交网络"
+
+#: View/Movements/start.ctp:18
+msgid "Young mothers support network"
+msgstr "年轻母亲支持网络"
+
+#: View/Movements/start.ctp:18
+msgid "Miami tourist guide"
+msgstr "迈阿密旅游指南"
+
+#: View/Movements/start.ctp:18
+msgid "Help guide for your new computer"
+msgstr "帮助指导新电脑"
+
+#: View/Movements/start.ctp:18
+msgid "Top tips for looking after your children"
+msgstr "为寻找你的孩子重要提示"
+
+#: View/Movements/start.ctp:18
+msgid "Live gigs for the Artic Monkeys"
+msgstr "现场演出的北极猴子"
+
+#: View/Movements/start.ctp:18
+msgid "Car boot sales in the North East"
+msgstr "在东北汽车启动销售"
+
+#: View/Movements/start.ctp:18
+msgid "Stand up comedy events in London"
+msgstr "在伦敦站起来喜剧事件"
+
+#: View/Movements/start.ctp:28 View/Pages/home.ctp:35
+msgid "Start a Movement"
+msgstr "开始运动"
+
+#: View/Movements/start.ctp:42
+msgid "App Type"
+msgstr "应用类型"
+
+#: View/Movements/start.ctp:54
+msgid "Other"
+msgstr "其他"
+
+#: View/Movements/start.ctp:60
+msgid "Select the type of application you wish to launch."
+msgstr "选择应用程序，你想启动类型。"
+
+#: View/Movements/start.ctp:81
+msgid "Describe your idea in one sentence"
+msgstr "描述你的想法用一句话"
+
+#: View/Movements/start.ctp:153
+msgid "Next Step"
+msgstr "下一步"
+
+#: View/Movements/start.ctp:211
+msgid "Not Currently Available"
+msgstr "当前不可用"
+
+#: View/Movements/start.ctp:216
+msgid "Example Applications"
+msgstr "应用实例"
+
+#: View/Movements/start.ctp:234
+msgid "Suggest App Type"
+msgstr "建议应用程序类型"
+
+#: View/Movements/start.ctp:236
+msgid ""
+"We would like to provide you with more templates in the future, please submit your app type ideas below to help us to provide more relevant app "
+"types."
+msgstr "我们希望为您提供了将来更多的模板，请在下面提交您的应用程序类型的想法，以帮助我们提供更多的相关应用程序的类型。"
+
+#: View/Movements/start.ctp:239
+msgid "Your Suggestion"
+msgstr "您的意见"
+
+#: View/Movements/view.ctp:144
+msgid "Keep your supporters informed"
+msgstr "保持你的支持者通报"
+
+#: View/Movements/view.ctp:145
+msgid ""
+"Send your supporters updates to keep them informed and get them involved. Your update will be sent directly to their email inbox. Please note, "
+"you can only send a maximum of 2 updates per day."
+msgstr "请将您的支持者更新，以使他们了解并让他们参与进来。您的更新将被直接发送到他们的电子邮件收件箱。请注意，您只能发送每天更新2最大。"
+
+#: View/Movements/view.ctp:153
+msgid "Keep your supporters in the loop by posting an update."
+msgstr "保持你的支持者在循环通过发布一个更新。"
+
+#: View/Pages/about.ctp:10
+msgid "How it Works"
+msgstr "它的工作原理"
+
+#: View/Pages/about.ctp:21;49;61
+msgid "Start your movement"
+msgstr "开始你的运动"
+
+#: View/Pages/about.ctp:22
+msgid "Add your idea to the site and get your friends and family to support your campaign."
+msgstr "添加你的想法到网站，让你的朋友和家人支持你的活动。"
+
+#: View/Pages/about.ctp:29
+msgid "Design together"
+msgstr "共同设计"
+
+#: View/Pages/about.ctp:30
+msgid "Submit ideas and vote on community contributions to select the features you want."
+msgstr "提交想法和投票社区的贡献来选择您想要的功能。"
+
+#: View/Pages/about.ctp:37
+msgid "Launch the app"
+msgstr "启动应用程序"
+
+#: View/Pages/about.ctp:38
+msgid "We build your app based on the results of the design phase and release it for iOS and Android."
+msgstr "我们构建的应用程序基础上，设计阶段的结果，并释放它的iOS和Android。"
+
+#: View/Pages/about.ctp:50
+msgid "Share your app idea with the world and get your community involved"
+msgstr "与全世界分享你的应用程序的想法，让你的社区参与"
+
+#: View/Pages/about.ctp:62
+msgid "Post your awesome app idea to the site and start your movement. Select from an app template, add a title and description and hit start!"
+msgstr "发表您真棒应用程序的想法到现场，并开始移动。从一个应用程序模板选择，添加标题和说明，并开始打！"
+
+#: View/Pages/about.ctp:71
+msgid "Engage your Community"
+msgstr "让你的社区"
+
+#: View/Pages/about.ctp:72
+msgid "Get support from your community and promote your movement through social media to reach your target."
+msgstr "从您的社区支持和促进通过社交媒体的运动，以达到你的目标。"
+
+#: View/Pages/about.ctp:83
+msgid "Share your idea with friends"
+msgstr "与朋友分享你的想法"
+
+#: View/Pages/about.ctp:84
+msgid "Hit your target by sharing your movement through social media. Get your friends involved so they can get in on the action too."
+msgstr "通过社会化媒体分享你的运动击中目标。让你的朋友参与，使他们能够获得在行动了。"
+
+#: View/Pages/about.ctp:93
+msgid "Hit your target"
+msgstr "击中目标"
+
+#: View/Pages/about.ctp:94
+msgid "Reach your target number of supporters for yout idea and proceed to designing your app."
+msgstr "到达支持者YOUT想法你的目标数量，继续设计您的应用程序。"
+
+#: View/Pages/about.ctp:107
+msgid "Design with your community"
+msgstr "与社区设计"
+
+#: View/Pages/about.ctp:108
+msgid "Share ideas and vote on the best features you want in the app."
+msgstr "分享想法和表决要在应用程序的最佳功能。"
+
+#: View/Pages/about.ctp:120
+msgid "Contribute ideas"
+msgstr "献计献策"
+
+#: View/Pages/about.ctp:121
+msgid "Got a great idea for the name? Want to pick the colour scheme? Submit your idea to the community."
+msgstr "对了名的好主意？要挑颜色方案？提交您的创意社区。"
+
+#: View/Pages/about.ctp:130
+msgid "Vote on features"
+msgstr "表决功能"
+
+#: View/Pages/about.ctp:131
+msgid "Work together to vote on the best ideas from within your community. The best ideas with the most votes are selected for the final app."
+msgstr "携手合作，从社区内投票的最好的想法。得票最多的最好的想法被选中为最终的应用程序。"
+
+#: View/Pages/about.ctp:142
+msgid "Discuss your ideas"
+msgstr "讨论您的想法"
+
+#: View/Pages/about.ctp:143
+msgid "Start the conversation around what features you want in the app and what they might look like."
+msgstr "开始围绕要在应用程序以及他们可能看起来像什么功能的谈话。"
+
+#: View/Pages/about.ctp:152
+msgid "Your app is generated by us"
+msgstr "您的应用程序是由我们产生"
+
+#: View/Pages/about.ctp:153
+msgid "Once the best ideas have been voted on we'll automatically add them to the app."
+msgstr "一旦最好的想法已经付诸表决，我们会自动将它们添加到应用程序。"
+
+#: View/Pages/about.ctp:166
+msgid "Launch your app to the world"
+msgstr "启动您的应用程序世界"
+
+#: View/Pages/about.ctp:167
+msgid "Your app is automatically generated and free for your community to download."
+msgstr "您的应用程序将自动生成并免费为您的社区进行下载。"
+
+#: View/Pages/about.ctp:179
+msgid "Download your app"
+msgstr "下载你的应用程序"
+
+#: View/Pages/about.ctp:180
+msgid "We'll automatically generate the app for Android and iOS and tell you when it's ready so you can be the first to download it!"
+msgstr "我们会自动生成Android和iOS的应用程序，并告诉你，当它已经准备好，所以你可以先下载吧！"
+
+#: View/Pages/about.ctp:189
+msgid "Share with everyone"
+msgstr "与所有人共享"
+
+#: View/Pages/about.ctp:190
+msgid "Excited by your new app? Tell people about it and get them to download the app so they can use it too!"
+msgstr "兴奋的新的应用程序？告诉人们它，并让他们下载的应用程序，使他们能够使用它呢！"
+
+#: View/Pages/about.ctp:202
+msgid "Sustain your community"
+msgstr "维持你的社区"
+
+#: View/Pages/about.ctp:203
+msgid "The app will be available to everyone, it's important you contribute content as much as possible to improve it for others."
+msgstr "该应用程序将提供给大家，你贡献的内容尽可能地改进它的人是很重要的。"
+
+#: View/Pages/about.ctp:212
+msgid "Feel awesome!"
+msgstr "感觉真棒！"
+
+#: View/Pages/about.ctp:213
+msgid "Congratulations you've made it! You can feel awesome knowing you've released an app for everyone to enjoy, good job!"
+msgstr "恭喜你了！你可以感受到真棒知道你已经发布供大家欣赏一个应用程序，好样的！"
+
+#: View/Pages/about.ctp:223;227
+msgid "Get Started"
+msgstr "入门"
+
+#: View/Pages/contact.ctp:19
+msgid "Send an email"
+msgstr "发送电​​子邮件"
+
+#: View/Pages/contact.ctp:21
+msgid ""
+"If you have any questions, would like to work with the team or have any other concerns please contact the team on the following email address:"
+msgstr "如果您有任何问题，愿与团队一起工作或有其他任何疑问，请联络小组在以下电子邮件地址："
+
+#: View/Pages/contact.ctp:38
+msgid "What is App Movement?"
+msgstr "什么是应用运动？"
+
+#: View/Pages/contact.ctp:40 View/Pages/faq.ctp:23
+msgid ""
+"App Movement enables any individual, community or organisation to propose, design and develop a multi-platform mobile application. No expertise "
+"are required to get started just a touch of determination and a great idea."
+msgstr "移动应用程序使任何个人，社区或组织提出，设计和开发一个多平台的移动应用程序。没有专业知识是必需的上手只是淡淡的决心和一个伟大的想法的。"
+
+#: View/Pages/contact.ctp:48
+msgid "Who created this?"
+msgstr "谁创造了这个？"
+
+#: View/Pages/contact.ctp:49
+msgid ""
+"App Movement is a research project created by %s at Newcastle University. This research project aims to explore how communities can begin to "
+"design and commission technology at a grassroots level. As such we will be collecting data about the websites usage and the mobile applications "
+"generated by App Movement. You can find out more in our privacy policy."
+msgstr ""
+"应用运动是建立一个研究项目%s纽卡斯尔大学。该研究项目旨在探索社区如何开始设计和技术委员会在基层。因此，我们将收集有关网站使用和病死猪运动所产生的移"
+"动应用程序的数据。你可以找到更多的在我们的隐私政策。"
+
+#: View/Pages/contact.ctp:57
+msgid "Why did we create App Movement?"
+msgstr "为什么我们创建移动应用程序？"
+
+#: View/Pages/contact.ctp:58
+msgid ""
+"We realised that in the digital age communities need digital tools and services. However the development and creation of these services has "
+"traditionally been commissioned by local government, bed room programmers or enthusiastic community members. However we argue that this top down, "
+"reactive approach, fails to address real needs of communities. Therefore we believe anyone who has a genuine need for a mobile application should "
+"not be limited by their lack of software development experience."
+msgstr ""
+"我们意识到，在数字化时代社区需要数字化工具和服务。然而，这些服务的发展和创造历来委托当地政府，大床房或程序员热心的社区成员。然而，我们认为，这种自"
+"上而下的，被动的方法，未能解决社区的实际需要。因此，我们相信任何人谁拥有真正需要一个移动应用程序不应该由他们缺乏软件开发经验的限制。"
+
+#: View/Pages/contact.ctp:68
+msgid "App Movement Team"
+msgstr "应用运动队"
+
+#: View/Pages/contact.ctp:80
+msgid ""
+"This project was funded by both the EPSRC Social Inclusion Through the Digital Economy (SiDE) and the AHRC Creative Exchange (CX) research "
+"projects."
+msgstr "该项目由两个EPSRC社会包容通过数字经济（侧）和AHRC创造性交易所（CX）的研究项目。"
+
+#: View/Pages/faq.ctp:9
+msgid "Frequently Asked Questions"
+msgstr "常问问题"
+
+#: View/Pages/faq.ctp:22
+msgid "What is AppMovement?"
+msgstr "什么是AppMovement？"
+
+#: View/Pages/faq.ctp:27
+msgid "What is a Movement?"
+msgstr "什么是运动？"
+
+#: View/Pages/faq.ctp:28
+msgid ""
+"A Movement is an awesome idea for an app that has been created by a member of your community and allows other individuals to come together and "
+"support the idea. Once the Movement has reached the Supporter Target the Movement will move into the design phase to allow you to begin designing "
+"the features in your app. After this has been completed the app will be automatically generated and free to download for all."
+msgstr ""
+"运动是已经创建的社区成员认为，让其他人走到一起，支持这一想法的应用程序的真棒的想法。一旦运动已达到力撑目标的运动将进入设计阶段，让你开始设计你的应"
+"用程序的功能。在此之后已完成的应用程序将自动生成，并可以免费下载所有。"
+
+#: View/Pages/faq.ctp:32
+msgid "What does it mean to be a Supporter?"
+msgstr "这是什么意思是力撑？"
+
+#: View/Pages/faq.ctp:33
+msgid ""
+"By supporting a Movement you are pledging your support for the idea. This will allow you to be a part of the design phase and gain early access "
+"to the automatically generated mobile app when it becomes available. There are no financial commitments to being a supporter and you have the "
+"choice to interact with the Movement as you see fit. During the design phase you can contribute ideas e.g. the app's name or colour scheme and "
+"you do not require any technical expertise."
+msgstr ""
+"通过支持运动你都保证你的想法的支持。这将让你成为设计阶段的一部分，并获得早期进入自动生成的移动应用程序，当它变得可用。有没有财务承诺，作为一个支持"
+"者，你有选择的运动，你认为合适互动。在设计阶段就可以献计献策，如应用程序的名称或配色方案，你不需要任何的专业技术。"
+
+#: View/Pages/faq.ctp:37
+msgid "What is the Design Phase?"
+msgstr "什么是设计阶段？"
+
+#: View/Pages/faq.ctp:38
+msgid ""
+"The Design Phase is accessible by only the supporters who have supported a movement and allows them to contribute ideas and vote on the best "
+"contributions made by others. In this phase you will not be asked to write any code, just simply come up with names and colour schemes for "
+"example."
+msgstr ""
+"设计阶段是谁只有一直支持运动，并允许他们对别人做出的最好贡献献计献策，并表决的支持者访问。在这个阶段，你将不会被要求写任何代码，只需简单地拿出名字"
+"和配色方案的例子。"
+
+#: View/Pages/faq.ctp:46
+msgid "How do you automatically generate an app?"
+msgstr "你如何自动生成的应用程序？"
+
+#: View/Pages/faq.ctp:47
+msgid ""
+"When movements are created by users they are created using a template we have developed. This template allows us to automatically configure the "
+"mobile application so that it reflects the design choices made by the community in the design phase."
+msgstr "当动作都是由用户创建他们使用我们开发的模板创建的。这个模板可以让我们自动配置移动应用程序，以便它反映了设计选择，在设计阶段提出的社会。"
+
+#: View/Pages/faq.ctp:51
+msgid "Who owns the generated app?"
+msgstr "谁拥有的应用程序产生的？"
+
+#: View/Pages/faq.ctp:52
+msgid ""
+"The mobile application will be released under the Digital Interaction Group developer accounts as part of ongoing research into community "
+"commissioning platforms. Ownership of the application will therefore remain with the Digital Interaction Group. Please visit our terms and "
+"conditions of use for more information."
+msgstr ""
+"移动应用程序将在数字互动集团开发人员帐户被公布为正在进行的研究进社区调试平台的一部分。因此，应用程序的所有权将继续留在数字互动集团。请访问我们的使"
+"用条款和条件以获取更多信息。"
+
+#: View/Pages/faq.ctp:56
+msgid "Who is organising this?"
+msgstr "谁是这个组织？"
+
+#: View/Pages/faq.ctp:57
+msgid ""
+"This is a research project run by the Digitial Interaction Group as part of the ongoing research. With your permission through registering with "
+"the server, your annonymized data will be used to begin to understand how technologies of the future can encourage grassroots comissioning of "
+"mobile applications. If you wish to know more about this please visit our About page for further information."
+msgstr ""
+"这是由Digitial互动集团正在进行的研究的一部分运行的一个研究项目。通过与服务器注册您的许可，您annonymized数据将被用于开始了解未来的技术如何鼓励移动"
+"应用草根comissioning。如果您想知道更多关于这个，请访问我们的网页关于进一步信息。"
+
+#: View/Pages/home.ctp:12
+msgid "Your Community. Your App."
+msgstr "您的社区。您的应用程序。"
+
+#: View/Pages/home.ctp:14
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile application. No expertise are required and the process is fun and simple. "
+"Watch the video below to get started."
+msgstr "移动应用程序使任何人都提出，设计和开发移动应用程序。没有专业知识是必需的，这个过程是有趣和简单。观看下面的视频开始。"
+
+#: View/Pages/home.ctp:17
+msgid "Watch the Video"
+msgstr "观看视频"
+
+#: View/Pages/home.ctp:36
+msgid "Choose one of the app templates and start your movement. Gain support for your movement by sharing it with friends."
+msgstr "选择的应用程序模板之一，并开始移动。通过与朋友分享它获得对你的运动的支持。"
+
+#: View/Pages/home.ctp:43
+msgid "Design Together"
+msgstr "一起设计"
+
+#: View/Pages/home.ctp:44
+msgid "The supporters of your movement work together to design the app by submitting and voting on ideas."
+msgstr "你的运动的支持者共同努力提交和投票的想法来设计应用程序。"
+
+#: View/Pages/home.ctp:51
+msgid "Generate Application"
+msgstr "生成应用程序"
+
+#: View/Pages/home.ctp:52
+msgid "You app is automatically generated based on the results of the design process and it is released in the app store."
+msgstr "你的应用程序是自动生成的基础上，设计过程的结果，它被释放在App Store。"
+
+#: View/Pages/home.ctp:62
+msgid "Featured Movements"
+msgstr "推荐运动"
+
+#: View/Pages/press.ctp:9
+msgid "Press Kit"
+msgstr "新闻资料"
+
+#: View/Pages/press.ctp:19
+msgid "Press Releases"
+msgstr "新闻稿"
+
+#: View/Pages/press.ctp:23
+msgid "We welcome you to report on App Movement through your media channels and encourage the use of the materials provided on this page."
+msgstr "我们欢迎您通过您的媒体渠道在App运动报告，并鼓励使用此页上提供的材料。"
+
+#: View/Pages/press.ctp:32
+msgid "Logos & Brand"
+msgstr "标志和品牌"
+
+#: View/Pages/press.ctp:36
+msgid "Click any of the following assets to view the full-resolution version."
+msgstr "点击以下任何资产，以查看全分辨率的版本。"
+
+#: View/Pages/press.ctp:36
+msgid "If you require any other assets please contact us."
+msgstr "如果您需要任何其他资产，请与我们联系。"
+
+#: View/Pages/press.ctp:85
+msgid "If you have any queries please contact us."
+msgstr "如果您有任何疑问，请与我们联系。"
+
+#: View/Pages/press.ctp:88
+msgid "Press contact"
+msgstr "媒体联系人"
+
+#: View/Pages/press.ctp:89
+msgid "Image contact"
+msgstr "图像联系"
+
+#: View/Pages/press.ctp:98
+msgid "Case Studies"
+msgstr "案例分析"
+
+#: View/Pages/press.ctp:108
+msgid "A story about Katie Brittain's idea to support people living with dementia and their carers."
+msgstr "关于凯蒂布里廷的想法有一个故事，以支持与生活痴呆症患者及其照顾者的人。"
+
+#: View/Pages/privacy.ctp:10
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: View/Pages/terms.ctp:10
+msgid "Terms of Use"
+msgstr "使用条款"
+
+#: View/Previews/colour.ctp:47 View/Previews/geolocation_venue.ctp:47
+msgid "Place"
+msgstr "地方"
+
+#: View/Previews/colour.ctp:53 View/Previews/geolocation_venue.ctp:53
+msgid "Add Review"
+msgstr "添加评论"
+
+#: View/Previews/colour.ctp:63 View/Previews/geolocation_venue.ctp:63
+msgid "Name of Place"
+msgstr "地方名称"
+
+#: View/Previews/colour.ctp:75 View/Previews/geolocation_venue.ctp:75
+msgid "Rating Option A"
+msgstr "评分选项A"
+
+#: View/Previews/colour.ctp:95 View/Previews/geolocation_venue.ctp:95
+msgid "Rating Option B"
+msgstr "评分选项B"
+
+#: View/Previews/colour.ctp:115 View/Previews/geolocation_venue.ctp:115
+msgid "Rating Option C"
+msgstr "评分选项C"
+
+#: View/Previews/colour.ctp:135 View/Previews/geolocation_venue.ctp:135
+msgid "Rating Option D"
+msgstr "评分选项D"
+
+#: View/Previews/geolocation_map.ctp:90
+msgid "Home"
+msgstr "家"
+
+#: View/Previews/geolocation_map.ctp:102
+msgid "Add"
+msgstr "添加"
+
+#: View/Tasks/landing.ctp:18 View/Tasks/view.ctp:19
+msgid "Design Area"
+msgstr "设计区域"
+
+#: View/Tasks/landing.ctp:36
+msgid "Design Phase Not Available"
+msgstr "设计阶段不可用"
+
+#: View/Tasks/landing.ctp:38 View/Tasks/view.ctp:41
+msgid "Design Phase Active"
+msgstr "设计阶段活动"
+
+#: View/Tasks/landing.ctp:46
+msgid "Days remaining in design phase"
+msgstr "留在设计阶段天"
+
+#: View/Tasks/landing.ctp:48
+msgid "Day Remaining"
+msgstr "剩余的一天"
+
+#: View/Tasks/landing.ctp:48
+msgid "Days Remaining"
+msgstr "剩余天数"
+
+#: View/Tasks/landing.ctp:58
+msgid "The design phase is not yet available, please come back later!"
+msgstr "设计阶段尚未公布，请稍后回来！"
+
+#: View/Tasks/landing.ctp:64
+msgid ""
+"This movement has made it to the design phase. Yourself and other supporters can now design the application together. Just click one of the "
+"following design tasks to explore, vote and contribute ideas."
+msgstr "这个运动使得它在设计阶段。自己和其他支持者现在可以设计应用程序一起。只需点击下面的设计任务之​​一，探索，付诸表决，并献计献策。"
+
+#: View/Tasks/landing.ctp:68 View/Tasks/view.ctp:63
+msgid ""
+"You have not supported this movement so you are not eligible to vote or contribute in the design phase. You are however free to browse what "
+"others have submitted."
+msgstr "您还没有支持这个运动，所以你没有资格投票，或在设计阶段作出贡献。你不过是随意浏览别人已经提交。"
+
+#: View/Tasks/landing.ctp:73 View/Tasks/view.ctp:68
+msgid "Design Complete"
+msgstr "设计完成"
+
+#: View/Tasks/landing.ctp:74
+msgid ""
+"The design phase is now complete, we will select the highest voted contributions to tailor the application. You can view the community's "
+"contributions below."
+msgstr "在设计阶段已经完成，现在我们将选择最高的投票贡献来定制应用程序。您可以查看下面的社区的贡献。"
+
+#: View/Tasks/landing.ctp:140
+msgid "Fixed Option"
+msgstr "固定选项"
+
+#: View/Tasks/landing.ctp:142
+msgid "User Contribution"
+msgstr "用户贡献"
+
+#: View/Tasks/landing.ctp:163
+msgid "Awesome!"
+msgstr "真棒！"
+
+#: View/Tasks/landing.ctp:164
+msgid "You've submitted contributions to all of the design tasks, thank you!"
+msgstr "您提交的贡献，所有的设计任务，谢谢！"
+
+#: View/Tasks/landing.ctp:164
+msgid "Don't forget to come back and vote on contributions from other members!"
+msgstr "不要忘了回来投票捐款其他成员！"
+
+#: View/Tasks/view.ctp:58
+msgid "Instructions"
+msgstr "说明"
+
+#: View/Tasks/view.ctp:69
+msgid "The design phase is now complete, you can view the contributions below. The winning contributions are highlighted in green."
+msgstr "在设计阶段已经完成，现在您可以查看下面的贡献。获奖的贡献突出显示为绿色。"
+
+#: View/Users/admin.ctp:15 View/Users/dashboard.ctp:35
+msgid "Admin Section"
+msgstr "管理科"
+
+#: View/Users/admin.ctp:53
+msgid "APP STORE"
+msgstr "APP STORE"
+
+#: View/Users/admin.ctp:54
+msgid "DATABASE"
+msgstr "数据库"
+
+#: View/Users/admin.ctp:55
+msgid "XML"
+msgstr "XML"
+
+#: View/Users/admin.ctp:56
+msgid "ASSETS"
+msgstr "资产"
+
+#: View/Users/admin.ctp:57
+msgid "LAUNCH"
+msgstr "LAUNCH"
+
+#: View/Users/admin.ctp:64
+msgid "App Name"
+msgstr "应用程序名称"
+
+#: View/Users/admin.ctp:68
+msgid "App Identifier"
+msgstr "应用标识符"
+
+#: View/Users/admin.ctp:72
+msgid "Listing"
+msgstr "上市"
+
+#: View/Users/admin.ctp:76
+msgid "Keywords"
+msgstr "关键词"
+
+#: View/Users/admin.ctp:83
+msgid "SQL Create Dump"
+msgstr "SQL创建转储"
+
+#: View/Users/admin.ctp:90
+msgid "iOS XML Dump"
+msgstr "iOS的XML转储"
+
+#: View/Users/admin.ctp:94
+msgid "Android XML Dump"
+msgstr "Android的XML转储"
+
+#: View/Users/admin.ctp:101
+msgid "Set Background Colour"
+msgstr "设置背景颜色"
+
+#: View/Users/admin.ctp:103
+msgid "Clear"
+msgstr "明确"
+
+#: View/Users/admin.ctp:104
+msgid "Apply"
+msgstr "申请"
+
+#: View/Users/admin.ctp:107
+msgid "App Icon"
+msgstr "应用程序图标"
+
+#: View/Users/admin.ctp:111
+msgid "Spash Screen"
+msgstr "Spash屏幕"
+
+#: View/Users/admin.ctp:115
+msgid "App Screenshots"
+msgstr "应用截图"
+
+#: View/Users/admin.ctp:120
+msgid "Download Assets"
+msgstr "下载资产"
+
+#: View/Users/admin.ctp:125
+msgid "Android Store Listing URL"
+msgstr "Android商店网址列表"
+
+#: View/Users/admin.ctp:128
+msgid "iOS Store Listing URL"
+msgstr "iOS的店铺网址列表"
+
+#: View/Users/admin.ctp:131
+msgid "Click below to send the launch notification to all supporters"
+msgstr "点击下面发送发射通报给所有支持者"
+
+#: View/Users/admin.ctp:132
+msgid "Send Launch Notification"
+msgstr "发送启动通知"
+
+#: View/Users/admin.ctp:172
+msgid "Notifications have been sent!"
+msgstr "通知已发送！"
+
+#: View/Users/admin.ctp:247;248;249;250;300;302
+msgid "Loading"
+msgstr "载入中"
+
+#: View/Users/dashboard.ctp:14
+msgid "Your Dashboard"
+msgstr "仪表板"
+
+#: View/Users/dashboard.ctp:30 View/Users/display_users.ctp:37 View/Users/view.ctp:38
+msgid "Joined"
+msgstr "加盟"
+
+#: View/Users/dashboard.ctp:36
+msgid "Site Users"
+msgstr "网站用户"
+
+#: View/Users/dashboard.ctp:40 View/Users/edit.ctp:10
+msgid "Edit Profile"
+msgstr "编辑个人资料"
+
+#: View/Users/dashboard.ctp:41
+msgid "Logout"
+msgstr "注销"
+
+#: View/Users/dashboard.ctp:53
+msgid "Your Movements"
+msgstr "你的动作"
+
+#: View/Users/dashboard.ctp:79
+msgid "Your Notification Stream"
+msgstr "您的通知流"
+
+#: View/Users/display_users.ctp:5
+msgid "Site users"
+msgstr "网站用户"
+
+#: View/Users/display_users.ctp:34
+msgid "Fullname"
+msgstr "全名"
+
+#: View/Users/edit.ctp:41
+msgid "Profile Photo"
+msgstr "个人资料照片"
+
+#: View/Users/edit.ctp:47
+msgid "Notification Preferences"
+msgstr "通知首选项"
+
+#: View/Users/edit.ctp:52
+msgid "Send me awesome email updates"
+msgstr "送我真棒更新电子邮件"
+
+#: View/Users/edit.ctp:64
+msgid "Update Profile"
+msgstr "更新个人资料"
+
+#: View/Users/forgot.ctp:10
+msgid "Forgot Password"
+msgstr "忘记密码"
+
+#: View/Users/forgot.ctp:18
+msgid "Send Reset Email"
+msgstr "发送电​​子邮件复位"
+
+#: View/Users/forgot.ctp:19
+msgid "Please enter the email address you used to register to reset your password."
+msgstr "请输入您用来注册重置密码的电子邮件地址。"
+
+#: View/Users/forgot.ctp:31
+msgid "Send Email"
+msgstr "发送电​​子邮件"
+
+#: View/Users/login.ctp:37
+msgid "Forgotten your password?"
+msgstr "忘记密码？"
+
+#: View/Users/register.ctp:10
+msgid "Create an Account"
+msgstr "创建一个帐户"
+
+#: View/Users/register.ctp:39 View/Users/reset.ctp:31
+msgid "Confirm Password"
+msgstr "确认密码"
+
+#: View/Users/register.ctp:50
+msgid "By creating an account means you agree to App Movement's <br /> %s and %s"
+msgstr "通过创建一个帐户意味着您同意应用运动的<br /> %s和%s"
+
+#: View/Users/register.ctp:55
+msgid "I already have an account"
+msgstr "我已经有一个帐户"
+
+#: View/Users/reset.ctp:10;35
+msgid "Reset Password"
+msgstr "重设密码"
+
+#: View/Users/reset.ctp:18
+msgid "Reset Your Password"
+msgstr "重置密码"
+
+#: View/Users/reset.ctp:19
+msgid "Please enter new password below."
+msgstr "请在下面输入新的密码。"
+
+#: View/Users/reset.ctp:29
+msgid "New Password"
+msgstr "新密码"
+
+#: View/Users/reset.ctp:31
+msgid "Please re-enter password"
+msgstr "请重新输入密码"
+
+#: View/Users/view.ctp:22
+msgid "%s's Profile"
+msgstr "%s的个人资料"
+
+#: View/Users/view.ctp:61
+msgid "%s has no movements"
+msgstr "%s没有变动"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Please enter a comment"
+msgstr "请输入评论"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be at least 3 characters"
+msgstr "您的评论必须至少为3个字符"
+
+#: Model/Site/Comment.php:validation for field text
+msgid "Your comment must be less than 500 characters"
+msgstr "您的评论必须少于500个字符"
+
+#: Model/Site/Comment.php:validation for field user_id Model/Site/CommentVote.php:validation Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "Please include user_id"
+msgstr "请包括USER_ID"
+
+#: Model/Site/Comment.php:validation for field user_id Model/Site/CommentVote.php:validation Model/Site/Contribution.php:validation
+#: Model/Site/MovementUpdate.php:validation Model/Notification.php:validation
+msgid "isNumeric"
+msgstr "ISNUMERIC"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please enter parent_id"
+msgstr "请输入PARENT_ID"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Please only enter parent_id as numeric value"
+msgstr "请只输入PARENT_ID为数值"
+
+#: Model/Site/Comment.php:validation for field parent_id
+msgid "Parent_id incorrect"
+msgstr "PARENT_ID不正确"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Please enter comment_type_id"
+msgstr "请输入comment_type_id"
+
+#: Model/Site/Comment.php:validation for field comment_type_id
+msgid "Comment_type_id incorrect"
+msgstr "Comment_type_id不正确"
+
+#: Model/Site/CommentVote.php:validation for field up
+msgid "Please vote up or down"
+msgstr "请投票上涨或下跌"
+
+#: Model/Site/CommentVote.php:validation for field user_id
+msgid "You may only cast your vote once"
+msgstr "您只能投你的票，一旦"
+
+#: Model/Site/CommentVote.php:validation for field comment_id
+msgid "Please enter comment_id"
+msgstr "请输入COMMENT_ID"
+
+#: Model/Site/Contribution.php:validation for field user_id
+msgid "You cannot contribute to this movement as you are not a supporter or promoter of this movement"
+msgstr "你是不是这个运动的支持者或助您不能促进这一运动"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please enter movement_design_task_id"
+msgstr "请输入movement_design_task_id"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Please only enter movement_design_task_id as numeric value"
+msgstr "请只输入movement_design_task_id为数值"
+
+#: Model/Site/Contribution.php:validation for field movement_design_task_id
+msgid "Movement_design_task_id incorrect"
+msgstr "Movement_design_task_id不正确"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Please enter contribution_type_id"
+msgstr "请输入contribution_type_id"
+
+#: Model/Site/Contribution.php:validation for field contribution_type_id
+msgid "Contribution_type_id incorrect"
+msgstr "Contribution_type_id不正确"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please enter a contribution"
+msgstr "请输入贡献"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "Please ensure that you have entered your contribution correctly"
+msgstr "请确保你已经正确输入你的贡献"
+
+#: Model/Site/Contribution.php:validation for field data
+msgid "You have already submitted a contribution with those details"
+msgstr "您已经提交这些细节做出贡献"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "Please enter a title for your movement"
+msgstr "请输入一个标题为你的运动"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be more than 10 characters"
+msgstr "标题必须超过10个字符"
+
+#: Model/Site/Movement.php:validation for field title
+msgid "The title must be less than 50 characters"
+msgstr "标题必须少于50个字符"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "Please enter a short paragraph that describes your movement"
+msgstr "请输入短款，描述你的运动"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be more than 20 characters"
+msgstr "说明必须超过20个字符"
+
+#: Model/Site/Movement.php:validation for field description
+msgid "The description must be less than 140 characters"
+msgstr "说明必须少于140个字符"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "Please enter a detailed overview of your movement"
+msgstr "请输入您的运动的详细介绍"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be more than 100 characters"
+msgstr "概述必须超过100个字符"
+
+#: Model/Site/Movement.php:validation for field overview
+msgid "The overview must be less than 4000 characters"
+msgstr "概述必须小于4000个字符"
+
+#: Model/Site/Movement.php:validation for field app_type_id
+msgid "Please select the type of app you wish to create"
+msgstr "请选择应用程序的类型，你想创建"
+
+#: Model/Site/Movement.php:validation for field photo
+msgid "Please select a photo for your movement"
+msgstr "请为您的运动照片"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Please enter an update"
+msgstr "请输入更新"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be at least 10 characters"
+msgstr "您的更新必须至少为10个字符"
+
+#: Model/Site/MovementUpdate.php:validation for field text
+msgid "Your update must be less than 4000 characters"
+msgstr "您的更新必须少于4000个字符"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You are not the creator of this movement"
+msgstr "你是不是这个运动的创造者"
+
+#: Model/Site/MovementUpdate.php:validation for field user_id
+msgid "You can only post 2 updates per day. Please try again in a short while."
+msgstr "你只能张贴每天更新2次。请一会儿再试。"
+
+#: Model/Notification.php:validation for field data
+msgid "data is incorrect format for this notification type, or you have not specified a notification type"
+msgstr "数据对于此通知类型格式不正确，或者你没有指定一个通知类型"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr "请输入notification_type_id"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr "请只输入notification_type_id为数值"
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Notification_type_id incorrect"
+msgstr "Notification_type_id不正确"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "请输入一些文字回顾"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 800 characters"
+msgstr "评论文字必须少于800个字符"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "请输入您的全名"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "全名必须少于40个字符"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "请输入用户名"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "该用户名已经采取，请选择其他"
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr "只有字母，数字，下划线或破折号。请输入一个有效的名称"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "用户名必须少于40个字符"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "请输入密码"
+
+#: Model/Global/User.php:validation for field password;validation password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "密码必须超过8个字符"
+
+#: Model/Global/User.php:validation for field password;validation password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "密码必须少于40个字符"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "请重新输入您的密码"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "两个密码字段必须匹配"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr "的isEmpty"
+
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "请输入有效的电子邮件地址"
+
+#: Model/Global/User.php:validation for field email
+msgid "An account registered with this email already exists, please enter another or login below"
+msgstr "与此电子邮件注册了一个账号已经存在，请输入另一个或登录以下"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "电子邮件必须少于240个字符"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "图片必须是类型：JPG，JPEG或PNG"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "图像必须超过5KB"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "图片必须小于3MB"

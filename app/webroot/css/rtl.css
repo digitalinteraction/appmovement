@@ -1,0 +1,207 @@
+/* Styles for RTL (Right to left) languages */
+
+html {
+  direction: rtl;
+}
+
+@media(min-width: 992px) {
+
+	#navigation #logo {
+		color: #000;
+		float: right !important;
+	}
+
+	#navigation ul {
+		float: left !important;
+	}
+
+}
+
+/* Onboarding */
+
+.progress-bar {
+	float:right !important;
+}
+
+/* main */
+
+
+.breadcrumbs li {
+	border-right: none !important;
+	border-left: #DDD 1px solid !important;
+	margin-left: 0px !important;
+	margin-right: -4px !important;
+}
+
+.breadcrumbs li i {
+	margin-right: 0px !important;
+	margin-left: 8px !important;
+}
+
+.breadcrumbs .active {
+	border-right: none !important;
+	border-left: none !important;
+}
+
+.movement-update-trash {
+	left: 15px !important;
+	right: auto !important;
+}
+
+/* start.ctp */
+
+#start-input-label {
+	float: right !important;
+}
+
+ul.tagit li.tagit-choice {
+	float: right;
+}
+
+/* index.ctp (Discover) */
+
+.sort-row input {
+	text-align: right !important; 
+}
+
+/* movement_tile.ctp */
+
+.movement-tile .tile-description {
+	text-align: right !important;
+}
+
+/* notifications sidebar */
+
+.notifications-sidebar i {
+	margin-left: 8px !important;
+	margin-right: auto !important;
+}
+
+.notification-banner i {
+	margin-left: 8px !important;
+	margin-right: auto !important;
+}
+
+.notification .time-stamp {
+	right: auto !important;
+	left: 5px !important;
+}
+
+.notification .time-stamp i {
+	margin-left: 5px !important;
+	margin-right: auto !important;
+}
+
+/* comments */
+
+.comment-replies {
+	padding-left: 0px !important;
+	padding-right: 40px !important;
+}
+.comment-body {
+	padding-left: 0px !important;
+	padding-right: 55px !important;
+}
+
+.reply-body {
+	margin-left: 0px !important;
+	margin-right: 40px !important;
+}
+
+.comment-votes {
+	right: auto !important;
+	left: 10px !important;
+}
+
+.reply-votes {
+	right: auto !important;
+	left: 0px !important;
+}
+
+.reply-container .comment-profile {
+	right: 40px;
+}
+
+
+#discussion_comment_submit_btn {
+	border-left: none !important;
+	border-right: #e1e1e1 1px solid !important;
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	right: auto !important;
+	left: 0px;
+}
+
+#comment-form-textarea {
+	padding-right: 10px !important;
+	padding-left: 135px;
+}
+
+/* landing.ctp */
+
+#design-header-row .movement-photo {
+	float: right !important;
+	margin-right: 0px !important;
+	margin-left: 15px !important;
+}
+
+#design-header-row .time-remaining {
+	left: 0px !important;
+	right: auto !important;
+}
+
+.task-info h4 .fa-circle-o {
+	margin-right: 0px !important;
+	margin-left: 6px !important;
+}
+
+.movement-tasks .status-container {
+	padding: 20px 10px 20px 20px !important;
+}
+
+/* design tile */
+
+.tile .up-vote-button, .tile .down-vote-button {
+	border-left: none !important;
+	border-right: #DDD 1px solid;
+}
+
+.contribution-flag {
+	right: 5px !important;
+	float: right !important;
+}
+
+.status-container ul li h4 {
+	text-align: right;
+}
+
+.status-container ul li h4 .fa {
+	margin-left: 15px !important;
+	margin-right: 0px !important;
+}
+
+/* Contribution Tile borders */
+.tile .padding {
+	border-left: 0px !important;
+	border-right: #DDD 1px solid;
+}
+
+/* Bootstrap float override */
+
+@media (min-width: 768px) {
+  .col-sm-1,
+  .col-sm-2,
+  .col-sm-3,
+  .col-sm-4,
+  .col-sm-5,
+  .col-sm-6,
+  .col-sm-7,
+  .col-sm-8,
+  .col-sm-9,
+  .col-sm-10,
+  .col-sm-11 {
+    float: right;
+  }
+}

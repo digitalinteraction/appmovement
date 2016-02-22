@@ -1,0 +1,121 @@
+
+/* Location Task Styles */
+
+.location-tile {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+	width: 270px;
+}
+
+.location-tile img {
+	max-height: 100px;
+}
+
+.location-tile table {
+	width: 100%;
+}
+
+.location-tile table td {
+	text-align: center;
+}
+
+.location-tile table h3 {
+	font-size: 16px;
+	margin: 0px;
+	padding: 10px 10px 10px 10px;
+	word-break: break-all;
+}
+
+.location-tile .address {
+	color: #999;
+}
+
+.tile {
+	width: 270px;
+}
+
+.map-thumbnail {
+	height: 100px;
+	margin: 10px auto;
+	width: 190px;
+}
+
+.tile p {
+	color: #999;
+	margin: 0px 10px 10px 10px;
+}
+
+.map-container {
+	border: #DDD 1px solid;
+	border-radius: 12px;
+	height: 400px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+#map-canvas {
+	border-radius: 12px;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+}
+
+#map-overlay {
+	background-color: rgba(0, 0, 0, 0.75);
+	border-radius: 12px;
+	color: #FFF;
+	display: none;
+	font-size: 32px;
+	line-height: 400px;
+	overflow: hidden;
+	text-align: center;
+	width: 100%;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.map-controls {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.map-controls ul li {
+	list-style-type: none;
+}
+
+.map-controls .btn {
+	margin: 10px 5px;
+}
+
+.option-tile {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+}
+
+.option-tile img {
+	width:100%;
+}
+
+.option-tile table {
+	width: 100%;
+}
+
+.option-tile table td {
+	text-align: center;
+}
+
+.option-tile table h3 {
+	font-size: 23px;
+	margin: 0px;
+	padding: 10px 20px 10px 20px;
+}
+
+.view_on_map {
+	color:#428bca;
+	cursor:pointer;
+}

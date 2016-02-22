@@ -1,0 +1,84 @@
+
+/* Colour Task Styles */
+
+.colour-tile {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+	overflow: visible;
+	width: 300px;
+}
+
+.colour-tile table {
+	width: 100%;
+}
+
+.colour-tile table td {
+	text-align: center;
+}
+
+.colour-tile table .colour-swatch {
+	border: #e1e1e1 1px solid;
+	border-radius: 25px;
+	display: inline-block;
+	height: 50px;
+	margin: 8px;
+	width: 50px;
+}
+
+.colour-tile table a {
+	color: #999;
+	margin: 0;
+}
+
+.colour-tile table a:hover {
+	color: #000;
+	cursor: pointer;
+}
+
+.colour-picker-label {
+	display: inline-block;
+}
+
+.colour-picker-label h5 {
+	color: #999;
+	padding-top: 20px;
+}
+
+.colour-picker-select {
+	/*display: inline-block;*/
+	margin: 5px 5px;
+}
+
+/* Colour Preview */
+
+.contribute-container iframe {
+	border: #EEE 1px solid;
+	margin: 15px auto;
+
+	-webkit-box-shadow: 0px 0px 18px 0px rgba(0,0,0,0.05);
+	-moz-box-shadow: 0px 0px 18px 0px rgba(0,0,0,0.05);
+	box-shadow: 0px 0px 18px 0px rgba(0,0,0,0.05);
+}
+
+#preview-modal iframe {
+	border: none;
+}
+
+/* Colour Picker Override */
+
+/*.simplecolorpicker .picker {
+	max-width: 393px;
+}*/
+
+.simplecolorpicker.icon,
+.simplecolorpicker span.color {
+	border: #e1e1e1 1px solid;
+	border-radius: 25px;
+	height: 50px;
+	width: 50px;
+}
+
+#submit-preview-button {
+	margin-right: 5px;
+}

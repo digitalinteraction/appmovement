@@ -1,0 +1,168 @@
+/* Task View Styles */
+
+.banner-row {
+	margin-bottom: 20px;
+}
+
+/* Contribution Tiles */
+
+.tile {
+	margin-bottom: 15px;
+	max-height: 300px;
+	overflow: hidden;
+	width: 270px;
+}
+
+.tile .up-vote-button, .tile .down-vote-button {
+	color: #CCC;
+	border-left: #DDD 1px solid;
+	font-size: 12px;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-transition-duration: 0.3s, 0.3s, 0.3s;
+	-webkit-transition-property: color;
+}
+
+.tile .up-vote-button:hover, .tile .down-vote-button:hover {
+	cursor: pointer;
+	color: #000;
+
+    transform:scale(1.15);
+    -ms-transform:scale(1.15); /* IE 9 */
+    -moz-transform:scale(1.15); /* Firefox */
+    -webkit-transform:scale(1.15); /* Safari and Chrome */
+    -o-transform:scale(1.15); /* Opera */
+}
+
+.tile .up-vote-button:hover {
+	color: #5BCA5B;
+}
+
+.tile .down-vote-button:hover {
+	color: #F00;
+}
+
+.tile .up-vote-button {
+	padding: 0px 10px 0px 10px;
+}
+
+.tile .down-vote-button {
+	padding: 0px 10px 0px 10px;
+}
+
+.tile .vote-count {
+	color: #000;
+	font-size: 18px;
+	margin: 0px;
+	min-width: 50px;
+	padding: 0px 5px;
+}
+
+.tile .padding {
+	border-left: #DDD 1px solid;
+	height: 36px;
+}
+
+.tile .logged-in-user-contribution {
+	border-left: 0px;
+}
+
+.tile .fa-trash-o {
+	color: #999;
+}
+
+.tile .fa-trash-o:hover {
+	color: #f00;
+	cursor: pointer;
+}
+
+/* Contribution Area */
+
+#contributions_wrapper {
+	margin: 0 auto;
+}
+
+.contribute-container {
+	background-color: #fff;
+	border: #ddd 1px solid;
+	border-radius: 6px;
+	margin: 5px 0px 20px 0px;
+	padding: 20px;
+	text-align: center;
+}
+
+.contribute-container h2 {
+	border: none;
+	font-size: 24px;
+	margin: 10px auto 20px auto;
+	text-align:center;
+}
+
+.contribute-container input[type="text"] {
+	background-color: #fcfcfc;
+	border: #DDD 1px solid;
+	border-radius: 6px;
+	font-size: 20px;
+	height: 100%;
+	padding: 23px 20px;
+	text-align: center;
+	margin: 0px auto 0px auto;
+	max-width: 600px;
+	width: 100%;
+	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.contribute-container input[type="file"] {
+	background-color: #f9f9f9;
+	border: #e1e1e1 1px solid;
+	border-radius: 6px;
+	margin: 0px auto 0px auto;
+	padding: 15px 20px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#contribution-form-errors {
+	display: none;
+}
+
+#contribution-form-errors-list li {
+	list-style-type: none;
+}
+
+.login-modal a{
+	float:left;
+}
+
+.login-modal .modal-footer {
+	margin: 0px;
+}
+
+#contribution-flag-modal-errors
+{
+	display:none;
+	color:#d9534f;
+}
+
+.contribution-flag {
+	position:absolute;
+	bottom:5px;
+	left:5px;
+	float:left;
+	display: none;
+}
+
+.contribution_report_radio_button_list {
+	list-style-type: none;
+}
+
+.winning-contribution {
+	background-color: #EEF5EC;
+		border-color: #5BCA5B;
+}
+
+.preview-button {
+	display: block;
+}

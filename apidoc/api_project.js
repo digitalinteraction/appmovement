@@ -1,0 +1,1 @@
+define({  "name": "",  "version": "0.0.0",  "description": "",  "title": "App Movement API Docs",  "url": "https://app-movement.com",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-02-17T14:58:36.291Z",    "url": "http://apidocjs.com",    "version": "0.13.1"  }});

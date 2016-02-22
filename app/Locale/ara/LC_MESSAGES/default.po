@@ -1,0 +1,3058 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-25 14:55+0100\n"
+"PO-Revision-Date: 2015-08-28 09:07+0100\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: Controller/CommentsController.php:121 Controller/MovementsController.php:565
+msgid "You are required to be logged in for this transaction"
+msgstr "يجب أن تقوم بتسجيل الدخول لإتمام هذه العملية"
+
+#: Controller/CommentsController.php:141
+#: Controller/ContributionsController.php:181
+#: Controller/MovementsController.php:439;501;585
+msgid "You do not have permission to do that"
+msgstr "لا تملك الصلاحية لهذه العملية"
+
+#: Controller/ContributionsController.php:67
+msgid "No file has been submitted"
+msgstr "لم يتم رفع أي ملف"
+
+#: Controller/ContributionsController.php:73
+msgid "Error in file submission"
+msgstr "حدث خطأ خلال رفع الملف"
+
+#: Controller/ContributionsController.php:135
+msgid "Contribution has been submitted"
+msgstr "تم إرسال مساهمتك بنجاح!"
+
+#: Controller/ContributionsController.php:145
+msgid ""
+"Please ensure that your image is in the correct format (jpg, jpeg, png) and is "
+"between 2KB - 3MB"
+msgstr ""
+"يرجى التأكد من أن الصورة هي في الشكل الصحيح (JPG ، JPEG ، PNG) و حجمها ما بين "
+"3KB - 2MB"
+
+#: Controller/ContributionsController.php:208
+msgid "Contribution id required"
+msgstr "مطلوب رقم المساهمة!"
+
+#: Controller/ContributionsController.php:209
+msgid "No Report Type id"
+msgstr ""
+
+#: Controller/ContributionsController.php:235
+msgid "Report type id incorrect"
+msgstr ""
+
+#: Controller/MobileController.php:13;29
+#: Controller/MovementsController.php:289;308;428;493;747
+#: Controller/TasksController.php:14;82
+msgid "Could not find movement"
+msgstr "لم نتمكن من ايجاد حركة مطابقة"
+
+#: Controller/MovementsController.php:265
+msgid "%s needs your support"
+msgstr "‏%s يحتاج دعمكم"
+
+#: Controller/MovementsController.php:282
+msgid "Your friends have been invited"
+msgstr "تمت دعوة اصدقائك"
+
+#: Controller/MovementsController.php:295;296
+msgid "%s | Onboarding"
+msgstr ""
+
+#: Controller/MovementsController.php:335;336
+#: View/Emails/html/movement_failed.ctp:41 View/Movements/start.ctp:28
+#: View/Pages/home.ctp:36
+msgid "Start a Movement"
+msgstr "إبدأ حركتك"
+
+#: Controller/MovementsController.php:346
+msgid "Please login or create an account to start a movement"
+msgstr "\tالرجاء تسجيل الدخول او انشاء حساب للبدء بحركة جديدة"
+
+#: Controller/MovementsController.php:409
+msgid "There are some errors with your movement"
+msgstr "يوجد بعض الأخطاء في حركتك"
+
+#: Controller/MovementsController.php:419;420
+#: View/Elements/Movements/sidebar.ctp:158 View/Movements/edit.ctp:17
+msgid "Edit Movement"
+msgstr "تعديل الحركة"
+
+#: Controller/MovementsController.php:468
+msgid "Movement was updated"
+msgstr "تم تعديل الحركة"
+
+#: Controller/MovementsController.php:476
+msgid "Movement was not updated"
+msgstr "لم يتم تعديل الحركة"
+
+#: Controller/MovementsController.php:508
+msgid "Movement was deleted"
+msgstr "تم حذف الحركة"
+
+#: Controller/MovementsController.php:662
+msgid "api_key parameter required"
+msgstr ""
+
+#: Controller/MovementsController.php:668
+msgid "Id parameter required"
+msgstr ""
+
+#: Controller/MovementsController.php:776
+msgid "This movement has not yet reached the launch phase"
+msgstr "لم تصل هذه الحركة بعد لمرحلة الإطلاق"
+
+#: Controller/MovementsController.php:790
+msgid "Movements with 5 supporters or more cannot be edited"
+msgstr "الحركات التي تم تأييدها من قبل ٥ مؤيدين أو أكثر لا يمكن تعديلها."
+
+#: Controller/NotificationsController.php:261
+msgid "We have new updates for you!"
+msgstr "توجد تحديثات جديدة"
+
+#: Controller/PromotersController.php:126
+msgid ""
+"Please check that you have entered the correct code. This can be found at "
+"https://app-movement.com"
+msgstr ""
+"الرجاء التحقق من إدخال الرمز الصحيح والذي يمكنك إيجاده في https://app-movement."
+"com"
+
+#: Controller/PromotersController.php:131 Controller/SupportersController.php:94
+msgid "Code parameter missing"
+msgstr ""
+
+#: Controller/SupportersController.php:89
+msgid ""
+"Please check that you have entered the correct code. This can be found at "
+"http://app-movement.com"
+msgstr ""
+"الرجاء التحقق من إدخال الرمز الصحيح والذي يمكنك إيجاده في https://app-movement."
+"com"
+
+#: Controller/SupportersController.php:166;171
+msgid "Please verify you are a real person by clicking the button above"
+msgstr "للتحقق من أنك شخص حقيقي الرجاء النقر على الزر اعلاه"
+
+#: Controller/SupportersController.php:176
+msgid "Invalid movement_id"
+msgstr ""
+
+#: Controller/SupportersController.php:181
+msgid "You must be logged in to perform this action"
+msgstr "يجب أن تقوم بتسجيل دخول لإتمام هذه العملية"
+
+#: Controller/TasksController.php:90;156
+msgid "Movement has not yet reached the design phase"
+msgstr "لم تصل هذه الحركة بعد لمرحلة التصميم"
+
+#: Controller/UsersController.php:66
+msgid "You have created an account"
+msgstr "لقد قمت بإنشاء حساب جديد"
+
+#: Controller/UsersController.php:162
+msgid "You have logged in"
+msgstr "تم تسجيل الدخول"
+
+#: Controller/UsersController.php:170
+msgid "Your username or password was incorrect."
+msgstr "إسم المستخدم او كلمة المرور غير صحيحة"
+
+#: Controller/UsersController.php:205
+msgid "Reset Your App Movement Password"
+msgstr "إعادة تعيين كلمة المرور الخاصة بك"
+
+#: Controller/UsersController.php:209
+msgid "A reset link will be emailed to you."
+msgstr "سيتم إرسال رابط لإعادة تعيين كلمة المرور الى بريدك الإلكتروني"
+
+#: Controller/UsersController.php:214
+msgid "The reset email could not be sent"
+msgstr "لم نتمكن من إرسال بريد الإلكتروني لإعادة تعيين كلمة المرور"
+
+#: Controller/UsersController.php:219
+msgid "An account does not exist with the given email address"
+msgstr "لا يوجد حساب مطابق لعنوان البريد الإلكتروني المدخل"
+
+#: Controller/UsersController.php:253
+msgid "Your password has been updated"
+msgstr "تم تحديث كلمة المرور الخاصة بك"
+
+#: Controller/UsersController.php:268;273
+msgid "Password could not be updated"
+msgstr "لم نتمكن من تحديث كلمة المرور الخاصة بك"
+
+#: Controller/UsersController.php:431
+msgid "Your profile was updated"
+msgstr "تم تحديث ملفك الشخصي"
+
+#: Controller/UsersController.php:439;445
+msgid "Your profile was not updated"
+msgstr "لم نتمكن من تحديث ملفك الشخصي"
+
+#: Controller/VotesController.php:30
+msgid "You cannot vote on your own contribution"
+msgstr "لا يمكنك التصويت على مساهمتك الخاصة"
+
+#: Controller/VotesController.php:38
+msgid "You cannot vote more than once"
+msgstr "لا يمكنك التصويت أكثر من مرة واحدة"
+
+#: Controller/VotesController.php:81
+msgid "You must be logged in to vote"
+msgstr "يجب أن تقوم بتسجيل الدخول لإتمام هذه العملية"
+
+#: Controller/Templates/AuthController.php:133
+msgid "Please provide username"
+msgstr "الرجاء إدخال إسم المستخدم"
+
+#: Controller/Templates/AuthController.php:134;279;378
+msgid "Please provide email"
+msgstr "الرجاء ادخال البريد الألكتروني"
+
+#: Controller/Templates/AuthController.php:135;280
+msgid "Please provide password"
+msgstr "الرجاء ادخال كلمة السر"
+
+#: Controller/Templates/AuthController.php:149
+msgid ""
+"Email address already registered. Please sign in with your App Movement "
+"account if you have one."
+msgstr ""
+"هذا البريد الالكتروني تم استخدامه من قبل. الرجاء ادخال عنوان اب موفمنت الخاص "
+"بك."
+
+#: Controller/Templates/AuthController.php:150
+msgid ""
+"Username has been taken. Please sign in with your App Movement account if you "
+"have one."
+msgstr "اسم المستخدم تم استخدامه من قبل. الرجاء ادخال عنوان اب موفمنت الخاص بك."
+
+#: Controller/Templates/AuthController.php:175
+msgid "Account could not be created"
+msgstr "لا يمكن انشاء هذا الحساب"
+
+#: Controller/Templates/AuthController.php:288
+msgid "Authentication Failed"
+msgstr "فشل في مصادقة المستخدم"
+
+#: Controller/Templates/AuthController.php:379
+msgid "Please provide an app name"
+msgstr "الرجاء ادخال اسم التطبيق"
+
+#: Controller/Templates/AuthController.php:392
+msgid "User not found"
+msgstr "لم يتم ايجاد المستخدم"
+
+#: Controller/Templates/AuthController.php:412
+msgid "Email failed to send"
+msgstr "فشل في ارسال البريد الالكتروني"
+
+#: Controller/Templates/AuthController.php:562
+#: Controller/Templates/GeolocationController.php:491;659;867;1060;1174;1277;1395;1492;1619
+msgid "Please provide user_id"
+msgstr "الرجاء ادخال رقم تعريف المستخدم"
+
+#: Controller/Templates/AuthController.php:589
+msgid "Incorrect identifier specified"
+msgstr ""
+
+#: Controller/Templates/AuthController.php:705
+msgid "API key required"
+msgstr ""
+
+#: Controller/Templates/AuthController.php:718
+msgid "Please provide content_id"
+msgstr "الرجاء ادخال رقم المحتويات"
+
+#: Controller/Templates/AuthController.php:719
+msgid "Please provide app_identifier"
+msgstr ""
+
+#: Controller/Templates/AuthController.php:720
+msgid "Please provide share_type"
+msgstr ""
+
+#: Controller/Templates/AuthController.php:730
+msgid "Please provide valid app_identifier"
+msgstr "الرجاء ادخال رقم التطبيق الصحيح"
+
+#: Controller/Templates/AuthController.php:738
+msgid "Please provide a valid share_type"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:259;1062
+msgid "Please provide latitude"
+msgstr "الرجاء ادخال خط العرض"
+
+#: Controller/Templates/GeolocationController.php:260;1063
+msgid "Please provide longitude"
+msgstr "الرجاء ادخال خط الطول"
+
+#: Controller/Templates/GeolocationController.php:492;660;868;1175;1278;1396;1493
+msgid "Please provide venue_id"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:504;668
+msgid "No venue found"
+msgstr "لم يتم ايجاد مكان"
+
+#: Controller/Templates/GeolocationController.php:869
+msgid "Please provide q1"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:870
+msgid "Please provide q2"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:871
+msgid "Please provide q3"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:872
+msgid "Please provide q4"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:873
+msgid "Please provide review_text"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:893
+msgid "Failed to submit review"
+msgstr "فشل في ارسال التعليق"
+
+#: Controller/Templates/GeolocationController.php:1061
+msgid "Please provide venue name"
+msgstr "الرجاء ادخال اسم المكان"
+
+#: Controller/Templates/GeolocationController.php:1075
+msgid "Failed to add venue"
+msgstr "فشل في اضافة المكان"
+
+#: Controller/Templates/GeolocationController.php:1176;1279;1397;1494
+msgid "Please provide review_id"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:1177
+msgid "Please provide receiver_id"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:1198
+msgid "Failed to like review"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:1416
+msgid "Failed to report review"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:1620
+msgid "Please provide profile_id"
+msgstr ""
+
+#: Controller/Templates/GeolocationController.php:1671
+msgid "No user found"
+msgstr "لم يتم مستخدم"
+
+#: View/Elements/discussion.ctp:21
+msgid "Discussion"
+msgstr "مناقشة"
+
+#: View/Elements/discussion.ctp:35 View/Elements/Comments/comment.ctp:56
+msgid "Your comment"
+msgstr "تعليقك"
+
+#: View/Elements/discussion.ctp:36
+msgid "Comment"
+msgstr "تعليق"
+
+#: View/Elements/discussion.ctp:43
+msgid "Order by date"
+msgstr "الترتيب حسب التاريخ"
+
+#: View/Elements/footer.ctp:24 View/Pages/contact.ctp:9 View/Pages/press.ctp:81
+msgid "Contact"
+msgstr "إتصال"
+
+#: View/Elements/footer.ctp:27
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "FAQ"
+msgstr "الأسئلة المتكررة"
+
+#: View/Elements/footer.ctp:30 View/Mobile/terms.ctp:10
+msgid "Terms"
+msgstr "الشروط والأحكام"
+
+#: View/Elements/footer.ctp:33
+msgid "Privacy"
+msgstr "الخصوصية"
+
+#: View/Elements/footer.ctp:36
+msgid "Press"
+msgstr "الإعلام"
+
+#: View/Elements/movement_tile.ctp:14;74 View/Movements/view.ctp:82;85
+msgid "SUPPORTED"
+msgstr "مدعومة"
+
+#: View/Elements/movement_tile.ctp:25
+msgid "by"
+msgstr "بواسطة"
+
+#: View/Elements/movement_tile.ctp:49 View/Elements/Movements/sidebar.ctp:150
+msgid "Under Review"
+msgstr "تحت المراجعة"
+
+#: View/Elements/movement_tile.ctp:57
+msgid "Unsuccessful"
+msgstr "غير ناجح"
+
+#: View/Elements/movement_tile.ctp:73
+msgid "%"
+msgstr ""
+
+#: View/Elements/movement_tile.ctp:78
+msgid "DAY TO GO"
+msgstr "يوم متبقي"
+
+#: View/Elements/movement_tile.ctp:78
+msgid "DAYS TO GO"
+msgstr "أيام متبقية"
+
+#: View/Elements/movement_tile.ctp:87
+msgid "Design Phase"
+msgstr "مرحلة التصميم"
+
+#: View/Elements/movement_tile.ctp:95 View/Movements/launch.ctp:13
+msgid "Launch Phase"
+msgstr "مرحلة الإطلاق"
+
+#: View/Elements/movement_tile.ctp:103 View/Movements/launch.ctp:9
+msgid "Available to Download"
+msgstr "متاح للتحميل"
+
+#: View/Elements/navigation.ctp:16;22 View/Mobile/about.ctp:10
+msgid "About"
+msgstr "عن الموقع"
+
+#: View/Elements/navigation.ctp:17;23
+msgid "Start"
+msgstr "إبدأ"
+
+#: View/Elements/navigation.ctp:18;24 View/Movements/index.ctp:10
+#: View/Previews/colour.ctp:41 View/Previews/geolocation_map.ctp:96
+#: View/Previews/geolocation_venue.ctp:41
+msgid "Discover"
+msgstr "إكتشف"
+
+#: View/Elements/navigation.ctp:19
+msgid "Activity"
+msgstr "نشاط"
+
+#: View/Elements/navigation.ctp:25 View/Elements/Modals/auth_modal.ctp:33;94
+#: View/Users/login.ctp:10;30
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: View/Elements/navigation.ctp:26 View/Elements/Modals/auth_modal.ctp:32
+#: View/Users/register.ctp:44
+msgid "Register"
+msgstr "التسجيل"
+
+#: View/Elements/navigation.ctp:27 View/Elements/Modals/auth_modal.ctp:64
+msgid "Create Account"
+msgstr "إنشاء حساب"
+
+#: View/Elements/Banners/video_banner.ctp:3;5
+msgid "Watch the introduction video"
+msgstr "شاهد الفيديو التعريفي"
+
+#: View/Elements/Comments/comment.ctp:44;57
+msgid "Reply"
+msgstr "رد"
+
+#: View/Elements/Contributions/colour.ctp:15;44 View/Elements/Tasks/colour.ctp:56
+msgid "Primary Colour"
+msgstr "اللون الأساسي"
+
+#: View/Elements/Contributions/colour.ctp:16;45 View/Elements/Tasks/colour.ctp:66
+msgid "Pin Colour"
+msgstr "لون الدبوس"
+
+#: View/Elements/Contributions/colour.ctp:17;46 View/Elements/Tasks/colour.ctp:76
+msgid "Star Colour"
+msgstr "لون النجمة"
+
+#: View/Elements/Contributions/colour.ctp:18;47
+msgid "Preview"
+msgstr "معاينة"
+
+#: View/Elements/Contributions/location.ctp:50
+msgid "Open at User's Location"
+msgstr "إفتح في موقع المستخدم"
+
+#: View/Elements/LTR/phasebar.ctp:36 View/Elements/RTL/phasebar.ctp:46
+#: View/Movements/overview.ctp:21
+msgid "Support"
+msgstr "دعم"
+
+#: View/Elements/LTR/phasebar.ctp:41 View/Elements/RTL/phasebar.ctp:41
+#: View/Movements/overview.ctp:22
+msgid "Design"
+msgstr "تصميم"
+
+#: View/Elements/LTR/phasebar.ctp:46 View/Elements/RTL/phasebar.ctp:36
+#: View/Movements/overview.ctp:23
+msgid "Launch"
+msgstr "إطلاق"
+
+#: View/Elements/LTR/phasebar.ctp:58 View/Elements/RTL/phasebar.ctp:58
+msgid "Help %s by supporting this movement."
+msgstr "مساعدة %s من خلال دعم هذه الحركة."
+
+#: View/Elements/LTR/phasebar.ctp:66 View/Elements/RTL/phasebar.ctp:66
+msgid "Work with %s and other supporters to design the app."
+msgstr "العمل مع %s وغيره من المؤيدين لتصميم التطبيق."
+
+#: View/Elements/LTR/phasebar.ctp:73 View/Elements/RTL/phasebar.ctp:73
+msgid "Download the app from the App Store for free!"
+msgstr "تحميل التطبيق من المتجر مجانا!"
+
+#: View/Elements/Languages/js.ctp:4
+msgid "Support %s's app idea - %s"
+msgstr "إدعم فكرة %s لتطبيق جديد ل%s"
+
+#: View/Elements/Languages/js.ctp:5
+msgid ""
+"Hey there! \n"
+"\n"
+"I’ve found an awesome App Movement that I think you should be a part of. \n"
+"\n"
+"Click the link to find out more about this idea, \n"
+"\n"
+"%s - http://apmv.co/%s\n"
+"\n"
+"Let's start the movement!"
+msgstr ""
+"مرحبا \n"
+"لقد وجدت حركة مميزة لبناء تطبيق للاجهزة المحمولة وأعتقد انها ستعجبك \n"
+"إضغط على الرابط لتعرف أكثر عن فكرة هذه الحركة \n"
+"‏%s - http://apmv.co/%s\n"
+"لنبدأ الحركة معا!"
+
+#: View/Elements/Languages/js.ctp:8
+msgid "Delete contribution?"
+msgstr "هل تريد الغاء المساهمة؟"
+
+#: View/Elements/Languages/js.ctp:11
+msgid "Confirm"
+msgstr "تأكيد"
+
+#: View/Elements/Languages/js.ctp:12
+#: View/Elements/Modals/contribution_flag_modal.ctp:20
+#: View/Elements/Modals/feedback_modal.ctp:21
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: View/Elements/Languages/js.ctp:15
+#: View/Elements/Movements/action_button.ctp:11;17
+msgid "Supported"
+msgstr "مدعومة"
+
+#: View/Elements/Modals/auth_modal.ctp:24
+#: View/Elements/Modals/download_modal.ctp:9
+msgid "Close"
+msgstr "إغلاق"
+
+#: View/Elements/Modals/auth_modal.ctp:45 View/Users/edit.ctp:23
+#: View/Users/register.ctp:23
+msgid "Your Name"
+msgstr "إسمك"
+
+#: View/Elements/Modals/auth_modal.ctp:45 View/Users/register.ctp:23
+msgid "Full Name"
+msgstr "الإسم الكامل"
+
+#: View/Elements/Modals/auth_modal.ctp:49
+#: View/Elements/Modals/feedback_modal.ctp:14 View/Users/edit.ctp:31
+#: View/Users/register.ctp:31
+msgid "Email Address"
+msgstr "البريد الإلكتروني"
+
+#: View/Elements/Modals/auth_modal.ctp:53;83 View/Users/edit.ctp:35
+#: View/Users/login.ctp:26 View/Users/register.ctp:35
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: View/Elements/Modals/auth_modal.ctp:57
+msgid "By creating an account means you agree to our %s and %s"
+msgstr "إنشاء حساب يعني أنك توافق على %s و %s"
+
+#: View/Elements/Modals/auth_modal.ctp:79 View/Users/login.ctp:24
+msgid "Username / Email"
+msgstr "إسم المستخدم / البريد الإلكتروني"
+
+#: View/Elements/Modals/auth_modal.ctp:79 View/Users/display_users.ctp:35
+#: View/Users/edit.ctp:27 View/Users/login.ctp:24 View/Users/register.ctp:27
+msgid "Username"
+msgstr "إسم المستخدم"
+
+#: View/Elements/Modals/auth_modal.ctp:87
+msgid "Forgotten your password? %s to reset it."
+msgstr "نسيت كلمة المرور الخاصة بك؟ %s لإعادة تعيينها."
+
+#: View/Elements/Modals/auth_modal.ctp:87
+#: View/Emails/html/build_phase_complete.ctp:76
+#: View/Emails/html/created_movement.ctp:54
+#: View/Emails/html/design_phase_complete.ctp:51
+#: View/Emails/html/invite_user_to_movement.ctp:60
+#: View/Emails/html/movement_failed.ctp:55
+#: View/Emails/html/movement_update.ctp:55 View/Emails/html/reset.ctp:47
+#: View/Emails/html/support_phase_complete.ctp:56
+#: View/Emails/html/supported_movement.ctp:52
+#: View/Layouts/Emails/html/grouped_notification.ctp:59
+msgid "Click here"
+msgstr "إضغط هنا"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:8
+msgid "Report Contribution"
+msgstr "إبلاغ عن مساهمة"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:10
+msgid ""
+"Check the option below and click submit if you think this contribution is:"
+msgstr "تحقق من الخيار أدناه وأنقر إرسال إذا كنت تعتقد ان هذه المساهمة :"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:12
+msgid "Abusive / Offensive"
+msgstr "مسيئ / عدواني"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:13
+msgid "Copyright Infringement"
+msgstr "تعدي على حقوق الطبع"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:14
+msgid "Spam"
+msgstr "بريد مزعج"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:16
+msgid "Please select an option above"
+msgstr "الرجاء تحديد أحد الخيارات أعلاه"
+
+#: View/Elements/Modals/contribution_flag_modal.ctp:19
+#: View/Elements/Modals/feedback_modal.ctp:22 View/Elements/Tasks/colour.ctp:93
+msgid "Submit"
+msgstr "إرسال"
+
+#: View/Elements/Modals/download_modal.ctp:12
+msgid "Download"
+msgstr "تحميل"
+
+#: View/Elements/Modals/download_modal.ctp:14
+msgid ""
+"This app has been successfully supported and designed by the community and is "
+"now available on the app stores."
+msgstr "تم دعم وتصميم هذا التطبيق بنجاح وهو متوفر الآن في متجر التطبيقات."
+
+#: View/Elements/Modals/download_modal.ctp:16
+msgid "Please click one of the buttons below to download this app for free."
+msgstr "الرجاء الضغط على أحد الأزرار أدناه لتحميل هذا التطبيق مجانا."
+
+#: View/Elements/Modals/feedback_modal.ctp:9
+msgid "Submit Feedback"
+msgstr "إرسال ملاحظات"
+
+#: View/Elements/Modals/feedback_modal.ctp:11
+msgid ""
+"Got some feedback for us? Is something not working? We’d love to hear your "
+"suggestions. Please leave us a message in the box below."
+msgstr ""
+"لديك ملاحظات لنا؟ أي شيء لا يعمل؟ نرغب بسماع إقتراحاتكم. الرجاء ترك رسالة "
+"أدناه."
+
+#: View/Elements/Modals/feedback_modal.ctp:17
+msgid "Enter your comment here"
+msgstr "أدخل تعليقك هنا"
+
+#: View/Elements/Modals/promote_modal.ctp:10
+msgid "Start promoting this movement"
+msgstr "إبدأ الترويج لهذه الحركة"
+
+#: View/Elements/Modals/promote_modal.ctp:12
+msgid ""
+"Share the link below anywhere you like to start promoting this app movement "
+"and earning influence for the design phase!"
+msgstr ""
+"شارك الرابط أدناه في أي مكان تريد للاعلان عن حركة التطبيق هذه وكسب الدعم "
+"لمرحلة التصميم!"
+
+#: View/Elements/Modals/promote_modal.ctp:27 View/Movements/start.ctp:231;251
+msgid "Done"
+msgstr "تم"
+
+#: View/Elements/Modals/support_modal.ctp:9;36
+msgid "Confirm Support"
+msgstr "تأكيد الدعم"
+
+#: View/Elements/Modals/support_modal.ctp:10
+msgid ""
+"Supporting %s's idea simply involves clicking the support button below. You "
+"can also help design the app after the movement reaches its target."
+msgstr ""
+"يمكنك دعم فكرة %s بالضغط على زر الدعم أدناه. ويمكنك المساعدة في تصميم التطبيق "
+"بعد أن تصل حركة التطبيق الى هدفها."
+
+#: View/Elements/Modals/support_modal.ctp:14
+msgid "Stay up to date"
+msgstr "إبقى على إطلاع"
+
+#: View/Elements/Modals/support_modal.ctp:15
+msgid "Receive email notifications with progress updates."
+msgstr "تلقي تنبيهات بالبريد الإلكتروني عن التحديثات."
+
+#: View/Elements/Modals/support_modal.ctp:19
+msgid "Get access to the design area"
+msgstr "الحصول على صلاحية الدخول الى منطقة التصميم"
+
+#: View/Elements/Modals/support_modal.ctp:20
+msgid "Submit ideas and vote on other people's suggestions."
+msgstr "تقديم الأفكار والتصويت على إقتراحات الآخرين."
+
+#: View/Elements/Modals/support_modal.ctp:24
+msgid "Download the app for free"
+msgstr "تحميل التطبيق مجاناً"
+
+#: View/Elements/Modals/support_modal.ctp:25
+msgid "Once it has been designed by the community and generated by us."
+msgstr "عندما يتم تصميمه من قبل المجموعة وإنشائه من قبلنا."
+
+#: View/Elements/Movements/action_button.ctp:15;34;61;68
+msgid "Support Idea"
+msgstr "إدعم الفكرة"
+
+#: View/Elements/Movements/action_button.ctp:28;36
+msgid "Help Design"
+msgstr "ساعد بالتصميم"
+
+#: View/Elements/Movements/action_button.ctp:45;76
+msgid "View Progress"
+msgstr "عرض التقدّم"
+
+#: View/Elements/Movements/action_button.ctp:52;83 View/Movements/launch.ctp:70
+msgid "Download App"
+msgstr "تحميل التطبيق"
+
+#: View/Elements/Movements/notification_banner.ctp:27
+msgid "Movement was unsuccessful"
+msgstr "فشلت الحركة"
+
+#: View/Elements/Movements/sidebar.ctp:12
+msgid "Movement Creator"
+msgstr "مُنشئ الحركة"
+
+#: View/Elements/Movements/sidebar.ctp:20
+msgid "Supporters"
+msgstr "المؤيدون"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporter"
+msgstr "مؤيد"
+
+#: View/Elements/Movements/sidebar.ctp:23;24
+msgid "supporters"
+msgstr "المؤيدون"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "day to go"
+msgstr "يوم متبقي"
+
+#: View/Elements/Movements/sidebar.ctp:35;36;41;42
+msgid "days to go"
+msgstr "أيام متبقية"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "day launching"
+msgstr "يوم للإطلاق"
+
+#: View/Elements/Movements/sidebar.ctp:47;48
+msgid "days launching"
+msgstr "أيام للإطلاق"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "person shared"
+msgstr "شخص شارك"
+
+#: View/Elements/Movements/sidebar.ctp:90;91
+msgid "people shared"
+msgstr "أشخاص شاركوا"
+
+#: View/Elements/Movements/sidebar.ctp:114
+msgid "This Movement has been fully supported!"
+msgstr "تم دعم هذه الحركة بشكل تام!"
+
+#: View/Elements/Movements/sidebar.ctp:122
+msgid "more supporters to hit the target."
+msgstr "المزيد من المؤيدين للوصول الى الهدف."
+
+#: View/Elements/Movements/sidebar.ctp:134
+msgid "Movements with 5 or more supporters cannot be edited."
+msgstr "الحركات التي تم تأييدها من قبل ٥ مؤيدين أو أكثر لا يمكن تعديلها."
+
+#: View/Elements/Movements/sidebar.ctp:144
+msgid ""
+"This movement did not gather enough support to progress to the design phase."
+msgstr "هذه الحركة لم تحصل على الدعم الكافي للإنتقال الى مرحلة التصميم."
+
+#: View/Elements/Movements/sidebar.ctp:153 View/Movements/view.ctp:164
+msgid "Post Update"
+msgstr "إنشر التحديث"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:13
+#: View/Elements/Stream/build_phase_complete.ctp:10
+msgid "Congratulations! Your App is Now Available!"
+msgstr "تهانينا! التطبيق الخاص بك متاح الآن!"
+
+#: View/Elements/Notifications/build_phase_complete.ctp:15
+msgid ""
+"%s has now been fully designed by the %s supporting members of the community "
+"and has been generated! Click below to download the app."
+msgstr ""
+"إكتمل تصميم %s من قبل %s من المؤيدين للحركة وتم بناء التطبيق. أنقر أدناه "
+"لتحميل التطبيق."
+
+#: View/Elements/Notifications/created_movement.ctp:11
+#: View/Elements/Stream/created_movement.ctp:11
+msgid "You started a Movement"
+msgstr "لقد بدأت حركة"
+
+#: View/Elements/Notifications/created_movement.ctp:13
+msgid ""
+"You have successfully created your movement - %s - and it is now visible to "
+"the public. It is now up to you to gather <strong>%s people</strong> in the "
+"next <strong>%s days.</strong>"
+msgstr ""
+"لقد أنشأت حركتك بنجاح - %s - وهي الآن ظاهرة للجميع. تحتاج الآن لجمع %s من "
+"المؤيدين خلال ال %s يوما المقبلة."
+
+#: View/Elements/Notifications/design_phase_complete.ctp:8
+#: View/Elements/Stream/design_phase_complete.ctp:8
+#: View/Emails/html/design_phase_complete.ctp:21 View/Tasks/landing.ctp:38
+#: View/Tasks/view.ctp:43
+msgid "Design Phase Complete"
+msgstr "مرحلة التصميم إكتملت"
+
+#: View/Elements/Notifications/design_phase_complete.ctp:10
+msgid "%s has now completed the design phase."
+msgstr "تطبيق %s قد أكمل مرحلة التصميم."
+
+#: View/Elements/Notifications/design_phase_complete.ctp:12
+#: View/Emails/html/design_phase_complete.ctp:34
+msgid ""
+"The next stage for your Movement is the launch phase where we will generate "
+"your app based on the results from the design process. We will submit it to "
+"the app store and notify you and other supporters when it is ready to "
+"download. You can track the progress of the app through the various stages of "
+"its launch by clicking the link below."
+msgstr ""
+"المرحلة المقبلة لحركتك هي مرحلة الإطلاق حيث إننا سوف نبني التطبيق إستنادا إلى "
+"نتائج مرحلة التصميم وسنقوم بإرساله إلى متجر التطبيقات ونبلغك والمؤيدين الآخرين "
+"عندما يكون جاهزا للتحميل. يمكنك تتبع التقدم المحرز لهذا التطبيق خلال المراحل "
+"المختلفة لإطلاقه بالضغط على الرابط أدناه."
+
+#: View/Elements/Notifications/movement_failed.ctp:13
+msgid "Movement was Unsuccessful"
+msgstr "فشلت الحركة"
+
+#: View/Elements/Notifications/movement_failed.ctp:15
+msgid ""
+"<strong>%s people</strong> supported the idea of creating an app for %s. "
+"Unfortunately this time you missed our target of %s and will not be taken "
+"forward into the design phase."
+msgstr ""
+"‏%s شخص يؤيد فكرة إنشاء تطبيق %s . لسوء الحظ هذه المرة لم تحقق هدف جمع %s مؤيداً "
+"ولن تنتقل الى مرحلة التصميم."
+
+#: View/Elements/Notifications/movement_update.ctp:13
+#: View/Elements/Notifications/new_promoters.ctp:12
+#: View/Elements/Notifications/new_supporters.ctp:12
+#: View/Elements/Stream/new_promoters.ctp:12
+#: View/Elements/Stream/new_supporters.ctp:12
+msgid "%s days"
+msgstr "%s أيام"
+
+#: View/Elements/Notifications/movement_update.ctp:15
+#: View/Emails/html/movement_update.ctp:24;38
+msgid "%s has posted an update"
+msgstr "‏%s قد نشر تحديثا"
+
+#: View/Elements/Notifications/new_promoters.ctp:14
+msgid " Shared Movement"
+msgstr " شاركو الحركة"
+
+#: View/Elements/Notifications/new_supporters.ctp:14
+msgid " New Supporters"
+msgstr " مؤيدون جدد"
+
+#: View/Elements/Notifications/no_activity.ctp:11
+#: View/Elements/Stream/no_activity.ctp:11
+msgid "Keep Sharing!"
+msgstr "أستمر بالمشاركة!"
+
+#: View/Elements/Notifications/no_activity.ctp:13
+#: View/Elements/Stream/no_activity.ctp:13
+msgid ""
+"It is really important that you continue to share this Movement in order to "
+"reach the goal of %s supporters!"
+msgstr "من المهم حقا أن تستمر بمشاركة هذه الحركة من أجل الوصول إلى هدف %s مؤيداً!"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:9
+#: View/Elements/Stream/support_phase_complete.ctp:9
+msgid "Movement Supported"
+msgstr "تم دعم الحركة"
+
+#: View/Elements/Notifications/support_phase_complete.ctp:11
+#: View/Elements/Stream/support_phase_complete.ctp:11
+msgid ""
+"Congratulaions! %s has gathered over <strong>%s supporters.</strong> You can "
+"now access the <strong>design phase</strong> where you can contribute and vote "
+"on ideas. Click below to get started."
+msgstr ""
+"تهانينا! فكرة %s قد جمعت %s مؤيداً. يمكنك الآن البدء بمرحلة التصميم حيث يمكنك "
+"إعطاء اقتراحاتك او التصويت على أفكار الآخرين. اضغط أدناه لتبدأ."
+
+#: View/Elements/Notifications/support_phase_complete.ctp:14
+#: View/Elements/Stream/support_phase_complete.ctp:14
+msgid "View Design Phase"
+msgstr "عرض مرحلة التصميم"
+
+#: View/Elements/Notifications/supported_movement.ctp:11
+msgid "You supported a Movement"
+msgstr "لقد دعمت حركة"
+
+#: View/Elements/Notifications/supported_movement.ctp:13
+msgid ""
+"You have supported %s. It is now up to you to gather <strong>%s people</"
+"strong> in the next <strong>%s days</strong>."
+msgstr "لقد دعمت %s . وبمساعدتك نحتاج لجمع %s مؤيد في الايام ال%s المقبلة ."
+
+#: View/Elements/Notifications/supported_movement.ctp:15
+#: View/Emails/html/created_movement.ctp:34
+#: View/Emails/html/movement_failed.ctp:35
+#: View/Emails/html/support_phase_complete.ctp:34
+msgid "What happens next?"
+msgstr "ماذا سيحدث بعد ذلك؟"
+
+#: View/Elements/Notifications/supported_movement.ctp:17
+msgid ""
+"You will <strong>receive updates</strong> about the progress of this movement "
+"via email. If the Movement is successful you will be exclusively invited to "
+"the design phase where you can help shape the design of the app."
+msgstr ""
+"سوف تتلقى تحديثات حول التقدم المحرز في هذه الحركة عبر البريد الإلكتروني. إذا "
+"كانت الحركة ناجحة ستتم دعوتك لمرحلة التصميم حيث يمكنك المشاركة في تصميم "
+"التطبيق."
+
+#: View/Elements/Notifications/supported_movement.ctp:19
+msgid "Take a look at our %s section for more"
+msgstr "لمزيد من المعلومات إطلع على %s"
+
+#: View/Elements/Notifications/welcome.ctp:3 View/Elements/Stream/welcome.ctp:3
+msgid "Welcome to App Movement"
+msgstr "مرحبا بكم في App Movement"
+
+#: View/Elements/Notifications/welcome.ctp:5
+msgid ""
+"Welcome to your dashboard, from here you can manage your profile and receive "
+"updates on the movements you start as well as those that you show an interest "
+"in. Be sure to check back regularly to keep up to date."
+msgstr ""
+"مرحبا بكم في لوحة المعلومات، من هنا يمكنك إدارة ملفك الشخصي، والحصول على "
+"التحديثات عن الحركات الخاصة بك او التي دعمتها. استمر بزيارة هذه الصفحة للحصول "
+"على آخر التحديثات."
+
+#: View/Elements/Notifications/welcome.ctp:7 View/Elements/Stream/welcome.ctp:7
+msgid "All the best, Our Team."
+msgstr "مع تمنياتنا بالتوفيق، فريق العمل."
+
+#: View/Elements/Stream/build_phase_complete.ctp:12
+msgid ""
+"%s has now been fully designed by the supporting members of the community and "
+"has been generated! Click below to download the app."
+msgstr ""
+"اكتمل تصميم %s من قبل %s من المؤيدين للحركة وتم بناء التطبيق. أنقر أدناه "
+"لتحميل التطبيق."
+
+#: View/Elements/Stream/build_phase_complete.ctp:15
+#: View/Elements/Stream/design_phase_complete.ctp:13
+msgid "View Launch Phase"
+msgstr "عرض مرحلة الإطلاق"
+
+#: View/Elements/Stream/created_movement.ctp:13
+msgid ""
+"You have successfully created your movement - '%s' - and is now visible to the "
+"public. It is now up to you to gather <strong>%s people</strong> in the next "
+"<strong>%s days.</strong>"
+msgstr ""
+"لقد أنشأت حركتك بنجاح - %s - وهي الآن ظاهرة للجميع. تحتاج لجمع %s من المؤيدين "
+"خلال %s أيام المقبلة."
+
+#: View/Elements/Stream/design_phase_complete.ctp:10
+msgid ""
+"%s has now completed the design phase. The next stage for your Movement is the "
+"launch phase where we will generate your app based on the results from the "
+"design process. We will submit it to the app store and notify you and other "
+"supporters when it is ready to download. You can track the progress of the app "
+"through the various stages of its launch by clicking the link below."
+msgstr ""
+"اكتمل تصميم %s. المرحلة المقبلة لحركتك هي مرحلة الإطلاق حيث سيتم بناء التطبيق "
+"الخاص بك إستنادا إلى نتائج عملية التصميم. وسوف يقدم هذا التطبيق إلى متجر "
+"التطبيقات و سيتم ابلاغك و جميع المؤيدين الآخرين عندما يكون جاهزا للتحميل. "
+"يمكنك متابعة تقدم التطبيق خلال المراحل المختلفة من إطلاقه بالنقر على الرابط "
+"أدناه."
+
+#: View/Elements/Stream/movement_failed.ctp:13
+msgid "Your Movement was unsuccessful"
+msgstr "فشلت الحركة"
+
+#: View/Elements/Stream/movement_failed.ctp:15
+msgid ""
+"<strong>%s people</strong> supported the idea of creating an app for %s. "
+"Unfortunately this time you missed our target of and will not be taken forward "
+"into the design phase."
+msgstr ""
+"‏%s شخص يؤيد فكرة إنشاء تطبيق %s . لسوء الحظ هذه المرة لم تحقق هدف جمع %s مؤيدا "
+"ولن تنتقل الى مرحلة التصميم."
+
+#: View/Elements/Stream/new_promoters.ctp:14
+msgid "%s</span> Shared Movement</span>"
+msgstr "شاركو الحركة"
+
+#: View/Elements/Stream/new_supporters.ctp:14
+msgid "%s</span> New Supporters</span>"
+msgstr "‏%s مؤيدين جدد"
+
+#: View/Elements/Stream/welcome.ctp:5
+msgid ""
+"Visit your dashboard to manage your profile and receive updates on the "
+"movements you start as well as those that you show an interest in. Be sure to "
+"check back regularly to keep up to date."
+msgstr ""
+"قم بزيارة لوحة التحكم لإدارة ملفك الشخصي والحصول على تحديثات الحركات التي "
+"بدأتها او أيدتها. قم بزيارة الصفحة بشكل متكرر للبقاء على إطلاع. "
+
+#: View/Elements/Tasks/colour.ctp:47 View/Elements/Tasks/logo.ctp:26
+#: View/Elements/Tasks/name.ctp:29 View/Elements/Tasks/options.ctp:41
+msgid "Suggest %s"
+msgstr "إقترح %s"
+
+#: View/Elements/Tasks/logo.ctp:39 View/Elements/Tasks/name.ctp:43
+#: View/Elements/Tasks/options.ctp:61
+msgid "Submit Idea"
+msgstr "تقديم فكرة"
+
+#: View/Elements/Tasks/marker.ctp:13
+msgid "Preview colour"
+msgstr "معاينة اللون"
+
+#: View/Elements/Tasks/name.ctp:36 View/Elements/Tasks/options.ctp:51
+msgid "Enter %s"
+msgstr "أدخل %s"
+
+#: View/Elements/Updates/movement_update.ctp:58
+msgid "Update shared"
+msgstr "تم مشاركة التحديث"
+
+#: View/Emails/html/build_phase_complete.ctp:26
+msgid "%s is now available to download!"
+msgstr "‏%s متاح للتحميل"
+
+#: View/Emails/html/build_phase_complete.ctp:30
+msgid ""
+"After gathering support and design input from %s people %s is now available to "
+"be downloaded from the app store."
+msgstr ""
+"بعد جمع الدعم وتفاصيل التصميم من %s شخص، %s متاح الآن للتحميل من خلال متجر "
+"التطبيقات."
+
+#: View/Emails/html/build_phase_complete.ctp:38
+msgid "Congratulations, you have an app you can share with the world!"
+msgstr "تهانينا، لديك الآن تطبيق يمكنك مشاركته مع الجميع!"
+
+#: View/Emails/html/build_phase_complete.ctp:40
+msgid ""
+"<strong>Download the app now</strong> and start contributing your knowledge "
+"about the best places nearby, the success of the app depends on it. Your "
+"actions in these early days will make sure the app is successful, so it is "
+"very important that you add the best places nearby and leave reviews."
+msgstr ""
+"‏<strong> حمّل التطبيق الآن </ strong> وابدأ بمشاركة معلوماتك. يعتمد نجاح "
+"التطبيق خلال هذه الفترة على إضافتك للمزيد عن أفضل الأماكن القريبة التي تعرفها "
+"وترك تعليقات عنها وعن الأماكن التي إقترحها آخرون."
+
+#: View/Emails/html/build_phase_complete.ctp:43
+msgid ""
+"<strong>It's up to you to add places and leave reviews</strong> to encourage "
+"others to download the app and contribute to the community."
+msgstr ""
+"الأمر متروك لك الآن لإضافة أماكن جديدة وترك تعليقات لتشجيع الآخرين على تحميل "
+"التطبيق والمشاركة ايضا."
+
+#: View/Emails/html/build_phase_complete.ctp:45
+msgid "Download your app by clicking below"
+msgstr "حمّل تطبيقك بالضغط أدناه"
+
+#: View/Emails/html/build_phase_complete.ctp:57
+msgid "Thank You!"
+msgstr "شكرا لك!"
+
+#: View/Emails/html/build_phase_complete.ctp:59
+msgid ""
+"Without you this app would never have been made so we would like to say thank "
+"you for contributing your time and efforts in supporting the idea, "
+"contributing your thoughts and sharing it with friends."
+msgstr ""
+"بدون مساهماتكم لن نتمكن من بناء هذا التطبيق، لذلك نود أن نشكركم للمساهمة "
+"بوقتكم ومجهوداتكم لدعم الفكرة ومشاركتها مع الأصدقاء."
+
+#: View/Emails/html/build_phase_complete.ctp:62 View/Pages/contact.ctp:68
+msgid "App Movement Team"
+msgstr "فريق App Movement"
+
+#: View/Emails/html/build_phase_complete.ctp:68
+#: View/Emails/html/created_movement.ctp:46
+#: View/Emails/html/design_phase_complete.ctp:43
+#: View/Emails/html/invite_user_to_movement.ctp:52
+#: View/Emails/html/movement_failed.ctp:47
+#: View/Emails/html/movement_update.ctp:47 View/Emails/html/reset.ctp:39
+#: View/Emails/html/support_phase_complete.ctp:48
+#: View/Emails/html/supported_movement.ctp:44
+msgid "View this email in another language"
+msgstr ""
+
+#: View/Emails/html/build_phase_complete.ctp:72
+#: View/Emails/html/created_movement.ctp:50
+#: View/Emails/html/design_phase_complete.ctp:47
+#: View/Emails/html/invite_user_to_movement.ctp:56
+#: View/Emails/html/movement_failed.ctp:51
+#: View/Emails/html/movement_update.ctp:51 View/Emails/html/reset.ctp:43
+#: View/Emails/html/support_phase_complete.ctp:52
+#: View/Emails/html/supported_movement.ctp:48
+#: View/Layouts/Emails/html/grouped_notification.ctp:55
+msgid "Find out more at %s"
+msgstr "احصل على المزيد من %s"
+
+#: View/Emails/html/build_phase_complete.ctp:76
+#: View/Emails/html/created_movement.ctp:54
+#: View/Emails/html/design_phase_complete.ctp:51
+#: View/Emails/html/invite_user_to_movement.ctp:60
+#: View/Emails/html/movement_failed.ctp:55
+#: View/Emails/html/movement_update.ctp:55 View/Emails/html/reset.ctp:47
+#: View/Emails/html/support_phase_complete.ctp:56
+#: View/Emails/html/supported_movement.ctp:52
+#: View/Layouts/Emails/html/grouped_notification.ctp:59
+msgid "%s to change your notification settings"
+msgstr "‏%s لتغيير إعدادات التنبيهات"
+
+#: View/Emails/html/created_movement.ctp:22
+msgid "You Started a Movement"
+msgstr "لقد بدأت حركة جديدة"
+
+#: View/Emails/html/created_movement.ctp:26
+msgid "You have started a Movement for %s"
+msgstr "لقد بدأت حركة %s "
+
+#: View/Emails/html/created_movement.ctp:36
+msgid ""
+"Your Movement is now in the support phase. This is a %s day period that gives "
+"you time to promote your idea to friends, family members and your community. "
+"In order for your Movement to be a success you need to reach a target of %s "
+"supporters. If you reach this target you will move into the design phase and "
+"your app will be built! Remeber it is vital that you share your idea with "
+"others."
+msgstr ""
+"حركتك الآن في مرحلة الدعم. هذه المرحلة تتضمن %s يوم لمنحك الوقت الكافي للإعلان "
+"عنها للأصدقاء والأسرة والمجتمع. لنجاح هذه الحركة تحتاج إلى تأييد %s شخص. وعند "
+"تحقيق ذلك ستنتقل إلى مرحلة التصميم وسيتم بناء التطبيق الخاص بك! تذكر أن تشارك "
+"فكرتك مع الجميع."
+
+#: View/Emails/html/created_movement.ctp:38
+#: View/Emails/html/design_phase_complete.ctp:38
+#: View/Emails/html/supported_movement.ctp:38
+msgid "Visit our %s for more information."
+msgstr "لمزيد من المعلومات إطلع على %s"
+
+#: View/Emails/html/created_movement.ctp:38
+#: View/Emails/html/design_phase_complete.ctp:38
+#: View/Emails/html/supported_movement.ctp:38 View/Pages/faq.ctp:9
+msgid "Frequently Asked Questions"
+msgstr "الأسئلة المتكررة"
+
+#: View/Emails/html/created_movement.ctp:40
+#: View/Emails/html/movement_update.ctp:42
+msgid "View Movement"
+msgstr "عرض الحركة"
+
+#: View/Emails/html/design_phase_complete.ctp:25
+msgid "%s has now completed the Design Phase."
+msgstr "تطبيق %s قد أكمل مرحلة التصميم."
+
+#: View/Emails/html/design_phase_complete.ctp:33
+#: View/Emails/html/supported_movement.ctp:32
+msgid "Next steps..."
+msgstr "الخطوات التالية"
+
+#: View/Emails/html/design_phase_complete.ctp:36
+msgid "View launch status"
+msgstr "عرض مرحلة الإطلاق"
+
+#: View/Emails/html/invite_user_to_movement.ctp:20
+msgid "Support Your Friend"
+msgstr "إدعم صديق"
+
+#: View/Emails/html/invite_user_to_movement.ctp:24
+msgid ""
+"Hey %s, your friend %s is trying to gain support for an idea for a new mobile "
+"app."
+msgstr "مرحباً %s، صديقك %s يحاول كسب التأييد لفكرة تطبيق جديدللمحمول."
+
+#: View/Emails/html/invite_user_to_movement.ctp:34
+msgid ""
+"%s has chosen you amongst a handful of other people to support their Movement "
+"and help share their idea with others."
+msgstr "اختارك %s لدعم حركتة والمساعدة بنشر فكرته مع الجميع."
+
+#: View/Emails/html/invite_user_to_movement.ctp:38
+msgid "You can help %s out by clicking the link below to support their Movement:"
+msgstr "هل يمكنك أن تساعد %s من خلال النقر على الرابط أدناه لدعم حركته:"
+
+#: View/Emails/html/invite_user_to_movement.ctp:42
+msgid ""
+"If %s's idea gains enough support then yourself and other supporters will be "
+"able to help design the app. Pretty awesome eh?"
+msgstr ""
+"إذا كسبت فكرة %s الدعم الكافي فستتمكن انت والمؤيدين الآخرين من المشاركة في "
+"تصميم التطبيق. رائع اليس كذلك؟"
+
+#: View/Emails/html/invite_user_to_movement.ctp:44
+msgid "Do you have a great idea for an app?"
+msgstr "هل لديك فكرة مذهلة لتطبيق جديد؟"
+
+#: View/Emails/html/invite_user_to_movement.ctp:46
+msgid "Start your Movement"
+msgstr "إبدأ حركتك"
+
+#: View/Emails/html/movement_failed.ctp:23
+msgid "Movement Unsuccessful"
+msgstr "فشلت الحركة"
+
+#: View/Emails/html/movement_failed.ctp:27
+msgid "The movement for %s was unsuccessful."
+msgstr "فشلت حركة %s"
+
+#: View/Emails/html/movement_failed.ctp:37
+msgid ""
+"You managed to gather <b>%s</b> people to support the idea of creating an app "
+"for %s. Unfortunately this time the movement missed our target of %s and will "
+"not be taken forward into the design phase."
+msgstr ""
+"لقد تمكنت من جمع %s مؤيد لدعم فكرة إنشاء التطبيق %s. لسوء الحظ هذه الحركة لم "
+"تحقق هدف جمع %s مؤيد ولن تنتقل الى مرحلة التصميم."
+
+#: View/Emails/html/movement_failed.ctp:39
+msgid ""
+"Got another idea? Why not start a new movement by clicking the link below?"
+msgstr "لديك فكرة أخرى؟ لماذا لا تبدأ حركة جديدة بالضغط على الرابط أدناه؟"
+
+#: View/Emails/html/movement_update.ctp:28
+msgid "You have received an update for your movement - %s"
+msgstr "لقد تلقيت تحديثا لحركتك %s"
+
+#: View/Emails/html/reset.ctp:18;33 View/Users/reset.ctp:10;35
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: View/Emails/html/reset.ctp:22
+msgid "You have requested to reset your %s password"
+msgstr "لقد طلبت إعادة تعيين كلمة المرور الخاصة ب %s"
+
+#: View/Emails/html/reset.ctp:31
+msgid ""
+"In order to reset your password please click the following link and follow the "
+"instructions."
+msgstr ""
+"من أجل إعادة تعيين كلمة المرور الخاصة بك، الرجاء الضغط على الرابط أدناه وإتباع "
+"التعليمات."
+
+#: View/Emails/html/support_phase_complete.ctp:22
+msgid "Support Phase Complete"
+msgstr "مرحلة الدعم إكتملت"
+
+#: View/Emails/html/support_phase_complete.ctp:26
+msgid ""
+"Over <strong>%s</strong> people have supported the idea of creating an app for "
+"%s"
+msgstr "أكثر من %s شخص قام بتأييد فكرة إنشاء التطبيق %s"
+
+#: View/Emails/html/support_phase_complete.ctp:36
+msgid ""
+"Your Movement will now move into the design phase. This is an area where "
+"yourself and other supporters complete a series of design tasks to help decide "
+"what the final app will be like."
+msgstr ""
+"الحركة الخاصة بك ستنتقل الآن إلى مرحلة التصميم حيث ستتمكن انت والمؤيدين "
+"الآخرين من إكمال مهام التصميم للمساعدة في تحديد الشكل النهائي للتطبيق."
+
+#: View/Emails/html/support_phase_complete.ctp:38
+msgid ""
+"It is really import to engage with other supporters of the app to ensure the "
+"app we build for you is perfect!"
+msgstr ""
+"من المهم جداً العمل مع المؤيدين الآخرين لضمان بناء التطبيق بالشكل المطلوب!"
+
+#: View/Emails/html/support_phase_complete.ctp:40
+msgid "Get started with the design process now by clicking the following link."
+msgstr "ابدأ عملية التصميم الآن بالنقر على الرابط التالي."
+
+#: View/Emails/html/support_phase_complete.ctp:42
+msgid "Help Design App"
+msgstr "شارك بتصميم التطبيق"
+
+#: View/Emails/html/supported_movement.ctp:20
+msgid "You Supported a Movement"
+msgstr "لقد دعمت حركة"
+
+#: View/Emails/html/supported_movement.ctp:24
+msgid "You have successfully supported the App Movement for %s"
+msgstr "لقد دعمت بنجاح حركة تطبيق %s"
+
+#: View/Emails/html/supported_movement.ctp:34
+msgid ""
+"The Movement needs at least %s people to reach its support target. By sharing "
+"the Movement page on social networks you are increasing the chances of its "
+"success. If the Movement reaches its target then yourself and other supporters "
+"will be exclusively invited to the design phase where you can share ideas and "
+"vote on the best features/contributions for the app."
+msgstr ""
+"تحتاج الحركة الى %s شخص على الأقل للوصول إلى الهدف المطلوب. من خلال مشاركة "
+"صفحة الحركة على شبكات التواصل الاجتماعي ستزيد من فرص نجاحها. عندما تحقق الحركة "
+"هدفها ستتم دعوتك وغيرك من المؤيدين لمرحلة التصميم حيث يمكنك تبادل الأفكار "
+"والتصويت على أفضل الميزات/المساهمات لوضعها في التطبيق."
+
+#: View/Emails/html/supported_movement.ctp:36
+msgid ""
+"Once the design phase is complete the app will be automatically generated and "
+"available to download for free!"
+msgstr "عند انتهاء مرحلة التصميم سيتم إنشاء التطبيق تلقائيا ويتاح للتحميل مجانا!"
+
+#: View/Errors/error400.ctp:10 View/Errors/error500.ctp:10
+#: View/Errors/missing_controller.ctp:10
+msgid "Error"
+msgstr "خطأ"
+
+#: View/Errors/error400.ctp:18 View/Errors/error500.ctp:18
+#: View/Errors/missing_controller.ctp:18
+#: View/Users/admin.ctp:268;269;270;271;292;316;317
+msgid "Something went wrong!"
+msgstr "حدث خطأ ما!"
+
+#: View/Errors/error400.ctp:19 View/Errors/error500.ctp:19
+#: View/Errors/missing_controller.ctp:19
+msgid "We couldn't find what you were looking for!"
+msgstr "لم نستطع العثور على ما تبحث عنه!"
+
+#: View/Errors/error400.ctp:23 View/Errors/error500.ctp:23
+#: View/Errors/missing_controller.ctp:23
+msgid "Take me home"
+msgstr "الى الصفحة الرئيسية"
+
+#: View/Generate/marker_maker.ctp:41
+msgid "Generate Random Pin"
+msgstr "إختيار دبوس بطريقة عشوائية"
+
+#: View/Generate/geolocation/listing.ctp:1
+msgid "%s was designed by an engaged community on the App Movement website."
+msgstr "‏%s تم تصميمه من بشكل جماعي من المساهمين في موقع App Movement ."
+
+#: View/Generate/geolocation/listing.ctp:3
+msgid ""
+"It provides a simple and convenient way to discover places and leave reviews. "
+"Helping you to rate places by the following important categories:"
+msgstr ""
+"وهو يوفر وسيلة بسيطة ومريحة لاكتشاف الأماكن وترك ملاحظات. مما يساعدك على تقييم "
+"الأماكن حسب الفئات الهامة التالية:"
+
+#: View/Generate/geolocation/listing.ctp:14
+msgid "Please visit appmovement.com to start your movement today."
+msgstr "يرجى زيارة appmovement.com لبدء حركتك اليوم."
+
+#: View/Layouts/default.ctp:30 View/Layouts/stripped.ctp:30
+#: View/Layouts/Emails/html/view_main_notification.ctp:32
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile app. No "
+"expertise are required just a touch of determination and a great idea!"
+msgstr ""
+"‏App Movement يمكن أي شخص من أن يقترح و يصمم و يطوير التطبيقات للاجهزة "
+"المحمولة. ليس هناك حاجة لخبرة مسبقة، المطلوب فقط الإرادة وفكرة جديدة!"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "community"
+msgstr "مجموعة"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "crowd commissioning"
+msgstr "التكليف الجماعي"
+
+#: View/Layouts/default.ctp:31 View/Layouts/stripped.ctp:31
+#: View/Layouts/Emails/html/view_main_notification.ctp:33
+msgid "crowd sourcing"
+msgstr "التطوع الجماعي"
+
+#: View/Layouts/default.ctp:142
+msgid "Feedback"
+msgstr "ملاحظات"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:25
+msgid "Movement Updates"
+msgstr "تحديثات الحركة"
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:29
+msgid "Here are the latest updates for the movements you currently support."
+msgstr "هذه هي آخر التحديثات للحركات التي تدعمها حاليا."
+
+#: View/Layouts/Emails/html/grouped_notification.ctp:55
+msgid "app-movement.com"
+msgstr "‏app-movement.com"
+
+#: View/Mobile/about.ctp:29
+msgid "This app allows anyone to rate and review locations on the map."
+msgstr "هذا التطبيق يسمح لأي أحد بتقييم واستعراض المواقع على الخريطة."
+
+#: View/Mobile/about.ctp:31
+msgid "Anyone can share a review and post an image for others to see."
+msgstr "يمكن لأي شخص أن يشارك في التعليق ونشر الصور ليراها الآخرون."
+
+#: View/Mobile/about.ctp:33
+msgid "You can view your reviews on your profile page."
+msgstr "يمكنك أستعراض تعليقاتك على صفحة ملفك الشخصي."
+
+#: View/Movements/edit.ctp:31 View/Movements/start.ctp:66
+msgid "Title"
+msgstr "العنوان"
+
+#: View/Movements/edit.ctp:34 View/Movements/start.ctp:69
+msgid "Movement Title"
+msgstr "عنوان الحركة"
+
+#: View/Movements/edit.ctp:37 View/Movements/start.ctp:72
+msgid "Give your movement a clear and catchy title."
+msgstr "إعط حركتك عنوان واضح وجذاب."
+
+#: View/Movements/edit.ctp:43 View/Movements/start.ctp:78
+msgid "Short Description"
+msgstr "وصف قصير"
+
+#: View/Movements/edit.ctp:46
+msgid "Movement Description"
+msgstr "وصف الحركة"
+
+#: View/Movements/edit.ctp:49 View/Movements/start.ctp:84
+msgid "A short summary of the movement that will be visible across the site."
+msgstr "ملخص قصير للحركة سيكون متوفر للجميع على الموقع."
+
+#: View/Movements/edit.ctp:55 View/Movements/start.ctp:90
+#: View/Users/display_users.ctp:33
+msgid "Photo"
+msgstr "صورة"
+
+#: View/Movements/edit.ctp:61;204;222 View/Movements/start.ctp:96;344;362
+msgid "Choose Photo"
+msgstr "إختيار صورة"
+
+#: View/Movements/edit.ctp:82 View/Movements/start.ctp:117
+msgid "A striking image that represents your movement."
+msgstr "صورة لافتة تمثل حركتك."
+
+#: View/Movements/edit.ctp:88 View/Movements/start.ctp:123
+msgid "Location"
+msgstr "موقع"
+
+#: View/Movements/edit.ctp:88;104 View/Movements/start.ctp:123;139
+msgid "Optional"
+msgstr "إختياري"
+
+#: View/Movements/edit.ctp:91 View/Movements/start.ctp:126
+msgid "Movement Location"
+msgstr "موقع الحركة"
+
+#: View/Movements/edit.ctp:94 View/Movements/start.ctp:129
+msgid "Provide the location of your movement."
+msgstr "حدد موقع لحركتك."
+
+#: View/Movements/edit.ctp:104;106 View/Movements/start.ctp:139
+msgid "Tags"
+msgstr "الوسوم (Tags)"
+
+#: View/Movements/edit.ctp:109 View/Movements/start.ctp:144
+msgid "Add some tags to your movement to help people discover it."
+msgstr "أضف بعض الوسوم (Tags) لحركتك لمساعدة الآخرين على إكتشافها."
+
+#: View/Movements/edit.ctp:117 View/Movements/overview.ctp:11
+#: View/Movements/start.ctp:152
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: View/Movements/edit.ctp:120 View/Movements/start.ctp:155
+msgid "A longer overview of your movement"
+msgstr "نظرة عامة مفصلة عن حركتك"
+
+#: View/Movements/edit.ctp:124
+msgid "Save Changes"
+msgstr "حفظ التغيرات"
+
+#: View/Movements/edit.ctp:150
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: View/Movements/edit.ctp:158 View/Movements/start.ctp:196
+msgid "Movement Preview"
+msgstr "معاينة الحركة"
+
+#: View/Movements/edit.ctp:172
+msgid "Delete Movement"
+msgstr "حذف الحركة"
+
+#: View/Movements/edit.ctp:200 View/Movements/start.ctp:340
+msgid "Failed"
+msgstr "فشل"
+
+#: View/Movements/edit.ctp:218 View/Movements/start.ctp:358
+msgid "Uploaded"
+msgstr "تم التحميل"
+
+#: View/Movements/edit.ctp:239 View/Movements/start.ctp:379
+msgid "Uploading"
+msgstr "تحميل"
+
+#: View/Movements/index.ctp:20
+msgid "Everything"
+msgstr "الكل"
+
+#: View/Movements/index.ctp:21
+msgid "Recent"
+msgstr "الأحدث"
+
+#: View/Movements/index.ctp:22
+msgid "Popular"
+msgstr "الاكثر شعبية"
+
+#: View/Movements/index.ctp:29
+msgid "Search Movements"
+msgstr "إبحث في الحركات"
+
+#: View/Movements/index.ctp:46 View/Movements/overview.ctp:33
+#: View/Pages/home.ctp:66
+msgid "No Movements Found"
+msgstr "لم يتم العثور علي أي حركات"
+
+#: View/Movements/index.ctp:46
+msgid "Please search again"
+msgstr "يرجى البحث من جديد"
+
+#: View/Movements/launch.ctp:9
+msgid "Building App"
+msgstr "جاري بناء التطبيق"
+
+#: View/Movements/launch.ctp:9
+msgid "Submitted to App Store"
+msgstr "تم ارسال التطبيق الى متجر التطبيقات"
+
+#: View/Movements/launch.ctp:9
+msgid "Awaiting Review"
+msgstr "بإنتظار التقييم"
+
+#: View/Movements/launch.ctp:9
+msgid "Review in Progress"
+msgstr "التقييم جاري حاليا"
+
+#: View/Movements/launch.ctp:9
+msgid "Processing for App Store"
+msgstr "ضبط الإعدادات للمتجر"
+
+#: View/Movements/launch.ctp:28
+msgid ""
+"This application has made it to the launch phase, don't worry we will take it "
+"from here."
+msgstr "هذا التطبيق وصل إلى مرحلة الإطلاق، و سنقوم بإدارته إعتبارا من الآن."
+
+#: View/Movements/launch.ctp:30
+msgid ""
+"Our engineers will use all of the communities contributions from the design "
+"phase to build a bespoke application."
+msgstr "مهندسينا سوف يستخدمون جميع المساهمات من مرحلة التصميم لبناء التطبيق."
+
+#: View/Movements/launch.ctp:32
+msgid ""
+"We will then release the application to the relevant App Stores and notify you "
+"when it is available to download."
+msgstr "سوف نضع التطبيق في متاجر التطبيقات ونبلغك عندما يكون متاحا للتحميل."
+
+#: View/Movements/launch.ctp:37
+msgid "View Contributions"
+msgstr "عرض المساهمات"
+
+#: View/Movements/launch.ctp:45
+msgid "App Status"
+msgstr "حالة التطبيق"
+
+#: View/Movements/onboarding.ctp:12
+msgid "Invite Some Friends"
+msgstr "دعوة بعض الأصدقاء"
+
+#: View/Movements/onboarding.ctp:122 View/Tasks/landing.ctp:60
+msgid "Congratulations"
+msgstr "تهانينا"
+
+#: View/Movements/onboarding.ctp:123
+msgid ""
+"It is important to gain as much support as possible for your movement. To get "
+"started why not tell some friends and get the ball rolling. Once this step is "
+"complete your movement will be available for the world to see!"
+msgstr ""
+"من المهم الحصول على أكبر عدد ممكن من المؤيدين لحركتك. بدايةً لماذا لا تخبر بعض "
+"الأصدقاء وتنشر الحركة. عند اكتمال حركتك ستكون متاحة للجميع!"
+
+#: View/Movements/onboarding.ctp:135;142;149
+msgid "Name"
+msgstr "الإسم"
+
+#: View/Movements/onboarding.ctp:136;143;150 View/Users/display_users.ctp:36
+#: View/Users/forgot.ctp:27
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: View/Movements/onboarding.ctp:158
+msgid "Skip"
+msgstr "تخطى"
+
+#: View/Movements/onboarding.ctp:169
+msgid "Continue"
+msgstr "إستمرار"
+
+#: View/Movements/overview.ctp:20
+msgid "All"
+msgstr "الكل"
+
+#: View/Movements/overview.ctp:33
+msgid "You have not started or supported any yet!"
+msgstr "لم تبدأ أو تدعم أي حركة بعد!"
+
+#: View/Movements/start.ctp:16
+msgid "Geolocation Review"
+msgstr "المواقع الجغرافية"
+
+#: View/Movements/start.ctp:16;51
+msgid "Social Network"
+msgstr "الشبكات الاجتماعية"
+
+#: View/Movements/start.ctp:16;52
+msgid "Information"
+msgstr "معلومات"
+
+#: View/Movements/start.ctp:16;53
+msgid "Events"
+msgstr "أحداث"
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A Geolocation Review app allows users to rate and review anything with a fixed "
+"location. An example might be a cafe, a public park or somewhere to lock your "
+"bicycle. Anyone can add new points of interest to the map and reviews on their "
+"own and other people's contributions."
+msgstr ""
+"تطبيق “الموقع الجغرافي” يسمح للمستخدمين بالتعليق والتصويت على أي موقع ثابت. "
+"مثال على ذلك قد يكون مقهى، حديقة عامة أو مكان لايقاف الدراجات. يمكن لأي شخص "
+"إضافة موقع جديد على الخريطة و إضافة تعليقات على المساهمات الخاصة به او مساهمات "
+"الآخرين."
+
+#: View/Movements/start.ctp:17
+msgid ""
+"A 'Social Network' is a type of application that allows people to connect with "
+"one another another. It enables users to share content such as photos, videos, "
+"comments and other media."
+msgstr ""
+"‘الشبكات الاجتماعية’ هي نوع من التطبيقات التي تمكن الناس من التواصل مع بعضهم "
+"البعض و تتيح للمستخدمين تبادل المحتوى مثل الصور والفيديو والتعليقات وغيرها من "
+"الوسائط المتعددة."
+
+#: View/Movements/start.ctp:17
+msgid ""
+"An 'Information' app provides a quick method of accessing detailed information "
+"about a specific subject. It can be useful in a variety of situations where a "
+"little extra information is key."
+msgstr ""
+"يوفر تطبيق ‘المعلومات’ طريقة سريعة للحصول على معلومات تفصيلية حول موضوع معين. "
+"يمكن للتطبيق أن يكون مفيدا في حالة الحاجة لبعض المعلومات الإضافية عن مكان او "
+"موضوع ما."
+
+#: View/Movements/start.ctp:17
+msgid ""
+"Our lives are full of exciting events, an 'Event' app can help people to keep "
+"track of what events are taking place in the future. Such an app could also "
+"act as a discovery tool for say a recent fan or enthusiast."
+msgstr ""
+"حياتنا مليئة بالأحداث المثيرة، يمكن لتطبيق ‘الأحداث’ مساعدة الناس على متابعة "
+"الأحداث التي ستحدث في المستقبل. "
+
+#: View/Movements/start.ctp:18
+msgid "The best places to feed ducks"
+msgstr "أفضل الأماكن لإطعام البط"
+
+#: View/Movements/start.ctp:18
+msgid "Restaurants that cater for nut allergies"
+msgstr "المطاعم التي تخدم الأشخاص الذين لديهم حساسية للمكسرات"
+
+#: View/Movements/start.ctp:18
+msgid "Amazing street art in London"
+msgstr "فن الشارع المتميز في لندن"
+
+#: View/Movements/start.ctp:18
+msgid "Public toilet finder"
+msgstr "مكتشف المراحيض العامة"
+
+#: View/Movements/start.ctp:18
+msgid "Sports coach network"
+msgstr "شبكة مدربي الرياضة"
+
+#: View/Movements/start.ctp:18
+msgid "A super social network for teenager"
+msgstr "شبكة تواصل إجتماعية للمراهقين"
+
+#: View/Movements/start.ctp:18
+msgid "Dog owners social network"
+msgstr "شبكة إجتماعية لأصحاب الكلاب"
+
+#: View/Movements/start.ctp:18
+msgid "Young mothers support network"
+msgstr " شبكة لدعم الأمهات الشابات"
+
+#: View/Movements/start.ctp:18
+msgid "Miami tourist guide"
+msgstr "الدليل السياحي لمدينة ميامي"
+
+#: View/Movements/start.ctp:18
+msgid "Help guide for your new computer"
+msgstr "دليل المساعدة لجهاز الكمبيوتر الجديد الخاص بك"
+
+#: View/Movements/start.ctp:18
+msgid "Top tips for looking after your children"
+msgstr "أهم النصائح لرعاية أطفالك"
+
+#: View/Movements/start.ctp:18
+msgid "Live gigs for the Artic Monkeys"
+msgstr "حفلات غنائية"
+
+#: View/Movements/start.ctp:18
+msgid "Car boot sales in the North East"
+msgstr "التخفيضات الموسمية"
+
+#: View/Movements/start.ctp:18
+msgid "Stand up comedy events in London"
+msgstr "الاحداث الرياضية"
+
+#: View/Movements/start.ctp:42
+msgid "App Type"
+msgstr "نوع التطبيق"
+
+#: View/Movements/start.ctp:54
+msgid "Other"
+msgstr "أخرى"
+
+#: View/Movements/start.ctp:60
+msgid "Select the type of application you wish to launch."
+msgstr "حدد نوع التطبيق الذي ترغب في إطلاقه."
+
+#: View/Movements/start.ctp:81
+msgid "Describe your idea in one sentence"
+msgstr "صف فكرتك بجملة واحدة"
+
+#: View/Movements/start.ctp:159
+msgid "Next Step"
+msgstr "الخطوة التالية"
+
+#: View/Movements/start.ctp:219
+msgid "Not Currently Available"
+msgstr "غير متوفر حالياً"
+
+#: View/Movements/start.ctp:224
+msgid "Example Applications"
+msgstr "مثال على التطبيقات"
+
+#: View/Movements/start.ctp:242
+msgid "Suggest App Type"
+msgstr "إقترح نوع للتطبيق"
+
+#: View/Movements/start.ctp:244
+msgid ""
+"We would like to provide you with more templates in the future, please submit "
+"your app type ideas below to help us to provide more relevant app types."
+msgstr ""
+"نود أن توفر لك المزيد من القوالب في المستقبل، يرجى إرسال أفكار لانواع "
+"التطبيقات أدناه لمساعدتنا في تقديمها مستقبلا."
+
+#: View/Movements/start.ctp:247
+msgid "Your Suggestion"
+msgstr "اقتراحكم"
+
+#: View/Movements/view.ctp:151
+msgid "Keep your supporters informed"
+msgstr "إبق مؤيديك على إطلاع"
+
+#: View/Movements/view.ctp:152
+msgid ""
+"Send your supporters updates to keep them informed and get them involved. Your "
+"update will be sent directly to their email inbox. Please note, you can only "
+"send a maximum of 2 updates per day."
+msgstr ""
+"أرسل آخر التحديثات الى مؤيديك وابقهم على إطلاع، التحديثات سترسل الى بريدهم "
+"الألكتروني. تذكر انه يمكنك ارسال تحديثين فقط في اليوم."
+
+#: View/Movements/view.ctp:160
+msgid "Keep your supporters in the loop by posting an update."
+msgstr "أبق مؤيديك على إطلاع عن طريق نشر التحديثات."
+
+#: View/Pages/about.ctp:10
+msgid "How it Works"
+msgstr "كيف يعمل App Movement؟"
+
+#: View/Pages/about.ctp:21;49;61
+msgid "Start your movement"
+msgstr "إبدأ حركتك"
+
+#: View/Pages/about.ctp:22
+msgid ""
+"Add your idea to the site and get your friends and family to support your "
+"campaign."
+msgstr "أضف فكرتك إلى الموقع وإدع أصدقائك وعائلتك لدعم الحركة."
+
+#: View/Pages/about.ctp:29
+msgid "Design together"
+msgstr "التصميم معا"
+
+#: View/Pages/about.ctp:30
+msgid ""
+"Submit ideas and vote on community contributions to select the features you "
+"want."
+msgstr "قدّم أفكارك وصوّت على مساهمات الآخرين لتحديد الميزات التي تريدها."
+
+#: View/Pages/about.ctp:37
+msgid "Launch the app"
+msgstr "إطلاق التطبيق"
+
+#: View/Pages/about.ctp:38
+msgid ""
+"We build your app based on the results of the design phase and release it for "
+"iOS and Android."
+msgstr ""
+"نحن نبني التطبيق الخاص بك استنادا إلى نتائج مرحلة التصميم ونصدره لiOS "
+"وAndroid ."
+
+#: View/Pages/about.ctp:50
+msgid "Share your app idea with the world and get your community involved"
+msgstr "شارك فكرة التطبيق مع العالم وأشرك الآخرين فيها"
+
+#: View/Pages/about.ctp:62
+msgid ""
+"Post your awesome app idea to the site and start your movement. Select from an "
+"app template, add a title and description and hit start!"
+msgstr ""
+"أنشر فكرتك على الموقع وإبدأ حركتك، إختر قالب للتطبيق و أضف عنوانا ووصفا لها ثم "
+"إضغط إبدأ!"
+
+#: View/Pages/about.ctp:71
+msgid "Engage your Community"
+msgstr "أشرك الآخرين"
+
+#: View/Pages/about.ctp:72
+msgid ""
+"Get support from your community and promote your movement through social media "
+"to reach your target."
+msgstr ""
+"إحصل على الدعم من الآخرين وأعلن عن حركتك عن طريق مواقع التواصل الإجتماعي لتصل "
+"الى هدفك."
+
+#: View/Pages/about.ctp:83
+msgid "Share your idea with friends"
+msgstr "شارك فكرتك مع الأصدقاء"
+
+#: View/Pages/about.ctp:84
+msgid ""
+"Hit your target by sharing your movement through social media. Get your "
+"friends involved so they can get in on the action too."
+msgstr ""
+"يمكنك الوصول الى هدفك عن طريق مشاركة حركتك على مواقع التواصل الإجتماعي، إدع "
+"أصدقاءك ليشاركوا و يكونوا جزءاً من العملية."
+
+#: View/Pages/about.ctp:93
+msgid "Hit your target"
+msgstr "تحقيق الهدف الخاص بك"
+
+#: View/Pages/about.ctp:94
+msgid ""
+"Reach your target number of supporters for yout idea and proceed to designing "
+"your app."
+msgstr "حقق العدد المطلوب من المؤيدين لفكرتك، وإبدأ بتصميم التطبيق الخاص بك."
+
+#: View/Pages/about.ctp:107
+msgid "Design with your community"
+msgstr "صمم مع الآخرين"
+
+#: View/Pages/about.ctp:108
+msgid "Share ideas and vote on the best features you want in the app."
+msgstr "تبادل الأفكار وصوت على أفضل الميزات التي تريدها في التطبيق."
+
+#: View/Pages/about.ctp:120
+msgid "Contribute ideas"
+msgstr "ساهم بالأفكار"
+
+#: View/Pages/about.ctp:121
+msgid ""
+"Got a great idea for the name? Want to pick the colour scheme? Submit your "
+"idea to the community."
+msgstr "لديك فكرة عظيمة للإسم؟ ترغب في اختيار نظام الألوان؟ أرسل فكرتك للآخرين."
+
+#: View/Pages/about.ctp:130
+msgid "Vote on features"
+msgstr "صوّت على الميزات"
+
+#: View/Pages/about.ctp:131
+msgid ""
+"Work together to vote on the best ideas from within your community. The best "
+"ideas with the most votes are selected for the final app."
+msgstr ""
+"إعمل مع الاخرين للتصويت على أفضل الأفكار. الأفكار التي تحصل على أعلى الاصوات "
+"سيتم اختيارها لتوضع في التصميم النهائي للتطبيق."
+
+#: View/Pages/about.ctp:142
+msgid "Discuss your ideas"
+msgstr "ناقش أفكارك"
+
+#: View/Pages/about.ctp:143
+msgid ""
+"Start the conversation around what features you want in the app and what they "
+"might look like."
+msgstr "إبدأ النقاش حول ما هي الميزات التي تريدها في التطبيق وما قد تبدو عليه."
+
+#: View/Pages/about.ctp:152
+msgid "Your app is generated by us"
+msgstr "سيتم إنشاء تطبيقك من قبلنا"
+
+#: View/Pages/about.ctp:153
+msgid ""
+"Once the best ideas have been voted on we'll automatically add them to the app."
+msgstr ""
+"بعد الانتهاء من التصويت على أفضل الافكار ستتم إضافتها الى التطبيق تلقائيا."
+
+#: View/Pages/about.ctp:166
+msgid "Launch your app to the world"
+msgstr "أطلق التطبيق الخاص بك إلى العالم"
+
+#: View/Pages/about.ctp:167
+msgid ""
+"Your app is automatically generated and free for your community to download."
+msgstr "سيتم إنشاء التطبيق تلقائيا وسيكون متوفرا مجانا للتحميل"
+
+#: View/Pages/about.ctp:179
+msgid "Download your app"
+msgstr "حمّل تطبيقك"
+
+#: View/Pages/about.ctp:180
+msgid ""
+"We'll automatically generate the app for Android and iOS and tell you when "
+"it's ready so you can be the first to download it!"
+msgstr ""
+"سنقوم بإنشاء التطبيق تلقائيا على Android و iOS ونبلغك عندما يكون جاهزا لتكون "
+"أول من يقوم بتحميله!"
+
+#: View/Pages/about.ctp:189
+msgid "Share with everyone"
+msgstr "شارك مع الجميع"
+
+#: View/Pages/about.ctp:190
+msgid ""
+"Excited by your new app? Tell people about it and get them to download the app "
+"so they can use it too!"
+msgstr "متحمس بشأن تطبيقك؟ لما لا تشاركه مع الاخرين لتحميله واستخدامه ايضا!"
+
+#: View/Pages/about.ctp:202
+msgid "Sustain your community"
+msgstr "إدعم مجتمعك"
+
+#: View/Pages/about.ctp:203
+msgid ""
+"The app will be available to everyone, it's important you contribute content "
+"as much as possible to improve it for others."
+msgstr ""
+"التطبيق سيكون متاحا للجميع لذا من الضروري أن تساهم بإضافة المحتوى قدر الإمكان "
+"لتجعله مفيدا للآخرين."
+
+#: View/Pages/about.ctp:212
+msgid "Feel awesome!"
+msgstr "أشعر بالفخر!"
+
+#: View/Pages/about.ctp:213
+msgid ""
+"Congratulations you've made it! You can feel awesome knowing you've released "
+"an app for everyone to enjoy, good job!"
+msgstr ""
+"تهانينا لقد نجحت! يمكنك ان تشعر بالفخر بنفسك لانك بنيت تطبيقا يمكن أن يستفيد "
+"منه الجميع!"
+
+#: View/Pages/about.ctp:223;227
+msgid "Get Started"
+msgstr "ابدأ"
+
+#: View/Pages/contact.ctp:19
+msgid "Send an email"
+msgstr "أرسل بريد الكتروني"
+
+#: View/Pages/contact.ctp:21
+msgid ""
+"If you have any questions, would like to work with the team or have any other "
+"concerns please contact the team on the following email address:"
+msgstr ""
+"إذا كان لديك أي أسئلة أو كنت ترغب في العمل مع فريقنا أو لديك أية إقتراحات، "
+"يرجى التواصل مع فريق العمل على البريد الإلكتروني التالي:"
+
+#: View/Pages/contact.ctp:38
+msgid "What is App Movement?"
+msgstr "ما هو  App Movement؟"
+
+#: View/Pages/contact.ctp:40 View/Pages/faq.ctp:23
+msgid ""
+"App Movement enables any individual, community or organisation to propose, "
+"design and develop a multi-platform mobile application. No expertise are "
+"required to get started just a touch of determination and a great idea."
+msgstr ""
+" App Movement يسمح لأي شخص او مجموعة او مؤسسة ان يقترح ويصمم ويطور تطبيق "
+"للأجهزة المحمولة يعمل على عدة منصات تشغيل بدون الحاجة لأي خبرة سابقة، كل "
+"المطلوب هو فكرة مميزة وأصرار على جعلها ناجحة."
+
+#: View/Pages/contact.ctp:48
+msgid "Who created this?"
+msgstr "من انشأ App Movement؟"
+
+#: View/Pages/contact.ctp:49
+msgid ""
+"App Movement is a research project created by %s at Newcastle University. This "
+"research project aims to explore how communities can begin to design and "
+"commission technology at a grassroots level. As such we will be collecting "
+"data about the websites usage and the mobile applications generated by App "
+"Movement. You can find out more in our privacy policy."
+msgstr ""
+" App Movement هو مشروع بحثي تم إنشاؤه بواسطة %s في جامعة نيوكاسل. ويهدف هذا "
+"المشروع البحثي لاستكشاف كيف يمكن للمجتمعات أن تشارك بتصميم ونشر التكنولوجيا "
+"على المستوى الشعبي. لهذا فإننا سوف نقوم بجمع البيانات حول استخدام الموقع "
+"والتطبيقات التي تم انشاؤها بواسطته. يمكنك ان تجد التفاصيل في صفحة حماية "
+"الخصوصية."
+
+#: View/Pages/contact.ctp:57
+msgid "Why did we create App Movement?"
+msgstr "لماذا انشأنا App Movement؟"
+
+#: View/Pages/contact.ctp:58
+msgid ""
+"We realised that in the digital age communities need digital tools and "
+"services. However the development and creation of these services has "
+"traditionally been commissioned by local government, bed room programmers or "
+"enthusiastic community members. However we argue that this top down, reactive "
+"approach, fails to address real needs of communities. Therefore we believe "
+"anyone who has a genuine need for a mobile application should not be limited "
+"by their lack of software development experience."
+msgstr ""
+"نحن ندرك أن المجتمعات في العصر الرقمي تحتاج للمزيد من الأدوات والخدمات "
+"الرقمية، ولكن بناء وتطوير هذه الخدمات كان حصرا على الحكومات او المبرمجين "
+"المحترفين أو الأشخاص المتحمسين في المجتمع. نحن نعتقد ان هذه الطريقة لا تعالج "
+"حاجة المجتمع الحقيقية، لذا نحن نؤمن بأن أي شخص يحتاج تطبيق معين للأجهزة "
+"المحمولة لايجب أن يكون محدودا بقلة الخبرة بتطوير البرمجيات."
+
+#: View/Pages/contact.ctp:80
+msgid ""
+"This project was funded by both the EPSRC Social Inclusion Through the Digital "
+"Economy (SiDE) and the AHRC Creative Exchange (CX) research projects."
+msgstr ""
+"تم تمويل هذا المشروع من قبل كل من EPSRC Social Inclusion Through the Digital "
+"Economy (SiDE) و the AHRC Creative Exchange (CX)."
+
+#: View/Pages/faq.ctp:22
+msgid "What is AppMovement?"
+msgstr "ما هو App Movement ؟"
+
+#: View/Pages/faq.ctp:27
+msgid "What is a Movement?"
+msgstr "ما هي الحركة؟"
+
+#: View/Pages/faq.ctp:28
+msgid ""
+"A Movement is an awesome idea for an app that has been created by a member of "
+"your community and allows other individuals to come together and support the "
+"idea. Once the Movement has reached the Supporter Target the Movement will "
+"move into the design phase to allow you to begin designing the features in "
+"your app. After this has been completed the app will be automatically "
+"generated and free to download for all."
+msgstr ""
+"الحركة هي فكرة جديدة لتطبيق تم اقتراحها من قبل عضو بمجتمعك ويسمح للأفراد "
+"الآخرين بالعمل معا لدعم هذه الفكرة. عندما يصل دعم الحركة للعدد المطلوب ستنتقل "
+"إلى مرحلة التصميم للسماح لك بالبدء في تصميم الخصائص الموجودة في التطبيق. وبعد "
+"ذلك يتم إنشاء التطبيق تلقائيا ويصبح متاح للتحميل مجانا."
+
+#: View/Pages/faq.ctp:32
+msgid "What does it mean to be a Supporter?"
+msgstr "ماذا يعني أن تكون مؤيداً؟"
+
+#: View/Pages/faq.ctp:33
+msgid ""
+"By supporting a Movement you are pledging your support for the idea. This will "
+"allow you to be a part of the design phase and gain early access to the "
+"automatically generated mobile app when it becomes available. There are no "
+"financial commitments to being a supporter and you have the choice to interact "
+"with the Movement as you see fit. During the design phase you can contribute "
+"ideas e.g. the app's name or colour scheme and you do not require any "
+"technical expertise."
+msgstr ""
+"من خلال دعم حركة انت تتعهد بدعم هذه الفكرة وهذا سيسمح لك أن تكون جزءا من مرحلة "
+"التصميم ويعطيك أولوية الوصول إلى التطبيق الذي تم إنشاؤه عندما يصبح متوفرا. لا "
+"توجد اي التزامات مالية لكونك مؤيدا ولديك خيار التفاعل مع الحركة على النحو الذي "
+"تراه مناسبا. أثناء مرحلة التصميم يمكن أن تساهم بأفكار مثل اختيار الإسم أو مخطط "
+"الوان التطبيق والتي لا تتطلب أي خبرة تقنية."
+
+#: View/Pages/faq.ctp:37
+msgid "What is the Design Phase?"
+msgstr "ما هي مرحلة التصميم؟"
+
+#: View/Pages/faq.ctp:38
+msgid ""
+"The Design Phase is accessible by only the supporters who have supported a "
+"movement and allows them to contribute ideas and vote on the best "
+"contributions made by others. In this phase you will not be asked to write any "
+"code, just simply come up with names and colour schemes for example."
+msgstr ""
+"مرحلة التصميم يمكن الوصول إليها من قبل المؤيدين الذين دعموا الحركة فقط وتسمح "
+"لهم بالمساهمة بالأفكار والتصويت على أفضل المساهمات المقدمة من قبل الآخرين. في "
+"هذه المرحلة لن يطلب منك أن تكتب أي شفرة برمجية، على سبيل المثال يمكنك ببساطة "
+"اقتراح أسماء وألوان ."
+
+#: View/Pages/faq.ctp:46
+msgid "How do you automatically generate an app?"
+msgstr "كيف يمكنك أن تبني تطبيق تلقائيا؟"
+
+#: View/Pages/faq.ctp:47
+msgid ""
+"When movements are created by users they are created using a template we have "
+"developed. This template allows us to automatically configure the mobile "
+"application so that it reflects the design choices made by the community in "
+"the design phase."
+msgstr ""
+"عندما يبدأ المستخدم حركة جديدة يتم إنشاؤها باستخدام قالب معرف مسبقا. هذا "
+"القالب يسمح لنا ببناء تطبيقات الأجهزة المحمولة تلقائيا بحيث يعكس خيارات "
+"التصميم التي حددها المجتمع في مرحلة التصميم."
+
+#: View/Pages/faq.ctp:51
+msgid "Who owns the generated app?"
+msgstr "من يملك التطبيق الناتج؟"
+
+#: View/Pages/faq.ctp:52
+msgid ""
+"The mobile application will be released under the Digital Interaction Group "
+"developer accounts as part of ongoing research into community commissioning "
+"platforms. Ownership of the application will therefore remain with the Digital "
+"Interaction Group. Please visit our terms and conditions of use for more "
+"information."
+msgstr ""
+"سيتم اصدار التطبيقات الناتجة تحت حساب وملكية Digital Interaction Group كجزء من "
+"البحوث الجارية عن community commissioning platforms. يرجى زيارة شروط وأحكام "
+"الإستخدام لمزيد من المعلومات."
+
+#: View/Pages/faq.ctp:56
+msgid "Who is organising this?"
+msgstr "من ينظم هذا؟"
+
+#: View/Pages/faq.ctp:57
+msgid ""
+"This is a research project run by the Digitial Interaction Group as part of "
+"the ongoing research. With your permission through registering with the "
+"server, your annonymized data will be used to begin to understand how "
+"technologies of the future can encourage grassroots comissioning of mobile "
+"applications. If you wish to know more about this please visit our About page "
+"for further information."
+msgstr ""
+"هذا الموقع هو مشروع بحثي يدار من قبل Digitial Interaction Group كجزء من البحوث "
+"الجارية في المجموعة. من خلال التسجيل في الموقع وبإذن منك سيتم استخدام البيانات "
+"الخاصة بك بدون التعريف بشخصيتك لمحاولة فهم كيف يمكن لتقنيات المستقبل ان تشجع "
+"على إشراك المجتمع في بناء التطبيقات. إذا كنت ترغب في معرفة المزيد يرجى زيارة "
+"صفحة ‘عن الموقع’."
+
+#: View/Pages/home.ctp:12
+msgid "Your Community. Your App."
+msgstr "مجتمعك. التطبيق الخاص بك."
+
+#: View/Pages/home.ctp:14
+msgid ""
+"App Movement enables anyone to propose, design and develop a mobile "
+"application. No expertise are required and the process is fun and simple. "
+"Watch the video below to get started."
+msgstr ""
+"‏App Movement تسمح لأي شخص او مجموعة او مؤسسة ان يقترح ويصمم ويطور تطبيق "
+"للأجهزة المحمولة يعمل على عدة منصات تشغيل بدون الحاجة لأي خبرة سابقة، كل "
+"المطلوب هو فكرة مميزة وأصرار على جعلها ناجحة."
+
+#: View/Pages/home.ctp:19;21
+msgid "Watch the Video"
+msgstr "شاهد الفيديو"
+
+#: View/Pages/home.ctp:37
+msgid ""
+"Choose one of the app templates and start your movement. Gain support for your "
+"movement by sharing it with friends."
+msgstr ""
+"إختر أحد القوالب الجاهزة للتطبيق وإبدأ حركتك. إكسب التأييد للحركة عن طريق "
+"مشاركتها مع الأصدقاء."
+
+#: View/Pages/home.ctp:44
+msgid "Design Together"
+msgstr "التصميم معا"
+
+#: View/Pages/home.ctp:45
+msgid ""
+"The supporters of your movement work together to design the app by submitting "
+"and voting on ideas."
+msgstr ""
+"مؤيدو حركتك سيعملون معا لتصميم التطبيق من خلال تقديم الافكار والتصويت عليها."
+
+#: View/Pages/home.ctp:52
+msgid "Generate Application"
+msgstr "بناء التطبيق"
+
+#: View/Pages/home.ctp:53
+msgid ""
+"You app is automatically generated based on the results of the design process "
+"and it is released in the app store."
+msgstr ""
+"تطبيقك سينشأ تلقائيا إستنادا على نتائج مرحلة التصميم ويوضع في متجر التطبيقات."
+
+#: View/Pages/home.ctp:63
+msgid "Featured Movements"
+msgstr "حركات متميزة"
+
+#: View/Pages/press.ctp:9
+msgid "Press Kit"
+msgstr "العدّة الإعلامية"
+
+#: View/Pages/press.ctp:19
+msgid "Press Releases"
+msgstr "إصدارات إعلامية"
+
+#: View/Pages/press.ctp:23
+msgid ""
+"We welcome you to report on App Movement through your media channels and "
+"encourage the use of the materials provided on this page."
+msgstr ""
+"نحن نرحب بتقديم تقرير عن App Movement من خلال قنوات وسائل الإعلام ونشجع "
+"استخدام المصادر المتوفرة في هذه الصفحة."
+
+#: View/Pages/press.ctp:32
+msgid "Logos & Brand"
+msgstr "الشعارات والعلامة التجارية"
+
+#: View/Pages/press.ctp:36
+msgid "Click any of the following assets to view the full-resolution version."
+msgstr "انقر فوق أي من الأيقونات التالية لعرض النسخة الكاملة."
+
+#: View/Pages/press.ctp:36
+msgid "If you require any other assets please contact us."
+msgstr "إذا كنت بحاجة إلى أي ايقونات أخرى يرجى الاتصال بنا."
+
+#: View/Pages/press.ctp:85
+msgid "If you have any queries please contact us."
+msgstr "إذا كان لديك أي إستفسار يرجى الاتصال بنا."
+
+#: View/Pages/press.ctp:88
+msgid "Press contact"
+msgstr "للإعلام الاتصال بـ"
+
+#: View/Pages/press.ctp:89
+msgid "Image contact"
+msgstr "للصور الاتصال بـ"
+
+#: View/Pages/press.ctp:98
+msgid "Case Studies"
+msgstr "تجارب مسبقة"
+
+#: View/Pages/press.ctp:108
+msgid ""
+"A story about Katie Brittain's idea to support people living with dementia and "
+"their carers."
+msgstr ""
+"قصة عن فكرة Katie Brittain لدعم الناس الذين يعانون من الخرف ومقدمي الرعاية لهم."
+
+#: View/Pages/privacy.ctp:10
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: View/Pages/terms.ctp:10
+msgid "Terms of Use"
+msgstr "شروط الإستخدام"
+
+#: View/Previews/colour.ctp:47 View/Previews/geolocation_venue.ctp:47
+msgid "Place"
+msgstr "مكان"
+
+#: View/Previews/colour.ctp:53 View/Previews/geolocation_venue.ctp:53
+msgid "Add Review"
+msgstr "إضافة تعليق"
+
+#: View/Previews/colour.ctp:63 View/Previews/geolocation_venue.ctp:63
+msgid "Name of Place"
+msgstr "إسم مكان"
+
+#: View/Previews/colour.ctp:75 View/Previews/geolocation_venue.ctp:75
+msgid "Rating Option A"
+msgstr "خيار التصويت A"
+
+#: View/Previews/colour.ctp:95 View/Previews/geolocation_venue.ctp:95
+msgid "Rating Option B"
+msgstr "خيار التصويت B"
+
+#: View/Previews/colour.ctp:115 View/Previews/geolocation_venue.ctp:115
+msgid "Rating Option C"
+msgstr "خيار التصويت C"
+
+#: View/Previews/colour.ctp:135 View/Previews/geolocation_venue.ctp:135
+msgid "Rating Option D"
+msgstr "خيار التصويت D"
+
+#: View/Previews/geolocation_map.ctp:90
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: View/Previews/geolocation_map.ctp:102
+msgid "Add"
+msgstr "إضافة"
+
+#: View/Tasks/landing.ctp:18 View/Tasks/view.ctp:19
+msgid "Design Area"
+msgstr "منطقة التصميم"
+
+#: View/Tasks/landing.ctp:34
+msgid "Design Phase Not Available"
+msgstr "مرحلة التصميم غير متوفرة"
+
+#: View/Tasks/landing.ctp:36 View/Tasks/view.ctp:41
+msgid "Design Phase Active"
+msgstr "مرحلة التصميم نشطة"
+
+#: View/Tasks/landing.ctp:44
+msgid "Day Remaining"
+msgstr "يوم متبقي"
+
+#: View/Tasks/landing.ctp:44
+msgid "Days Remaining"
+msgstr "ايام متبقية "
+
+#: View/Tasks/landing.ctp:55
+msgid "The design phase is not yet available, please come back later!"
+msgstr "مرحلة التصميم ليست متاحة بعد، يرجى العودة في وقت لاحق!"
+
+#: View/Tasks/landing.ctp:61
+msgid ""
+"This movement has made it to the design phase. Yourself and other supporters "
+"can now design the application together. Just click one of the following "
+"design tasks to explore, vote and contribute ideas."
+msgstr ""
+"هذه الحركة وصلت الى مرحلة التصميم ويمكنك الآن أن تشارك مع االمؤيدين الآخرين في "
+"تصميم التطبيق. فقط إضغط على مهام التصميم التالية لتشارك أفكارك او تصّوت على "
+"أفكار الآخرين."
+
+#: View/Tasks/landing.ctp:65 View/Tasks/view.ctp:63
+msgid ""
+"You have not supported this movement so you are not eligible to vote or "
+"contribute in the design phase. You are however free to browse what others "
+"have submitted."
+msgstr ""
+"أنت لم تدعم هذه الحركة لذا لا تملك الحق في المشاركة بعملية التصميم او التصويت "
+"على المشاركات ولكن يمكنك ان تطّلع على ما ساهم به الاخرون."
+
+#: View/Tasks/landing.ctp:70 View/Tasks/view.ctp:68
+msgid "Design Complete"
+msgstr "إكتمل التصميم"
+
+#: View/Tasks/landing.ctp:71
+msgid ""
+"The design phase is now complete, we will select the highest voted "
+"contributions to tailor the application. You can view the community's "
+"contributions below."
+msgstr ""
+"مرحلة التصميم اكتملت الآن، سوف نختار المساهمات التي حصلت على اكثر عدد من "
+"الاصوات لتصميم التطبيق. يمكنك مشاهدة جميع المساهمات أدناه."
+
+#: View/Tasks/landing.ctp:137
+msgid "Fixed Option"
+msgstr "خيار ثابت"
+
+#: View/Tasks/landing.ctp:139
+msgid "User Contribution"
+msgstr "مساهمة المستخدم"
+
+#: View/Tasks/landing.ctp:160
+msgid "Awesome!"
+msgstr "رائع!"
+
+#: View/Tasks/landing.ctp:161
+msgid "You've submitted contributions to all of the design tasks, thank you!"
+msgstr "لقد ساهمت في جميع مهام التصميم، شكرا لك!"
+
+#: View/Tasks/landing.ctp:161
+msgid "Don't forget to come back and vote on contributions from other members!"
+msgstr "لا تنسى أن تعود و تصوت على مساهمات الأعضاء الآخرين!"
+
+#: View/Tasks/view.ctp:58
+msgid "Instructions"
+msgstr "تعليمات"
+
+#: View/Tasks/view.ctp:69
+msgid ""
+"The design phase is now complete, you can view the contributions below. The "
+"winning contributions are highlighted in green."
+msgstr ""
+"مرحلة التصميم إكتملت الآن ويمكنك إستعراض المساهمات أدناه. المساهمات الفائزة "
+"تظهر باللون الاخضر."
+
+#: View/Users/admin.ctp:15 View/Users/dashboard.ctp:35
+msgid "Admin Section"
+msgstr "قسم الإدارة"
+
+#: View/Users/admin.ctp:53
+msgid "APP STORE"
+msgstr "متجر التطبيقات"
+
+#: View/Users/admin.ctp:54
+msgid "DATABASE"
+msgstr ""
+
+#: View/Users/admin.ctp:55
+msgid "XML"
+msgstr ""
+
+#: View/Users/admin.ctp:56
+msgid "ASSETS"
+msgstr ""
+
+#: View/Users/admin.ctp:57
+msgid "LAUNCH"
+msgstr "إطلاق"
+
+#: View/Users/admin.ctp:64
+msgid "App Name"
+msgstr "إسم التطبيق"
+
+#: View/Users/admin.ctp:68
+msgid "App Identifier"
+msgstr ""
+
+#: View/Users/admin.ctp:72
+msgid "Listing"
+msgstr ""
+
+#: View/Users/admin.ctp:76
+msgid "Keywords"
+msgstr ""
+
+#: View/Users/admin.ctp:83
+msgid "SQL Create Dump"
+msgstr ""
+
+#: View/Users/admin.ctp:90
+msgid "iOS XML Dump"
+msgstr ""
+
+#: View/Users/admin.ctp:94
+msgid "Android XML Dump"
+msgstr ""
+
+#: View/Users/admin.ctp:101
+msgid "Set Background Colour"
+msgstr ""
+
+#: View/Users/admin.ctp:103
+msgid "Clear"
+msgstr "مسح"
+
+#: View/Users/admin.ctp:104
+msgid "Apply"
+msgstr "تنفيذ"
+
+#: View/Users/admin.ctp:107
+msgid "App Icon"
+msgstr "أيقونة التطبيق"
+
+#: View/Users/admin.ctp:111
+msgid "Spash Screen"
+msgstr ""
+
+#: View/Users/admin.ctp:115
+msgid "App Screenshots"
+msgstr ""
+
+#: View/Users/admin.ctp:120
+msgid "Download Assets"
+msgstr ""
+
+#: View/Users/admin.ctp:125
+msgid "Android Store Listing URL"
+msgstr ""
+
+#: View/Users/admin.ctp:128
+msgid "iOS Store Listing URL"
+msgstr ""
+
+#: View/Users/admin.ctp:131
+msgid "Click below to send the launch notification to all supporters"
+msgstr "انقر أدناه لإرسال تنبيه عن الإطلاق لجميع المؤيدين"
+
+#: View/Users/admin.ctp:132
+msgid "Send Launch Notification"
+msgstr "إرسال تنبيه إطلاق"
+
+#: View/Users/admin.ctp:172
+msgid "Notifications have been sent!"
+msgstr "تم ارسال التنبيه!"
+
+#: View/Users/admin.ctp:247;248;249;250;300;302
+msgid "Loading"
+msgstr "تحميل"
+
+#: View/Users/dashboard.ctp:14
+msgid "Your Dashboard"
+msgstr "لوحة التحكم الرئيسية"
+
+#: View/Users/dashboard.ctp:30 View/Users/display_users.ctp:37
+#: View/Users/view.ctp:38
+msgid "Joined"
+msgstr "إنضم"
+
+#: View/Users/dashboard.ctp:36
+msgid "Site Users"
+msgstr "مستخدمي الموقع"
+
+#: View/Users/dashboard.ctp:40 View/Users/edit.ctp:10
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: View/Users/dashboard.ctp:41
+msgid "Logout"
+msgstr "خروج"
+
+#: View/Users/dashboard.ctp:53
+msgid "Your Movements"
+msgstr "حركاتك"
+
+#: View/Users/dashboard.ctp:79
+msgid "Your Notification Stream"
+msgstr "التنبيهات الخاصة بك"
+
+#: View/Users/display_users.ctp:5
+msgid "Site users"
+msgstr "مستخدمي الموقع"
+
+#: View/Users/display_users.ctp:34
+msgid "Fullname"
+msgstr "الإسم الكامل"
+
+#: View/Users/edit.ctp:41
+msgid "Profile Photo"
+msgstr "صورة الملف الشخصي"
+
+#: View/Users/edit.ctp:47
+msgid "Notification Preferences"
+msgstr "تفضيلات التنبيهات"
+
+#: View/Users/edit.ctp:52
+msgid "Send me awesome email updates"
+msgstr "أرسل لي التحديثات على البريد الإلكتروني "
+
+#: View/Users/edit.ctp:64
+msgid "Update Profile"
+msgstr "تحديث الملف الشخصي"
+
+#: View/Users/forgot.ctp:10
+msgid "Forgot Password"
+msgstr "نسيت كلمة المرور"
+
+#: View/Users/forgot.ctp:18
+msgid "Send Reset Email"
+msgstr "إرسال بريد الإلكتروني لإعادة التعيين"
+
+#: View/Users/forgot.ctp:19
+msgid ""
+"Please enter the email address you used to register to reset your password."
+msgstr ""
+"يرجى إدخال عنوان البريد الإلكتروني الذي استخدمته للتسجيل لإعادة تعيين كلمة "
+"المرور الخاصة بك."
+
+#: View/Users/forgot.ctp:31
+msgid "Send Email"
+msgstr "أرسل بريد الكتروني"
+
+#: View/Users/login.ctp:37
+msgid "Forgotten your password?"
+msgstr "هل نسيت كلمة المرور؟"
+
+#: View/Users/register.ctp:10
+msgid "Create an Account"
+msgstr "إنشاء حساب"
+
+#: View/Users/register.ctp:39 View/Users/reset.ctp:31
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: View/Users/register.ctp:50
+msgid "By creating an account means you agree to App Movement's <br /> %s and %s"
+msgstr "إنشاء حساب يعني أنك توافق على %s و %s"
+
+#: View/Users/register.ctp:55
+msgid "I already have an account"
+msgstr "لدي حساب مسبق"
+
+#: View/Users/reset.ctp:18
+msgid "Reset Your Password"
+msgstr "إعادة تعيين كلمة المرور الخاصة بك"
+
+#: View/Users/reset.ctp:19
+msgid "Please enter new password below."
+msgstr "يرجى إدخال كلمة المرور الجديدة أدناه."
+
+#: View/Users/reset.ctp:29
+msgid "New Password"
+msgstr "كلمة المرور الجديدة"
+
+#: View/Users/reset.ctp:31
+msgid "Please re-enter password"
+msgstr "يرجى إعادة إدخال كلمة المرور"
+
+#: View/Users/view.ctp:22
+msgid "%s's Profile"
+msgstr "الملف الشخصي ل %s"
+
+#: View/Users/view.ctp:61
+msgid "%s has no movements"
+msgstr "%s لا يوجد لديه حركات "
+
+#: Model/IssuedSurvey.php:validation for field published_app_survey_id;validation
+#: user_id
+msgid "Please enter a numeric value"
+msgstr ""
+
+#: Model/IssuedSurvey.php:validation for field published_app_survey_id
+msgid "Please enter a published_app_survey_id"
+msgstr ""
+
+#: Model/IssuedSurvey.php:validation for field user_id
+msgid "Please enter a user_id who will receive this survey"
+msgstr ""
+
+#: Model/Notification.php:validation for field user_id
+msgid "Please include user_id"
+msgstr ""
+
+#: Model/Notification.php:validation for field user_id
+msgid "isNumeric"
+msgstr ""
+
+#: Model/Notification.php:validation for field data
+msgid ""
+"data is incorrect format for this notification type, or you have not specified "
+"a notification type"
+msgstr ""
+"البيانات غير صحيحة لهذا النوع من التنبيه، أو أنك لم تقم بتحديد نوع التنبيه."
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please enter a notification_type_id"
+msgstr ""
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Please only enter notification_type_id as numeric value"
+msgstr ""
+
+#: Model/Notification.php:validation for field notification_type_id
+msgid "Notification_type_id incorrect"
+msgstr ""
+
+#: Model/PublishedAppSurvey.php:validation for field published_app_id;validation
+#: survey_id
+msgid "Please enter numeric values only"
+msgstr ""
+
+#: Model/PublishedAppSurvey.php:validation for field published_app_id
+msgid "Please enter a published_app_id"
+msgstr ""
+
+#: Model/PublishedAppSurvey.php:validation for field survey_id
+msgid "Please enter a survey_id"
+msgstr ""
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Please enter some review text"
+msgstr "الرجاء إدخال ملاحظتك"
+
+#: Model/Templates/Geolocation/Review.php:validation for field review_text
+msgid "Review text must be less than 800 characters"
+msgstr "يجب أن يكون النص أقل من ٨٠٠ حرفا"
+
+#: Model/Survey.php:validation for field url
+msgid "Please enter a survey url"
+msgstr ""
+
+#: Model/Survey.php:validation for field start
+msgid "Please only enter a datetime"
+msgstr ""
+
+#: Model/Survey.php:validation for field start
+msgid "Please enter a start datetime"
+msgstr ""
+
+#: Model/Survey.php:validation for field duration_in_days
+msgid "Please enter a whole number (in days)"
+msgstr ""
+
+#: Model/Survey.php:validation for field duration_in_days
+msgid ""
+"Please enter the duration in days that you wish for the survey to be presented"
+msgstr ""
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Please enter your full name"
+msgstr "الرجاء إدخال إسمك الكامل"
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be more than 4 characters"
+msgstr ""
+
+#: Model/Global/User.php:validation for field fullname
+msgid "Full name must be less than 40 characters"
+msgstr "يجب أن يكون الإسم أقل من ٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field username
+msgid "Please enter a username"
+msgstr "الرجاء إدخال إسم المستخدم"
+
+#: Model/Global/User.php:validation for field username
+msgid "That username has been taken, please choose another"
+msgstr "إسم المستخدم موجود سابقاَ، يرجى اختيار إسم آخر"
+
+#: Model/Global/User.php:validation for field username
+msgid "Only letters, numbers, underscores or dashes. Please enter a valid name"
+msgstr ""
+"فقط الأحروف والأرقام و الشرطات العلوية والسفلية مسموحة. الرجاء إدخال إسم صحيح"
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be more than 4 characters"
+msgstr ""
+
+#: Model/Global/User.php:validation for field username
+msgid "Usernames must be less than 40 characters"
+msgstr "يجب أن يكون إسم المستخدم أقل من ٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field password
+msgid "Please enter a password"
+msgstr "الرجاء إدخال كلمة المرور"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be more than 8 characters"
+msgstr "يجب أن تكون كلمة المرور أكثر من ٨ أحرف"
+
+#: Model/Global/User.php:validation for field password;validation
+#: password_confirm
+msgid "Password must be less than 40 characters"
+msgstr "يجب أن تكون كلمة المرور أقل من ٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Please re-enter your password"
+msgstr "يرجى إعادة إدخال كلمة المرور الخاصة بك"
+
+#: Model/Global/User.php:validation for field password_confirm
+msgid "Both password fields must match"
+msgstr "يجب أن يتطابق كلا حقلي كلمة المرور"
+
+#: Model/Global/User.php:validation for field email
+msgid "isEmpty"
+msgstr ""
+
+#: Model/Global/User.php:validation for field email
+msgid "Please enter a valid email address"
+msgstr "الرجاء إدخال عنوان بريد إلكتروني صحيح"
+
+#: Model/Global/User.php:validation for field email
+msgid ""
+"An account registered with this email already exists, please enter another or "
+"login below"
+msgstr ""
+"هذا البريد الإلكتروني مسجل مسبقا، يرجى إدخال عنوان آخر أو تسجيل الدخول في "
+"الأسفل"
+
+#: Model/Global/User.php:validation for field email
+msgid "Emails must be less than 240 characters"
+msgstr "يجب أن يكون البريد الإلكتروني أقل من ٢٤٠ حرفا"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be of type: jpg, jpeg or png"
+msgstr "يجب أن تكون الصورة من نوع: JPG ،JPEG أو PNG"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be more than 5KB"
+msgstr "يجب أن تكون الصورة أكثر من 5KB"
+
+#: Model/Global/User.php:validation for field photo
+msgid "Image must be less than 3MB"
+msgstr "يجب أن تكون الصورة أقل من 3MB"
+
+#: From Database Table: design_tasks[name]
+msgid "Colour Scheme"
+msgstr "مخطط الألوان"
+
+#: From Database Table: design_tasks[name]
+msgid "Rating Options"
+msgstr "خيارات التقييم"
+
+#: From Database Table: design_tasks[name]
+msgid "Map Pin Style"
+msgstr "شكل دبوس الخريطة"
+
+#: From Database Table: design_tasks[description]
+msgid "Choose a name that will grab attention and sounds great"
+msgstr "إختر إسما مميزاً يثير الإنتباه"
+
+#: From Database Table: design_tasks[description]
+msgid "A memorable icon ensures people will engage with your app"
+msgstr "إختيار ايقونة مميزة سيشجع الآخرين على التفاعل مع تطبيقك"
+
+#: From Database Table: design_tasks[description]
+msgid "Select a colour scheme that will fit the app purpose"
+msgstr "إختر مخططاً للألوان يتلائم مع الغرض من التطبيق"
+
+#: From Database Table: design_tasks[description]
+msgid ""
+"These are the things users of the app will rate on a scale of 0 - 5 stars (e."
+"g. Comfort, Price, Quality etc.)"
+msgstr ""
+"هذه هي الأشياء التي سيقوم المستخدمون بتقييمها على مقياس من ٠-٥ نجوم (مثلا "
+"الراحة، السعر، النوعية، الخ)"
+
+#: From Database Table: design_tasks[description]
+msgid "Choose a style of map pin to indicate the location of places on the map"
+msgstr "إختر شكل الدبوس الذي سيستخدم للإشارة الى المواقع على الخريطة"
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Its time to choose a name for the app, you can vote on the contributions below "
+"or submit your own. The contribution with the highest votes at the end of the "
+"design period will be the final name."
+msgstr ""
+"حان وقت إختيار إسم التطبيق، يمكنك إقتراح إسم جديد أو التصويت على إقتراحات "
+"الآخرين. الإسم الذي يجمع أعلى عدد من الأصوات في نهاية مرحلة التصميم سيتم "
+"إختياره."
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Below are some of the logos submitted by the community but you can always add "
+"your own. The contribution with the highest votes at the end of the design "
+"phase will be selected for use throughout the app."
+msgstr ""
+"في الأسفل مجموعة الشعارات التي تم إقتراحها مسبقا ويمكنك إضافة إقتراحك أيضا.  "
+"الشعار الذي يجمع أعلى عدد من الأصوات في نهاية مرحلة التصميم سيتم إختياره."
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Choose a beautiful colour scheme for your application. Think about your brand "
+"colours and vote on the submissions below or add your own idea."
+msgstr ""
+"إختر مخططا للألوان مناسب لتطبيقك. فكر بعلامتك التجارية وصوت على المقترحات "
+"الموجودة أو أضف مقترحك."
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"Here you can vote on different review options proposed by users or submit your "
+"own ideas at the bottom."
+msgstr ""
+"يمكنك التصويت هنا على خيارات التعليق المختلفة التي إقترحها المستخدمون أو إضافة "
+"إفكارك في الأسفل."
+
+#: From Database Table: design_tasks[instruction]
+msgid ""
+"When places are added to the map their location is represented by a map pin. "
+"You can vote for your favourite style of map pin in this design task."
+msgstr ""
+"عندما إضافة موقع الى الخريطة سيشار اليه بدبوس خريطة.  في هذه المرحلة من "
+"التصميم يمكنك التصويت على شكل الدبوس الذي تفضله."
+
+#: From Database Table: report_types[description]
+msgid "abusive / offensive"
+msgstr "مسيئ / عدواني"
+
+#: From Database Table: report_types[description]
+msgid "copyright"
+msgstr "تعدي على حقوق الطبع"
+
+#: From Database Table: report_types[description]
+msgid "spam"
+msgstr "بريد مزعج"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App Movement has been created! Get promoting your Movement now!"
+msgstr "تم إنشاء حملتك، إبدأ بالاعلان عنها الآن!"
+
+#: From Database Table: notification_types[subject]
+msgid "Great news, You've Reached The Goal!"
+msgstr "تهانينا، لقد حققت الهدف."
+
+#: From Database Table: notification_types[subject]
+msgid "Your App is Almost Here!"
+msgstr "تطبيقك جاهز تقريبا!"
+
+#: From Database Table: notification_types[subject]
+msgid "Your App Is Now Available To Download!"
+msgstr "تطبيقك جاهز للتحميل الآن!"
+
+#: From Database Table: notification_types[subject]
+msgid "Your Movement Has Unfortunately Missed The Target"
+msgstr "للأسف حملتك لم تنجح في الوصول الى الهدف"
+
+#: From Database Table: notification_types[subject]
+msgid "You Have Successfully Supported a Movement!"
+msgstr "لقد قمت بدعم الحملة بنجاح"
+
+#: From Database Table: notification_types[subject]
+msgid "{creator_name} has posted an update about {movement_title}"
+msgstr "‏{creator_name} نشر تحديثاً عن {movement_title}"
+
+#~ msgid "Suggest"
+#~ msgstr "إقترح"
+
+#~ msgid "View Design"
+#~ msgstr "عرض التصميم"
+
+#~ msgid "%creator_name% has posted an update about %movement_title%"
+#~ msgstr "‏{creator_name} نشر تحديثاً عن {movement_title}"
+
+#~ msgid "View Contributions</div>"
+#~ msgstr "عرض المساهمات </ div>"
+
+#~ msgid ""
+#~ "A 'Geolocation Review' app allows users to rate and review anything with a "
+#~ "fixed location. An example might be a cafe, a public park or somewhere to "
+#~ "lock your bicycle. Anyone can add new points of interest to the map and "
+#~ "reviews on their own and other people's contributions."
+#~ msgstr ""
+#~ "تطبيقات ‘المواقع الجغرافية’ تسمح للمستخدمين بتقييم والتعليق على أي شيء له "
+#~ "موقع جغرافي ثابت، مثال على ذلك متنزه عام او اين يمكنك ترك دراجتك الهوائية. "
+#~ "أي شخص يستطيع أن يترك إشارة على الخريطة تنبه الى موقع له أهمية او أن يترك "
+#~ "تعليقا على هذا الموقع او على المواقع التي أشار اليها آخرون."
+
+#~ msgid "Days remaining in design phase"
+#~ msgstr "أيام المتبقية في مرحلة التصميم"
+
+#~ msgid "Please enter a comment"
+#~ msgstr "يرجى إدخال تعليق"
+
+#~ msgid "Your comment must be at least 3 characters"
+#~ msgstr "يجب أن يكون تعليقك أكثر من ٣ أحرف"
+
+#~ msgid "Your comment must be less than 500 characters"
+#~ msgstr "يجب أن يكون تعليقك أقل من ٥٠٠ حرفا"
+
+#~ msgid "Please vote up or down"
+#~ msgstr "يرجى التصويت"
+
+#~ msgid "You may only cast your vote once"
+#~ msgstr "يسمح بالتصويت مرة واحدة فقط"
+
+#~ msgid ""
+#~ "You cannot contribute to this movement as you are not a supporter or "
+#~ "promoter of this movement"
+#~ msgstr "لا يمكنك المساهمة في هذه الحركة حيث انك لست مؤيد أو مروج لهذه الحركة"
+
+#~ msgid "Please enter a contribution"
+#~ msgstr "الرجاء إدخال مساهمة"
+
+#~ msgid "Please ensure that you have entered your contribution correctly"
+#~ msgstr "يرجى التأكد من إدخال مساهمتك بشكل صحيح"
+
+#~ msgid "You have already submitted a contribution with those details"
+#~ msgstr "كنت قد قدمت مسبقا مساهمة بهذه التفاصيل"
+
+#~ msgid "Please enter a title for your movement"
+#~ msgstr "يرجى إدخال عنوان لحركتك"
+
+#~ msgid "The title must be more than 10 characters"
+#~ msgstr "يجب أن يكون العنوان أكثر من ١٠ احرف"
+
+#~ msgid "The title must be less than 50 characters"
+#~ msgstr "يجب أن يكون العنوان أقل من ٥٠ حرف"
+
+#~ msgid "Please enter a short paragraph that describes your movement"
+#~ msgstr "الرجاء إدخال نص قصير يصف حركتك"
+
+#~ msgid "The description must be more than 20 characters"
+#~ msgstr "يجب أن يكون الوصف أكثر من ٢٠ حرفا"
+
+#~ msgid "The description must be less than 140 characters"
+#~ msgstr "يجب أن يكون الوصف أقل من ١٤٠ حرفا"
+
+#~ msgid "Please enter a detailed overview of your movement"
+#~ msgstr "يرجى إدخال نظرة عامة مفصلة عن الحركة الخاص بك"
+
+#~ msgid "The overview must be more than 100 characters"
+#~ msgstr "يجب أن تكون النظرة العامة أكثر من ١٠٠ حرفا"
+
+#~ msgid "The overview must be less than 4000 characters"
+#~ msgstr "يجب أن تكون النظرة العامة أقل من ٤٠٠٠ حرفا"
+
+#~ msgid "Please select the type of app you wish to create"
+#~ msgstr "يرجى تحديد نوع التطبيق الذي ترغب في إنشائه"
+
+#~ msgid "Please select a photo for your movement"
+#~ msgstr "الرجاء اختيار صورة لحركتك"
+
+#~ msgid "Please enter an update"
+#~ msgstr "الرجاء إدخال التحديث"
+
+#~ msgid "Your update must be at least 10 characters"
+#~ msgstr "يجب أن يكون التحديث أكثر من ١٠ أحرف"
+
+#~ msgid "Your update must be less than 4000 characters"
+#~ msgstr "يجب أن يكون التحديث أقل من ٤٠٠٠ حرفا"
+
+#~ msgid "You are not the creator of this movement"
+#~ msgstr "أنت لست مُنشئ هذه الحركة"
+
+#~ msgid ""
+#~ "You can only post 2 updates per day. Please try again in a short while."
+#~ msgstr ""
+#~ "يمكنك إضافة فقط تحديثان فقط في اليوم الواحد. يرجى المحاولة مرة أخرى لاحقا."

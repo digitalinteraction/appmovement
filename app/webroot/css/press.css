@@ -1,0 +1,119 @@
+/** Press Styles **/
+
+.press-row {
+	text-align: center;
+}
+
+.press-row .page-panel {
+	margin: 30px auto 0px auto;
+}
+
+.press-col {
+	padding: 20px;
+}
+
+.press-row .press-col h2 {
+	color: #666;
+	font-size: 24px;
+	font-weight: 200;
+	margin: 30px 0px 10px 0px;
+	padding: 10px;
+}
+
+.press-section {
+	background-color: #fff;
+	border: #e1e1e1 1px solid;
+	border-radius: 6px;
+	padding: 25px;
+	text-align: left;
+}
+
+.press-section ul {
+	list-style: none;
+	margin: 0;
+	margin-top: 20px;
+	padding: 0;	
+}
+
+.press-section ul li {
+	margin: 10px 0;
+	padding: 0;
+}
+
+.press-section p {
+	color: #666;
+	margin: 0;
+	padding: 0;
+}
+
+.case-studies-section .case-study .case-study-image {
+	max-width: 100%;
+}
+
+.case-studies-section .case-study .case-studies-caption {
+	margin: 15px 0 0 0;
+}
+
+.case-studies-section .case-study .case-studies-caption h3 {
+	color: #666;
+	font-size: 21px;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+
+.case-studies-section .case-study .case-studies-caption h3:hover {
+	color: #333;
+	text-decoration: underline;
+}
+
+.case-studies-section .case-study .case-studies-caption p {
+	color: #aaa;
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+}
+
+/* Press Release Section */
+
+.press-releases-section h5 {
+	color: #999;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+.press-releases-section h5 i {
+	margin: 0px 8px;
+}
+
+.press-releases-section h5:hover {
+	color: #444;
+	text-decoration: underline;
+}
+
+.press-releases-section h5:hover i {
+	color: #4cae4c;
+}
+
+/* Brand Section */
+
+.brand-section .assets-section {
+	margin-top: 15px;
+	overflow: hidden;
+}
+
+.brand-section .asset-tile {
+	float: left;
+	max-height: 80px;
+	margin: 8px;
+	overflow: hidden;
+}
+
+.brand-section .asset-tile:hover {
+	cursor: pointer;
+}
+
+.brand-section .asset-tile img {
+	max-height: 80px;
+	max-width: 200px;
+}

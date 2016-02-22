@@ -1,0 +1,23 @@
+
+/* Name Task Styles */
+
+.name-tile {
+	background-color: #FFF;
+	border: #DDD 1px solid;
+	border-radius: 4px;
+}
+
+.name-tile table {
+	width: 100%;
+}
+
+.name-tile table td {
+	text-align: center;
+}
+
+.name-tile table h3 {
+	font-size: 16px;
+	margin: 0px;
+	padding: 10px 10px 10px 10px;
+	word-break: break-all;
+}
